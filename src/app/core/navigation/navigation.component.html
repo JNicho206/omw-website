@@ -1,4 +1,73 @@
+<section >
+  <!-- <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-md-6 text-center mb-5">
+        <h2 class="heading-section">Website menu #02</h2>
+        <a class="navbar-brand" [routerLink]="['/']">
+          <div class="logo-image">
+            <img src="../../../assets/OurMathWorld.png" class="img-fluid">
+      </div>
+        </a>
+      </div>
+    </div>
+  </div> -->
+  
+  <div class="container">
+    <div class="row justify-content-between">
+      <div class="col">
+        <a class="navbar-brand" [routerLink]="['/']">
+          <div class="logo-image">
+            <img src="../../../assets/OurMathWorld.png" class="img-fluid">
+      </div>
+        </a>
+      </div>
+      <div class="col d-flex justify-content-end">
+        <div class="social-media">
+          <p class="mb-0 d-flex">
+            <a href="#" class="d-flex align-items-center justify-content-center"><span class="fab fa-facebook"> <fa-icon [icon]="['fab', 'facebook']"></fa-icon></span></a>
+            <a href="#" class="d-flex align-items-center justify-content-center"><span class="fab fa-twitter"><fa-icon [icon]="['fab', 'twitter']"></fa-icon></span></a>
+            <a href="#" class="d-flex align-items-center justify-content-center"><span class="fab fa-instagram"><fa-icon [icon]="['fab', 'instagram']"></fa-icon></span></a>
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <nav class="navbar navbar-expand-lg navbar-dark ftco_navbar bg-dark ftco-navbar-light" id="ftco-navbar">
+    <div class="container">
+    
+      <!-- <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ftco-nav" aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="fa fa-bars"></span> Menu
+      </button>
+      <form action="#" class="searchform order-lg-last">
+        <div class="form-group d-flex">
+          <input type="text" class="form-control pl-3" placeholder="Search">
+          <button type="submit" placeholder="" class="form-control search"><span class="fa fa-search"></span></button>
+        </div>
+      </form> -->
+      <div class="collapse navbar-collapse" id="ftco-nav">
+        <ul class="navbar-nav mr-auto">
+          <li class="nav-item active"><a [routerLink]="['/']" [routerLinkActive]="['active']" class="nav-link">Home</a></li>
+          <!-- <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="dropdown04" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Page</a>
+            <div class="dropdown-menu" aria-labelledby="dropdown04">
+              <a class="dropdown-item" [routerLink]="['/books']">Page 1</a>
+              <a class="dropdown-item" [routerLink]="['/']">Page 2</a>
+              <a class="dropdown-item" [routerLink]="['/']">Page 3</a>
+              <a class="dropdown-item" [routerLink]="['/']">Page 4</a>
+            </div>
+          </li> -->
+          <li class="nav-item"><a [routerLink]="['/books']" class="nav-link">World Books</a></li>
+          <li class="nav-item"><a [routerLink]="['/bios']" class="nav-link">Math Doer Bios</a></li>
+          <li class="nav-item"><a [routerLink]="['/team']" class="nav-link">World Team</a></li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+  <!-- END nav -->
 
+</section>
+
+<!-- 
 <nav class="navbar navbar-expand-xl navbar-light bg-light">
     <div class="container-fluid">
       <a class="navbar-brand" [routerLink]="['/']">
@@ -13,75 +82,23 @@
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav me-auto mb-2 mb-lg-0">
           <li class="nav-item">
-            <a class="nav-link active" aria-current="page" [routerLink]="['/']">Home</a>
+            <a class="nav-link active" aria-current="page" [routerLinkActive]="['active']" [routerLink]="['/']">Home</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">Link</a>
+            <a class="nav-link" [routerLink]="['/books']">World Books</a>
           </li>
-          <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown"
-              aria-expanded="false">
-              Dropdown
-            </a>
-            <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-              <li><a class="dropdown-item" href="#">Action</a></li>
-              <li><a class="dropdown-item" href="#">Another action</a></li>
-              <li>
-                <hr class="dropdown-divider">
-              </li>
-              <li><a class="dropdown-item" href="#">Something else here</a></li>
-            </ul>
+         <li class="nav-item">
+            <a class="nav-link" [routerLink]="['/bios']">Math Doer Bios</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
-          </li>
+             <a class="nav-link" [routerLink]="['/team']">World Team</a>
+           </li>
+        
         </ul>
-        <form class="d-flex">
+       <form class="d-flex"> 
           <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
           <button class="btn btn-outline-dark" type="submit">Search</button>
-        </form>
+        </form> 
       </div>
     </div>
-    </nav>
-
-<!-- 
-<a [routerLink]="['/']">
-    <h1>Home</h1>
-  </a>
-  
-<a [routerLink]="['/products']">
-  <h1>Products</h1>
-</a>
-
-
-<a class="button fancy-button"><i class="material-icons">shopping_cart</i>Checkout</a>  -->
-<!-- 
-<div class="container-fluid p-0">
-  <nav class="navbar navbar-expand-lg bg-dark navbar-dark py-3 py-lg-0 px-lg-5">
-      <a href="" class="navbar-brand d-block d-lg-none">
-          <h1 class="m-0 display-5 text-capitalize font-italic text-white"><span class="text-primary">Safety</span>First</h1>
-      </a>
-      <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
-          <span class="navbar-toggler-icon"></span>
-      </button>
-      <div class="collapse navbar-collapse justify-content-between px-3" id="navbarCollapse">
-          <div class="navbar-nav mr-auto py-0">
-              <a href="index.html" class="nav-item nav-link active">Home</a>
-              <a href="about.html" class="nav-item nav-link">About</a>
-              <a href="service.html" class="nav-item nav-link">Service</a>
-              <a href="price.html" class="nav-item nav-link">Price</a>
-              <a href="booking.html" class="nav-item nav-link">Booking</a>
-              <div class="nav-item dropdown">
-                  <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Pages</a>
-                  <div class="dropdown-menu rounded-0 m-0">
-                      <a href="blog.html" class="dropdown-item">Blog Grid</a>
-                      <a href="single.html" class="dropdown-item">Blog Detail</a>
-                  </div>
-              </div>
-              <a href="contact.html" class="nav-item nav-link">Contact</a>
-          </div>
-          <a href="" class="btn btn-lg btn-primary px-3 d-none d-lg-block">Get Quote</a>
-      </div>
-  </nav>
-</div>
-Navbar End -->
+</nav> -->

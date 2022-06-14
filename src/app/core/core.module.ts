@@ -2,6 +2,7 @@ import { NgModule, Optional, SkipSelf } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { RouterModule } from '@angular/router';
 import { HttpClientModule, HTTP_INTERCEPTORS } from '@angular/common/http';
+import { FontAwesomeModule  } from '@fortawesome/angular-fontawesome';
 
 // import { GrowlerModule } from './growler/growler.module';
 // import { ModalModule } from './modal/modal.module';
@@ -17,14 +18,15 @@ import { NavigationComponent } from './navigation/navigation.component';
 // import { TrackByService } from './services/trackby.service';
 // import { DialogService } from './services/dialog.service';
 import { EnsureModuleLoadedOnceGuard } from './ensure-module-loaded-once.guard';
+import { FooterComponent } from './footer/footer.component';
 // import { AuthService } from './services/auth.service';
 // import { EventBusService } from './services/event-bus.service';
 // import { AuthInterceptor } from './interceptors/auth.interceptor';
 
 @NgModule({
-  imports: [CommonModule, RouterModule, HttpClientModule],
-  exports: [RouterModule, HttpClientModule, NavigationComponent],
-  declarations: [NavigationComponent],
+  imports: [CommonModule, RouterModule, HttpClientModule,FontAwesomeModule],
+  exports: [RouterModule, HttpClientModule, NavigationComponent,FooterComponent],
+  declarations: [NavigationComponent, FooterComponent],
   // providers: [SorterService, FilterService, DataService, TrackByService,
   //   DialogService, AuthService, EventBusService,
   //   {

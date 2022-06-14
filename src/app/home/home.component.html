@@ -1,50 +1,61 @@
+<ngb-carousel *ngIf="images">
+  <ng-template ngbSlide>
+    <div class="wrapper">
+      <img [src]="images[0]" alt="Random first slide">
+    </div>
+    <div class="carousel-caption">
+      <h3>First Slide</h3>
+      <p> example text for slide </p>
+    </div>
+  </ng-template>
+  <ng-template ngbSlide>
+    <div class="wrapper">
+      <img [src]="images[1]" alt="Random second slide">
+    </div>
+    <div class="carousel-caption">
+      <h3>Second Slide</h3>
+      <p> more example text</p>
+    </div>
+  </ng-template>
+  <ng-template ngbSlide>
+    <div class="wrapper">
+      <img [src]="images[2]"  alt="Random third slide">
+    </div>
+    <div class="carousel-caption">
+      <h3>Third Slide</h3>
+      <p>this is the third example text</p>
+    </div>
+  </ng-template>
+</ngb-carousel>
 
-<div class="container-fluid py-3">
-    <div class="row my-3">
-      <div class="col">
-        <label for="exampleFormControlInput1" class="form-label">Email address</label>
-        <input type="email" class="form-control form-control-sm" id="exampleFormControlInput1" placeholder="name@example.com">
-      </div>
-    </div>
-    <div class="row my-3">
-      <div class="col">
-        <label for="exampleFormControlTextarea1" class="form-label">Example textarea</label>
-        <textarea class="form-control form-control-sm" id="exampleFormControlTextarea1" rows="3"></textarea>
-      </div>
-    </div>
-    <div class="row my-3">
-      <div class="col">
-        <div class="form-check form-switch">
-          <input class="form-check-input" type="checkbox" id="flexSwitchCheckDefault">
-          <label class="form-check-label" for="flexSwitchCheckDefault">Default switch checkbox input</label>
-        </div>
-      </div>
-    </div>
-    <div class="row my-3">
-      <div class="col">
-        <button class="btn btn-sm btn-outline-primary" (click)="open(demoModal)">Launch demo modal</button>
-      </div>
-    </div>
-    </div>
-    
-    <ng-template #demoModal let-modal>
-    <div class="modal-header">
-      <h4 class="modal-title" id="modal-basic-title">Profile update</h4>
-      <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close" (click)="modal.dismiss('Cross click')"></button>
-    </div>
-    <div class="modal-body">
-      <!-- <form>
-        <div class="form-group">
-          <label for="dateOfBirth">Date of birth</label>
-          <div class="input-group">
-            <input id="dateOfBirth" name="dateOfBirth" class="form-control" placeholder="yyyy-mm-dd" ngbDatepicker #dp="ngbDatepicker">
-            <button type="button" class="btn btn-outline-secondary bi bi-calendar" (click)="dp.toggle()"></button>
+    <!-- About Start -->
+    <div class="container py-5">
+      <div class="row py-5">
+          <div class="col-lg-7 pb-5 pb-lg-0 px-3 px-lg-5">
+              <h4 class="text-secondary mb-3">About Us</h4>
+              <!-- <h1 class="display-4 mb-4"><span class="text-primary">Boarding</span> & <span class="text-secondary">Daycare</span></h1> -->
+              <h5 class="text-muted mb-3">We believe all children are capable "math doers". However, there is often a lack of representation and a lack of belief in the strengths, skills, and experiences that children bring. As a consequence, children can experience math as boring or too difficult.</h5>
+              <p class="mb-4">What if we switched our focus to what students know and bring to school? What if we taught students about math in their communities and the representative history of math? What if we strengthened the precursory skills that we know are necessary for math achievement (working memory, inhibition, persistence, etc.) What if we helped children understand their strengths and build their identity and agency as "math doers"? Rather than asking students to leave parts of themselves out of the math classroom, we invite the whole child into school and make high-level math learning skills part of their personal narrative. We encourage marginalized students to engage with math in ways that are congruent with knowledge sharing in their communities.</p>
+              <!-- <ul class="list-inline">
+                  <li><h5><i class="fa fa-check-double text-secondary mr-3"></i>Best In Industry</h5></li>
+                  <li><h5><i class="fa fa-check-double text-secondary mr-3"></i>Emergency Services</h5></li>
+                  <li><h5><i class="fa fa-check-double text-secondary mr-3"></i>24/7 Customer Support</h5></li>
+              </ul> -->
+              <a href="" class="btn btn-lg btn-primary mt-3 px-4">Learn More</a>
           </div>
-        </div>
-      </form> -->
-    </div>
-    <div class="modal-footer">
-      <button type="button" class="btn btn-outline-dark" (click)="modal.close('Save click')">Save</button>
-    </div>
-    </ng-template>
-    
+          <div class="col-lg-5">
+              <div class="row px-3">
+                  <div class="col-12 p-0">
+                      <img class="img-fluid w-100" src="../../assets/about-1.jpg" alt="">
+                  </div>  
+                  <div class="col-6 p-0">
+                      <img class="img-fluid w-100" src="../../assets/about-2.jpg" alt="">
+                  </div>
+                  <div class="col-6 p-0">
+                      <img class="img-fluid w-100" src="../../assets/about-3.jpg" alt="">
+                  </div>
+              </div>
+          </div>
+      </div>
+  </div>
+  <!-- About End -->

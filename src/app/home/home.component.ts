@@ -1,20 +1,29 @@
 import { Component, OnInit } from '@angular/core';
-import { NgbModal } from '@ng-bootstrap/ng-bootstrap';
+import { NgbCarouselConfig } from '@ng-bootstrap/ng-bootstrap';
 
 @Component({
   selector: 'app-home',
   templateUrl: './home.component.html',
-  styleUrls: ['./home.component.scss']
+  styleUrls: ['./home.component.scss'],
+  providers: [NgbCarouselConfig]
 })
 export class HomeComponent implements OnInit {
 
-  constructor(private modalService: NgbModal) { }
+  // constructor(private modalService: NgbModal) { }
+  
+  images = [700, 800, 807].map((n) => `https://picsum.photos/id/${n}/900/500`);
 
+  constructor(config: NgbCarouselConfig) {
+    // carrosel configuation
+    config.interval = 4000;
+    config.keyboard = true;
+    config.pauseOnHover = true;
+  }
   ngOnInit(): void{
   }
 
 
-  public open(modal: any): void {
-    this.modalService.open(modal);
-  }
+  // public open(modal: any): void {
+  //   this.modalService.open(modal);
+  // }
 }
