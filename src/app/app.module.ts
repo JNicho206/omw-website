@@ -24,7 +24,8 @@ import { TeamComponent } from './team/team.component';
     CoreModule,
     FontAwesomeModule,
     RouterModule.forRoot([
-      { path: '', component: HomeComponent },
+      { path: '', redirectTo: '/home', pathMatch: 'full' },
+      { path: 'home', component: HomeComponent },
       { path: 'bios', component: BiosComponent },
       { path: 'books', component: BooksComponent },
       { path: 'team', component: TeamComponent }

@@ -1,6 +1,8 @@
 import { Component, OnInit } from '@angular/core';
 import { NgbCarouselConfig } from '@ng-bootstrap/ng-bootstrap';
 
+import { faFacebook,faTwitter,faInstagram,faLinkedin } from '@fortawesome/free-brands-svg-icons';
+  
 @Component({
   selector: 'app-home',
   templateUrl: './home.component.html',
@@ -9,6 +11,10 @@ import { NgbCarouselConfig } from '@ng-bootstrap/ng-bootstrap';
 })
 export class HomeComponent implements OnInit {
 
+  facebook = faFacebook;
+  twitter =faTwitter;
+  instagram = faInstagram;
+  linkedin = faLinkedin;
   // constructor(private modalService: NgbModal) { }
   
   images = [700, 800, 807].map((n) => `https://picsum.photos/id/${n}/900/500`);

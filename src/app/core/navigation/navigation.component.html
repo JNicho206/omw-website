@@ -15,7 +15,7 @@
   <div class="container">
     <div class="row justify-content-between">
       <div class="col">
-        <a class="navbar-brand" [routerLink]="['/']">
+        <a class="navbar-brand" [routerLink]="['/home']">
           <div class="logo-image">
             <img src="../../../assets/OurMathWorld.png" class="img-fluid">
       </div>
@@ -46,7 +46,7 @@
       </form> -->
       <div class="collapse navbar-collapse" id="ftco-nav">
         <ul class="navbar-nav mr-auto">
-          <li class="nav-item active"><a [routerLink]="['/']" [routerLinkActive]="['active']" class="nav-link">Home</a></li>
+          <li class="nav-item" [routerLinkActive]="['active']"><a [routerLink]="['/home']" class="nav-link">Home</a></li>
           <!-- <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" id="dropdown04" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Page</a>
             <div class="dropdown-menu" aria-labelledby="dropdown04">
@@ -56,9 +56,9 @@
               <a class="dropdown-item" [routerLink]="['/']">Page 4</a>
             </div>
           </li> -->
-          <li class="nav-item"><a [routerLink]="['/books']" class="nav-link">World Books</a></li>
-          <li class="nav-item"><a [routerLink]="['/bios']" class="nav-link">Math Doer Bios</a></li>
-          <li class="nav-item"><a [routerLink]="['/team']" class="nav-link">World Team</a></li>
+          <li class="nav-item"  [routerLinkActive]="['active']"><a [routerLink]="['/books']" class="nav-link">World Books</a></li>
+          <li class="nav-item"  [routerLinkActive]="['active']" ><a [routerLink]="['/bios']"class="nav-link">Math Doer Bios</a></li>
+          <li class="nav-item"  [routerLinkActive]="['active']" ><a [routerLink]="['/team']" class="nav-link">World Team</a></li>
         </ul>
       </div>
     </div>
