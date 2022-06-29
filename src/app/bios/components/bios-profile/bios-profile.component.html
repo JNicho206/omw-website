@@ -1,0 +1,82 @@
+<div class="container biosprofile" *ngIf="biosprofile">
+    <div class="row">
+      <div class="col yellowbg">
+        <h3 class="text-15 paddingtitle">OURMATHWORLD.COM</h3>
+        <p class="whitetext text-30">{{biosprofile.jobtitle}}</p>
+      </div>
+      <div class="col-7">
+        <div class="row">
+            <div class="col">
+                <div >
+                    <img class="profile-logo-image" src="'../../../../assets/OurMathWorld.png" alt="">
+                </div>
+            </div>
+            <div class="col-8">
+                <div class="job-titles paddingtitle"> 
+                    <span *ngFor="let job of biosprofile.jobs"> 
+                        | {{job}}
+                    </span>|
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col">
+                <h1 class="display-4 m-0"><span class="text-primary">{{biosprofile.fullname}}</span></h1>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+      <div class="col-4 darkgraybg whitetext text-20">
+        <p>"{{biosprofile.quote}}"</p>
+      </div>
+      <div class="col bio-profile-img-div">
+        <img class="bio-profile-img " src="{{'../../../../assets/bioimg/'+ biosprofile.profileimage}}" alt="">
+      </div>
+      <div class="col-4 yellowbg text-20">
+        <p>Pronunciation: {{'{'}}{{biosprofile.pronunciation}}{{'}'}}</p>
+        <p class="lifetext">Life: {{biosprofile.life}}</p>
+        <p class="othertext">Location: {{biosprofile.location}}</p>
+        <p class="othertext">Known For: {{biosprofile.knownfor}}</p>
+      </div>
+    </div>
+    
+    <div class="row">
+        <div class="col yellowbg">
+          <h1 class="whitetext text-35">MATH HERO</h1>
+          
+          <p class="">{{biosprofile.mathhero}}</p>
+          
+          <ul class="bulletlinks">
+              <li *ngFor="let link of biosprofile.mathherobullet; let i = index">
+                <a [routerLink]="" (click)="getlinkfromlistbyindex(i)" class="link-dark">{{link}}</a>
+              </li>
+          </ul>
+          
+          <p class="">Fun Fact: {{biosprofile.funfact}}</p>
+          <div class="col bio-profile-img-div">
+            <img class="bio-profile-img " src="{{'../../../../assets/bioimg/'+ biosprofile.profileimage2}}" alt="">
+          </div>
+
+        </div>
+        <div class="col-7">
+          
+          <h1 class="display-4 m-0"><span class="text-primary text-35">{{biosprofile.jobdescription}}</span></h1>
+          
+          <ul class="bulletlinks text-20">
+            <li>
+              <span><a [routerLink]="" (click)="getjobnamelink()" class="link-dark">{{biosprofile.namelinktext}}</a> {{biosprofile.nametext}}</span>
+            </li>
+            <li *ngFor="let description of biosprofile.jobdescriptionbullets">
+              <p>{{description}}</p>
+            </li>
+          </ul>
+          <h1 class="display-4 m-0"><span class="text-primary job-reference">REFERENCES</span></h1>
+
+          <ul class="bulletlinks ">
+            <li *ngFor="let link of biosprofile.references; let i = index">
+              <a [routerLink]="" (click)="getreferencelinkbyindex(i)" class="link-dark">{{link}}</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+  </div>

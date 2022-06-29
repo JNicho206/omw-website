@@ -1,4 +1,6 @@
 import { Component, OnInit } from '@angular/core';
+import { BiographyProfile } from './models/biographyprofile';
+import { BiosService } from './service/bios.service';
 
 @Component({
   selector: 'app-bios',
@@ -6,10 +8,13 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./bios.component.scss']
 })
 export class BiosComponent implements OnInit {
-
-  constructor() { }
+  biographylist: BiographyProfile[];
+  constructor(private biosservice: BiosService) { }
 
   ngOnInit(): void {
+    this.biosservice.getallbios().subscribe(data => {
+      this.biographylist = data;
+    });
   }
 
 }

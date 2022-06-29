@@ -6,6 +6,7 @@
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
 
+ $font-weight-bold:            700 !default;
  $card-spacer-x:                     1.25rem !default;
  $card-color:                        null !default;
  :root {
@@ -135,23 +136,32 @@
   
   sup {
     top: -.5em; }
+    a {
+      color: #ED6436;
+      text-decoration: none;
+      background-color: transparent;
+      &:hover {
+        color: #b94017;
+        text-decoration: underline;
+        background-color: transparent;
+      }
+  }
+  // a {
+  //   color: #007bff;
+  //   text-decoration: none;
+  //   background-color: transparent; }
+  //   a:hover {
+  //     color: #0056b3;
+  //     text-decoration: underline; }
   
-  a {
-    color: #007bff;
-    text-decoration: none;
-    background-color: transparent; }
-    a:hover {
-      color: #0056b3;
-      text-decoration: underline; }
-  
-  a:not([href]):not([tabindex]) {
-    color: inherit;
-    text-decoration: none; }
-    a:not([href]):not([tabindex]):hover, a:not([href]):not([tabindex]):focus {
-      color: inherit;
-      text-decoration: none; }
-    a:not([href]):not([tabindex]):focus {
-      outline: 0; }
+  // a:not([href]):not([tabindex]) {
+  //   color: inherit;
+  //   text-decoration: none; }
+  //   a:not([href]):not([tabindex]):hover, a:not([href]):not([tabindex]):focus {
+  //     color: inherit;
+  //     text-decoration: none; }
+  //   a:not([href]):not([tabindex]):focus {
+  //     outline: 0; }
   
   pre,
   code,
@@ -7987,7 +7997,8 @@
   
   .font-weight-bolder {
     font-weight: bolder !important; }
-  
+    .font-weight-bold    { font-weight: $font-weight-bold !important; }
+
   .font-italic {
     font-style: italic !important; }
   
@@ -8001,7 +8012,7 @@
     color: #0056b3 !important; }
   
   .text-secondary {
-    color: #6c757d !important; }
+    color: black !important; }
   
   a.text-secondary:hover, a.text-secondary:focus {
     color: #494f54 !important; }
@@ -8184,7 +8195,7 @@
     background-position: center center; }
   
   .ftco-navbar-light {
-    background: #202040 !important;
+    background: black !important;
     z-index: 3;
     padding: 0; }
     @media (max-width: 991.98px) {
@@ -8374,7 +8385,7 @@
       
 .footer {
     // background: url(../images/footer.jpg);
-    background-color: #202040;
+    background-color: black;
     background-repeat: no-repeat;
     background-size: 100% 100%;
     // padding-top: 115px;
@@ -8500,13 +8511,13 @@ body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
 }
 
 
-.text-secondary {
-  color: #65C178 !important;
-}
+// .text-secondary {
+//   color: black !important;
+// }
 
-a.text-secondary:hover, a.text-secondary:focus {
-  color: #3e9b52 !important;
-}
+// a.text-secondary:hover, a.text-secondary:focus {
+//   color: #3e9b52 !important;
+// }
 
 
 .card-img,

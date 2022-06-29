@@ -26,7 +26,11 @@ import { TeamComponent } from './team/team.component';
     RouterModule.forRoot([
       { path: '', redirectTo: '/home', pathMatch: 'full' },
       { path: 'home', component: HomeComponent },
-      { path: 'bios', component: BiosComponent },
+      // { path: 'bios', component: BiosComponent },
+      {
+        path: 'bios',
+        loadChildren: () => import('./bios/bios.module').then(m => m.BiosModule)
+      },
       { path: 'books', component: BooksComponent },
       { path: 'team', component: TeamComponent }
     ]),
@@ -35,7 +39,7 @@ import { TeamComponent } from './team/team.component';
   declarations: [
     AppComponent,
     HomeComponent,
-    BiosComponent,
+    // BiosComponent,
     BooksComponent,
     TeamComponent
   ],

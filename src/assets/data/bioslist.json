@@ -1,0 +1,44 @@
+[
+    {
+        "id":1, 
+        "fullname":"KIKI BOKUNGU LOUYA",
+        "quote":"IF I SEE A PROBLEM, AND I CAN FIGURE OUT A FIX, THEN I’M GOING TO ADDRESS THAT PROBLEM",
+        "jobtitle": "CHEF & ACTIVIST",
+        "jobs": ["CHEF","ACTIVIST","URBAN FARMER"],
+    
+        "life": "1982-present",
+        "pronunciation": "key-key boh-KHUN-goo lou-ya",
+        "location": "Detroit, MI",
+        "knownfor": "Chef, and activist for equitable and healthy food systems.",
+    
+        "mathhero": "Chefs like Kiki prepare food using recipes that include math:",
+        "mathherobullet": ["Measurement","Fractions","Mixed numbers","Weights","Temperature"],
+        "mathherobulletlinks": [
+            "https://drive.google.com/file/d/1YWBvct7Q5CgPZ4aSt7JuYuEkjr1H7bnp/view",
+            "https://drive.google.com/file/d/1oD-OlgK1Z5iTDk7hXC8KMazKOoOeHi0i/view",
+            "https://drive.google.com/file/d/1N0xwERzZKVvRMh7D8F4gFytUZ2fMk0kZ/view",
+            "https://drive.google.com/file/d/1xOMt4bzuUFq5kmkviztWZgmbh9DFOleZ/view",
+            "https://drive.google.com/file/d/1LCvtgI97tgCvVEy7uKO3dU6T0r8CzuMp/view"],
+        "funfact": "Kiki founded a gourmet grocery store called “Farmers Hand” so her community could have access to food from local farms.",
+    
+        "jobdescription": "URBAN FOOD ADVOCATE",
+        "namelinktext":"Kiki Bokungu Louya",
+        "namelink":"https://www.youtubetrimmer.com/view/?v=fqRTKkHobCk&start=435&end=512&loop=0",
+        "nametext":"is an award-winning chef from Detroit, Michigan.",
+        "jobdescriptionbullets": ["Her companies and restaurants are interested in providing communities healthy foods supplied by local farmers. Her organizations support the fair treatment of food and farm workers."
+                                ,"Kiki combines her love of math, problem solving, and science with her cooking skills"
+                                ,"She competed on the TV show Top Chef: Portland"],
+        "references": ["Kiki Louya top chef portland detroit restaurateur."
+                        ,"Moskin, J. (2019, July 16). Black Chefs Changing Food in America."
+                        ,"K. Kiki Bokungu Louya."
+                    ],
+        "referenceslinks": ["https://detroit.eater.com/22431734/kiki-louya-top-chef-portland-detroit-restaurateur-farmers-hand-folk-mink-selden-standard"
+                        ,"https://www.nytimes.com/interactive/2019/07/16/dining/black-chefs-restaurants-food.html"
+                        ,"https://www.kikilouya.com"
+                    ],
+        "profileimage": "Kiki_B_Louya.jpg",
+        "profileimage2": "Kiki_B_Louyaimg2.jpg",
+        "photocreditimage": ""
+    }
+    
+]

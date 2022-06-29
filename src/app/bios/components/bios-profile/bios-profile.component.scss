@@ -1,0 +1,81 @@
+
+.biosprofile {
+    color:black;
+    h3{
+      color: black
+      
+    }
+    .profile-logo-image{
+      width: 150px;
+      height: 75px;
+      border-radius: 50%;
+      overflow: hidden;
+      margin-top: -6px;
+    }
+    .job-titles{
+        text-align: right;
+        margin-right: 10px;
+    }
+    .yellowbg{
+        background-color: #f1bc31 ;
+    }
+    .darkgraybg{
+        background-color: gray ;
+    }
+    .whitetext{
+        
+        color: white;
+    }
+    
+    .bio-profile-img {
+        width: 100%;
+
+    }
+    .bio-profile-img-div {
+        margin-left: -15px;
+        margin-right: -15px;
+
+    }
+    .lifetext{
+        font-weight: bold;
+        margin-bottom: -5px;
+    }
+    .othertext{
+        margin-bottom: -5px;
+    }
+    
+    ul.bulletlinks {
+        list-style-type:  square;
+        margin-left: 30px;
+    }
+    a{
+        color: black;
+        text-decoration: underline;
+    }
+    a:hover {
+        color: navy;
+      }
+
+    .job-header{
+        font-size: 35px;
+    }
+    .job-reference{
+        font-size: 16px;
+    }
+    .text-15{
+        font-size: 15px;
+    }
+    .text-20{
+        font-size: 20px;
+    }
+    .text-30{
+        font-size: 30px;
+    }
+    .text-35{
+        font-size: 35px;
+    }
+    .paddingtitle{
+        padding-top: 15px;
+        padding-bottom: 15px;
+    }
+  }
