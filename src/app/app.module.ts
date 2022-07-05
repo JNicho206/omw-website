@@ -14,7 +14,6 @@ import { RouterModule } from '@angular/router';
 import { HomeComponent } from './home/home.component';
 import { BiosComponent } from './bios/bios.component';
 import { BooksComponent } from './books/books.component';
-import { TeamComponent } from './team/team.component';
 
 @NgModule({
   imports: [
@@ -26,22 +25,22 @@ import { TeamComponent } from './team/team.component';
     RouterModule.forRoot([
       { path: '', redirectTo: '/home', pathMatch: 'full' },
       { path: 'home', component: HomeComponent },
-      // { path: 'bios', component: BiosComponent },
       {
         path: 'bios',
         loadChildren: () => import('./bios/bios.module').then(m => m.BiosModule)
       },
       { path: 'books', component: BooksComponent },
-      { path: 'team', component: TeamComponent }
+      {
+        path: 'team',
+        loadChildren: () => import('./team/team.module').then(m => m.TeamModule)
+      }
     ]),
     BrowserAnimationsModule
   ],
   declarations: [
     AppComponent,
     HomeComponent,
-    // BiosComponent,
     BooksComponent,
-    TeamComponent
   ],
   bootstrap: [
     AppComponent,

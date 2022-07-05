@@ -1,0 +1,13 @@
+
+    <!-- Team Start -->
+    <div class="container mt-5 pt-5 pb-3">
+        <div class="d-flex flex-column text-center mb-5">
+            <h4 class="text-secondary mb-3">Team Member</h4>
+            <h1 class="display-4 m-0">Meet Our <span class="text-primary">Team Member</span></h1>
+        </div>
+        <app-team-list [teamTypeName]="'District Partners'" [teamlist]="dpteamlist" ></app-team-list>
+        <app-team-list [teamTypeName]="'Research & Development'" [teamlist]="randdteamlist" ></app-team-list>
+        <app-team-list [teamTypeName]="'Former District Partners'" [teamlist]="formerdpteamlist" ></app-team-list>
+        <app-team-list [teamTypeName]="'Former Research & Development'" [teamlist]="fromerranddteamlist" ></app-team-list>
+    </div>
+    <!-- Team End -->
