@@ -14,6 +14,7 @@ import { RouterModule } from '@angular/router';
 import { HomeComponent } from './home/home.component';
 import { BiosComponent } from './bios/bios.component';
 import { BooksComponent } from './books/books.component';
+import { BooksListComponent } from './books/components/books-list/books-list.component';
 
 @NgModule({
   imports: [
@@ -29,7 +30,10 @@ import { BooksComponent } from './books/books.component';
         path: 'bios',
         loadChildren: () => import('./bios/bios.module').then(m => m.BiosModule)
       },
-      { path: 'books', component: BooksComponent },
+      {
+        path: 'books',
+        loadChildren: () => import('./books/books.module').then(m => m.BooksModule)
+      },
       {
         path: 'team',
         loadChildren: () => import('./team/team.module').then(m => m.TeamModule)
@@ -40,7 +44,6 @@ import { BooksComponent } from './books/books.component';
   declarations: [
     AppComponent,
     HomeComponent,
-    BooksComponent,
   ],
   bootstrap: [
     AppComponent,
