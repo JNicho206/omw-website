@@ -1,5 +1,5 @@
 import { Component, Input, OnInit } from '@angular/core';
-import { TeamProfile } from '../models/teamprofile';
+import { TeamProfile } from '../../models/teamprofile';
 
 @Component({
   selector: 'app-team-list',
