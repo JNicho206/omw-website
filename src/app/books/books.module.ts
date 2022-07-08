@@ -4,6 +4,8 @@ import { RouterModule } from '@angular/router';
 import { BooksComponent } from './books.component';
 import { BooksListComponent } from './components/books-list/books-list.component';
 import { BookComponent } from './components/book/book.component';
+import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
+import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
 
 
 
@@ -13,6 +15,8 @@ import { BookComponent } from './components/book/book.component';
     BookComponent],
   imports: [
     CommonModule,
+    NgbModule,
+    // BrowserAnimationsModule,
     RouterModule.forChild([
       // { path: '', redirectTo: '/home', pathMatch: 'full' },
       { 

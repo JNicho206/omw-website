@@ -5,6 +5,7 @@ export interface Book {
     writtinby: string;
     illistratedby: string;
     coverimg: string;
+    bookimagesfoldername: string;
     pagesimages: [string];
     pagestexts: [string];
 }

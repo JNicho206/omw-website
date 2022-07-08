@@ -1,1 +1,21 @@
-<p>book works!</p>
+    <div class="container mt-5 pt-5 pb-3" *ngIf="book">
+        <div class="d-flex flex-column text-center mb-5">
+            <h4 class="text-secondary mb-3">{{book.maintitle}}</h4>
+            <h1 class="display-4 m-0"> <span class="text-primary">{{book.title}}</span></h1>
+        </div>
+
+        <!-- <div class="col book-img-div">
+            <img class="book-img " src="{{'../../../../assets/books/'+ book.bookimagesfoldername + '/' + currentbookimage}}" alt="">
+        </div> -->
+        <ngb-carousel [showNavigationArrows]="true" >
+            <ng-template ngbSlide *ngFor="let image of book.pagesimages; let i = index">
+              <div class="wrapper">
+                <img src="{{'../../../../assets/books/'+ book.bookimagesfoldername + '/' + image}}" alt="{{book.title}}">
+              </div>
+              <div class="carousel-caption">
+                <!-- <h3>Listen</h3> -->
+                <button (click)="playaudio(i)">Play Audio</button>
+              </div>
+            </ng-template>
+          </ngb-carousel>
+    </div>

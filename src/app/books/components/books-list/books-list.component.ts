@@ -1,4 +1,5 @@
 import { Component, Input, OnInit } from '@angular/core';
+import { ActivatedRoute, Router } from '@angular/router';
 import { Book } from '../../model/book';
 
 @Component({
@@ -9,9 +10,13 @@ import { Book } from '../../model/book';
 export class BooksListComponent implements OnInit {
 
   @Input() booklist : Book[] ;
-  constructor() { }
+  constructor(private route: ActivatedRoute,
+             private router: Router) { }
 
   ngOnInit(): void {
   }
 
+  gotobook(bookid){
+    this.router.navigate(['book', bookid ], { relativeTo: this.route });
+  }
 }
