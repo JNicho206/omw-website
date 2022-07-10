@@ -13,17 +13,12 @@
     
         "mathhero": "Chefs like Kiki prepare food using recipes that include math:",
         "mathherobullet": [
-            "Measurement",
-            "Fractions",
-            "Mixed numbers",
-            "Weights",
-            "Temperature"],
-        "mathherobulletlinks": [
-            "https://drive.google.com/file/d/1YWBvct7Q5CgPZ4aSt7JuYuEkjr1H7bnp/view",
-            "https://drive.google.com/file/d/1oD-OlgK1Z5iTDk7hXC8KMazKOoOeHi0i/view",
-            "https://drive.google.com/file/d/1N0xwERzZKVvRMh7D8F4gFytUZ2fMk0kZ/view",
-            "https://drive.google.com/file/d/1xOMt4bzuUFq5kmkviztWZgmbh9DFOleZ/view",
-            "https://drive.google.com/file/d/1LCvtgI97tgCvVEy7uKO3dU6T0r8CzuMp/view"],
+            "<a href='https://drive.google.com/file/d/1YWBvct7Q5CgPZ4aSt7JuYuEkjr1H7bnp/view' target='_blank' class='link-primary'>Measurement</a>",
+            "<a href='https://drive.google.com/file/d/1oD-OlgK1Z5iTDk7hXC8KMazKOoOeHi0i/view' target='_blank' class='link-primary'>Fractions</a>",
+            "<a href='https://drive.google.com/file/d/1N0xwERzZKVvRMh7D8F4gFytUZ2fMk0kZ/view' target='_blank' class='link-primary'>Mixed numbers</a>",
+            "<a href='https://drive.google.com/file/d/1xOMt4bzuUFq5kmkviztWZgmbh9DFOleZ/view' target='_blank' class='link-primary'>Weights</a>",
+            "<a href='https://drive.google.com/file/d/1LCvtgI97tgCvVEy7uKO3dU6T0r8CzuMp/view' target='_blank' class='link-primary'>Temperature</a>"
+        ],
         "funfact": "Kiki founded a gourmet grocery store called “Farmers Hand” so her community could have access to food from local farms.",
     
         "jobdescription": "URBAN FOOD ADVOCATE",

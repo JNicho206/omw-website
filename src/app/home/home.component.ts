@@ -16,8 +16,11 @@ export class HomeComponent implements OnInit {
   instagram = faInstagram;
   linkedin = faLinkedin;
   // constructor(private modalService: NgbModal) { }
-  
-  images = [700, 800, 807].map((n) => `https://picsum.photos/id/${n}/900/500`);
+  images: string[] = ["../assets/landingpage/book1cover.jpg",
+  "../assets/landingpage/BookDrawing.jpg",
+  "../assets/landingpage/studentdesk2.jpg",
+  "../assets/landingpage/studentsdesk.jpg"];
+  // images = [700, 800, 807].map((n) => `https://picsum.photos/id/${n}/900/500`);
 
   constructor(config: NgbCarouselConfig) {
     // carrosel configuation
@@ -26,6 +29,10 @@ export class HomeComponent implements OnInit {
     config.pauseOnHover = true;
   }
   ngOnInit(): void{
+    // this.images[0]="../assets/landingpage/book1cover.jpg";
+    // this.images[1]="../assets/landingpage/BookDrawing.jpg";
+    // this.images[2]="../assets/landingpage/studentdesk2.jpg";
+    // this.images[3]="../assets/landingpage/studentsdesk.jpg";
   }
 
 

@@ -47,8 +47,9 @@
           <p class="">{{biosprofile.mathhero}}</p>
           
           <ul class="bulletlinks">
-              <li *ngFor="let link of biosprofile.mathherobullet; let i = index">
-                <a [routerLink]="" (click)="getlinkfromlistbyindex(i)" class="link-dark">{{link}}</a>
+              <li *ngFor="let link of biosprofile.mathherobullet; let i = index" [innerHTML]="link">
+                
+                <!-- <a [routerLink]="" (click)="getlinkfromlistbyindex(i)" class="link-dark">{{link}}</a> -->
               </li>
           </ul>
           
