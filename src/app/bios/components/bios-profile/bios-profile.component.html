@@ -47,13 +47,13 @@
           <p class="">{{biosprofile.mathhero}}</p>
           
           <ul class="bulletlinks">
-              <li *ngFor="let link of biosprofile.mathherobullet; let i = index" [innerHTML]="link">
-                
+              <li *ngFor="let link of biosprofile.mathherobullet; let i = index">
+                <html [html]="link"></html>
                 <!-- <a [routerLink]="" (click)="getlinkfromlistbyindex(i)" class="link-dark">{{link}}</a> -->
               </li>
           </ul>
           
-          <p class="">Fun Fact: {{biosprofile.funfact}}</p>
+          <p class="" *ngIf="biosprofile.funfact">Fun Fact: {{biosprofile.funfact}}</p>
           <div class="col bio-profile-img-div">
             <img class="bio-profile-img " src="{{'../../../../assets/bioimg/'+ biosprofile.profileimage2}}" alt="">
           </div>

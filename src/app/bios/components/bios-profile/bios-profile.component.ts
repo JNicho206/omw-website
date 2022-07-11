@@ -19,7 +19,7 @@ export class BiosProfileComponent implements OnInit {
 
     this.biosservice.getallbios().subscribe(data => {
       this.biosprofile = data.filter(data=>{
-        return data.id=this.bioid;
+        return data.id==this.bioid;
       })[0];
     });
 

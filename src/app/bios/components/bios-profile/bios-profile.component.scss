@@ -77,3 +77,18 @@
         padding-bottom: 15px;
     }
   }
+  
+.bioprofilelinks{
+    a{
+      color: black !important;
+      text-decoration: underline !important;
+  }
+  a:hover {
+      color: navy !important;
+    }
+  }
+
+  .bio-profile-mathhero{
+    background-color: #f1bc31; 
+    color:black;
+  }

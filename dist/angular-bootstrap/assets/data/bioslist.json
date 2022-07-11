@@ -13,7 +13,11 @@
     
         "mathhero": "Chefs like Kiki prepare food using recipes that include math:",
         "mathherobullet": [
-            "<a src='https://drive.google.com/file/d/1YWBvct7Q5CgPZ4aSt7JuYuEkjr1H7bnp/view' class='link-dark'>Measurement</a>"
+            "<a href='https://drive.google.com/file/d/1YWBvct7Q5CgPZ4aSt7JuYuEkjr1H7bnp/view' target='_blank' class='bioprofilelinks'>Measurement</a>",
+            "<a href='https://drive.google.com/file/d/1oD-OlgK1Z5iTDk7hXC8KMazKOoOeHi0i/view' target='_blank' class='bioprofilelinks'>Fractions</a>",
+            "<a href='https://drive.google.com/file/d/1N0xwERzZKVvRMh7D8F4gFytUZ2fMk0kZ/view' target='_blank' class='bioprofilelinks'>Mixed numbers</a>",
+            "<a href='https://drive.google.com/file/d/1xOMt4bzuUFq5kmkviztWZgmbh9DFOleZ/view' target='_blank' class='bioprofilelinks'>Weights</a>",
+            "<a href='https://drive.google.com/file/d/1LCvtgI97tgCvVEy7uKO3dU6T0r8CzuMp/view' target='_blank' class='bioprofilelinks'>Temperature</a>"
         ],
         "funfact": "Kiki founded a gourmet grocery store called “Farmers Hand” so her community could have access to food from local farms.",
     
@@ -38,95 +42,44 @@
     },
     {
         "id":2, 
-        "fullname":"KIKI BOKUNGU LOUYA",
-        "quote":"IF I SEE A PROBLEM, AND I CAN FIGURE OUT A FIX, THEN I’M GOING TO ADDRESS THAT PROBLEM",
-        "jobtitle": "CHEF & ACTIVIST",
-        "jobs": ["CHEF","ACTIVIST","URBAN FARMER"],
+        "fullname":" ROBERT (BOB) P. MOSES",
+        "quote":"MATHEMATICS LITERACY IS A CIVIL RIGHTS ISSUE.",
+        "jobtitle": " MATHEMATICIAN & ACTIVIST",
+        "jobs": ["CIVIL RIGHTS LEADER","MATHEMATICIAN","MENTOR","TEACHER"],
     
-        "life": "1982-present",
-        "pronunciation": "key-key boh-KHUN-goo lou-ya",
-        "location": "Detroit, MI",
-        "knownfor": "Chef, and activist for equitable and healthy food systems.",
+        "life": "1935-2021",
+        "pronunciation": " rob-bert bob mow-us",
+        "location": "",
+        "knownfor": "The Algebra Project; Civil Rights Movement leadership.",
     
-        "mathhero": "Chefs like Kiki prepare food using recipes that include math:",
+        "mathhero": "In the Algebra Project students learn:",
         "mathherobullet": [
-            "Measurement",
-            "Fractions",
-            "Mixed numbers",
-            "Weights",
-            "Temperature"],
-        "mathherobulletlinks": [
-            "https://drive.google.com/file/d/1YWBvct7Q5CgPZ4aSt7JuYuEkjr1H7bnp/view",
-            "https://drive.google.com/file/d/1oD-OlgK1Z5iTDk7hXC8KMazKOoOeHi0i/view",
-            "https://drive.google.com/file/d/1N0xwERzZKVvRMh7D8F4gFytUZ2fMk0kZ/view",
-            "https://drive.google.com/file/d/1xOMt4bzuUFq5kmkviztWZgmbh9DFOleZ/view",
-            "https://drive.google.com/file/d/1LCvtgI97tgCvVEy7uKO3dU6T0r8CzuMp/view"],
-        "funfact": "Kiki founded a gourmet grocery store called “Farmers Hand” so her community could have access to food from local farms.",
-    
-        "jobdescription": "URBAN FOOD ADVOCATE",
-        "namelinktext":"Kiki Bokungu Louya",
-        "namelink":"https://www.youtubetrimmer.com/view/?v=fqRTKkHobCk&start=435&end=512&loop=0",
-        "nametext":"is an award-winning chef from Detroit, Michigan.",
-        "jobdescriptionbullets": ["Her companies and restaurants are interested in providing communities healthy foods supplied by local farmers. Her organizations support the fair treatment of food and farm workers."
-                                ,"Kiki combines her love of math, problem solving, and science with her cooking skills"
-                                ,"She competed on the TV show Top Chef: Portland"],
-        "references": ["Kiki Louya top chef portland detroit restaurateur."
-                        ,"Moskin, J. (2019, July 16). Black Chefs Changing Food in America."
-                        ,"K. Kiki Bokungu Louya."
+            "”We can do math.”",
+            "To take their own words and pictures (<a href='https://drive.google.com/file/d/1c5Zh7ReRZqQJyVrQeikM6q0xiDZr2nom/view?usp=sharing' target='_blank' class='bioprofilelinks'>“real talk”</a>) and convert those ideas into mathematical <a href='https://drive.google.com/file/d/1zHpIzesPrwr6BJMJ_m8Bv2Fr834GDnFy/view?usp=sharing' target='_blank' class='bioprofilelinks'>expressions</a> using <a href='https://drive.google.com/file/d/1btyWOThaAe2ze6oxs8_l2FjJP23aTD20/view?usp=sharing' target='_blank' class='bioprofilelinks'>symbols</a> (“feature talk”)",
+            "To summarize situations visually using <a href='https://drive.google.com/file/d/1nR0uZS6QONIwi3HiHVZwVn_dyldrZzWD/view?usp=sharing' target='_blank' class='bioprofilelinks'>graphs</a> and <a href='https://drive.google.com/file/d/1z0OZVG_JLlpBCbw3ewKtDfCLBX25f7PP/view?usp=sharing' target='_blank' class='bioprofilelinks'>charts</a>.",
+            "To expand on the arithmetic notion of “How many?” to include <a href='https://drive.google.com/file/d/11JcrlJLx5Q0oMd_-ztmEdswlw48slNwV/view?usp=sharing' target='_blank' class='bioprofilelinks'>directions</a> (“Which way?”) and <a href='https://drive.google.com/file/d/1eFVQQuoba8YsSaHf4fdTKKyIhFhSsNCY/view?usp=sharing' target='_blank' class='bioprofilelinks'>dimensions</a> seen in algebra."
+            ],
+        "jobdescription": "ALGEBRA OPENS DOORS",
+        "namelinktext":"Bob Moses",
+        "namelink":"https://www.youtubetrimmer.com/view/?v=a6_O-MPe8O0&start=1&end=21&loop=0",
+        "nametext":"was best known for developing The Algebra Project. Algebra is often described as the language of summary. Bob viewed mastery of algebra as the first step to gaining access to educational and employment opportunities.",
+        "jobdescriptionbullets": ["Bob used math literacy as a tool to organize the community. He learned this technique while registering people to vote during the Civil Rights Movement of the 1960s."
+                                ,"The Algebra Project helps students develop techniques to remove the mystery from math questions. Bob’s teachings help students realize symbols are created by someone, have a meaning, and are on the paper for a reason."
+                                ,"The Algebra Project helps students realize “the concept of being ‘smart’ is something that you become, it’s not something that you are. If I don’t know it now, then I’ll know it tomorrow, if I put in the effort."],
+	  "jobdescriptionlinks": [
+		"https://drive.google.com/file/d/1cGudVYr8ksO1Xq64xXUp_6Yqr4a2YjUN/view?usp=sharing",
+		"https://www.youtubetrimmer.com/view/?v=HefIMcBz3wI&start=62&end=100&loop=0",
+		"https://www.youtubetrimmer.com/view/?v=HefIMcBz3wI&start=226&end=258&loop=0",
+		"https://www.youtubetrimmer.com/view/?v=fEYIi1iYFsA&start=2709&end=2732&loop=0",
+		"https://www.youtubetrimmer.com/view/?v=HefIMcBz3wI&start=173&end=190&loop=0"],
+
+        "references": ["Moses, R., Maxwell West, M., & Davis, F. E. (2009). Culturally Responsive Mathematics Education in the Algebra Project. In B. Greer, S. Mukhopadhyay, A. B. Powell, & S. Nelson-Barber (Eds.), Culturally responsive mathematics education (pp. 239-256). Routledge"
+                        ,"Moses, R. P., & Cobb, C. E. (2001). Radical Equations: Civil Rights from Mississippi to the Algebra Project. Beacon Press"
                     ],
-        "referenceslinks": ["https://detroit.eater.com/22431734/kiki-louya-top-chef-portland-detroit-restaurateur-farmers-hand-folk-mink-selden-standard"
-                        ,"https://www.nytimes.com/interactive/2019/07/16/dining/black-chefs-restaurants-food.html"
-                        ,"https://www.kikilouya.com"
-                    ],
-        "profileimage": "Kiki_B_Louya.jpg",
-        "profileimage2": "Kiki_B_Louyaimg2.jpg",
-        "photocreditimage": ""
-    },
-    {
-        "id":3, 
-        "fullname":"KIKI BOKUNGU LOUYA",
-        "quote":"IF I SEE A PROBLEM, AND I CAN FIGURE OUT A FIX, THEN I’M GOING TO ADDRESS THAT PROBLEM",
-        "jobtitle": "CHEF & ACTIVIST",
-        "jobs": ["CHEF","ACTIVIST","URBAN FARMER"],
-    
-        "life": "1982-present",
-        "pronunciation": "key-key boh-KHUN-goo lou-ya",
-        "location": "Detroit, MI",
-        "knownfor": "Chef, and activist for equitable and healthy food systems.",
-    
-        "mathhero": "Chefs like Kiki prepare food using recipes that include math:",
-        "mathherobullet": [
-            "Measurement",
-            "Fractions",
-            "Mixed numbers",
-            "Weights",
-            "Temperature"],
-        "mathherobulletlinks": [
-            "https://drive.google.com/file/d/1YWBvct7Q5CgPZ4aSt7JuYuEkjr1H7bnp/view",
-            "https://drive.google.com/file/d/1oD-OlgK1Z5iTDk7hXC8KMazKOoOeHi0i/view",
-            "https://drive.google.com/file/d/1N0xwERzZKVvRMh7D8F4gFytUZ2fMk0kZ/view",
-            "https://drive.google.com/file/d/1xOMt4bzuUFq5kmkviztWZgmbh9DFOleZ/view",
-            "https://drive.google.com/file/d/1LCvtgI97tgCvVEy7uKO3dU6T0r8CzuMp/view"],
-        "funfact": "Kiki founded a gourmet grocery store called “Farmers Hand” so her community could have access to food from local farms.",
-    
-        "jobdescription": "URBAN FOOD ADVOCATE",
-        "namelinktext":"Kiki Bokungu Louya",
-        "namelink":"https://www.youtubetrimmer.com/view/?v=fqRTKkHobCk&start=435&end=512&loop=0",
-        "nametext":"is an award-winning chef from Detroit, Michigan.",
-        "jobdescriptionbullets": ["Her companies and restaurants are interested in providing communities healthy foods supplied by local farmers. Her organizations support the fair treatment of food and farm workers."
-                                ,"Kiki combines her love of math, problem solving, and science with her cooking skills"
-                                ,"She competed on the TV show Top Chef: Portland"],
-        "references": ["Kiki Louya top chef portland detroit restaurateur."
-                        ,"Moskin, J. (2019, July 16). Black Chefs Changing Food in America."
-                        ,"K. Kiki Bokungu Louya."
-                    ],
-        "referenceslinks": ["https://detroit.eater.com/22431734/kiki-louya-top-chef-portland-detroit-restaurateur-farmers-hand-folk-mink-selden-standard"
-                        ,"https://www.nytimes.com/interactive/2019/07/16/dining/black-chefs-restaurants-food.html"
-                        ,"https://www.kikilouya.com"
-                    ],
-        "profileimage": "Kiki_B_Louya.jpg",
-        "profileimage2": "Kiki_B_Louyaimg2.jpg",
-        "photocreditimage": ""
+       
+        "profileimage": "Bob_Moses.jpg",
+        "profileimage2": "",
+        "photocreditimage": "Beacon Press"
     }
     
 ]

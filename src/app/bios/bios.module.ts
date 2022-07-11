@@ -4,6 +4,7 @@ import { BiosListComponent } from './components/bios-list/bios-list.component';
 import { BiosProfileComponent } from './components/bios-profile/bios-profile.component';
 import { BiosComponent } from './bios.component';
 import { RouterModule } from '@angular/router';
+import { HtmlDirective } from '../core/directive/html.directive';
 
 
 
@@ -11,7 +12,8 @@ import { RouterModule } from '@angular/router';
   declarations: [
     BiosComponent,
     BiosListComponent,
-    BiosProfileComponent
+    BiosProfileComponent,
+    HtmlDirective
   ],
   imports: [
     CommonModule,
