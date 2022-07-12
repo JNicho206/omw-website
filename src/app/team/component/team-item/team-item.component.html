@@ -1,0 +1,19 @@
+<div  *ngIf="teamprofile" class="teamprofilepage">
+    <div class="container">
+        <div class="row" >
+            <div class="col-4">
+            <div>
+                <img class="team-profile-img-top" *ngIf="teamprofile.img" src="{{'../../assets/teamimg/'+ teamprofile.img}}"  alt="">
+            </div>
+            </div>
+            <div class="col">
+                <div>
+                    <h1 class="teamtypetitle">{{teamprofile.fullname}}</h1>
+                    <h5>{{teamprofile.title}}</h5>
+                    <p>{{teamprofile.description}}</p>
+                </div>
+            </div>
+            
+        </div>
+    </div>
+</div>

@@ -64,11 +64,12 @@
           <h1 class="display-4 m-0"><span class="text-primary text-35">{{biosprofile.jobdescription}}</span></h1>
           
           <ul class="bulletlinks text-20">
-            <li>
+            <!-- <li>
               <span><a [routerLink]="" (click)="getjobnamelink()" class="link-dark">{{biosprofile.namelinktext}}</a> {{biosprofile.nametext}}</span>
-            </li>
+            </li> -->
             <li *ngFor="let description of biosprofile.jobdescriptionbullets">
-              <p>{{description}}</p>
+              <!-- <p>{{description}}</p> -->
+              <html [html]="description"></html>
             </li>
           </ul>
           <h1 class="display-4 m-0"><span class="text-primary job-reference">REFERENCES</span></h1>

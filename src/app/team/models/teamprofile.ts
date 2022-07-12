@@ -1,6 +1,7 @@
 export interface TeamProfile {
     id: number; 
     fullname: string; 
+    title: string;
     description: string;
     type: teamtype;
     img: string;
