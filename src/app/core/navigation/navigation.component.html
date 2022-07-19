@@ -1,24 +1,11 @@
 <section >
-  <!-- <div class="container">
-    <div class="row justify-content-center">
-      <div class="col-md-6 text-center mb-5">
-        <h2 class="heading-section">Website menu #02</h2>
-        <a class="navbar-brand" [routerLink]="['/']">
-          <div class="logo-image">
-            <img src="../../../assets/OurMathWorld.png" class="img-fluid">
-      </div>
-        </a>
-      </div>
-    </div>
-  </div> -->
-  
   <div class="container">
     <div class="row justify-content-between">
       <div class="col">
         <a class="navbar-brand" [routerLink]="['/home']">
           <div class="logo-image">
             <img src="../../../assets/OurMathWorld.png" class="img-fluid">
-      </div>
+          </div>
         </a>
       </div>
       <!-- <div class="col d-flex justify-content-end">
@@ -32,73 +19,40 @@
       </div> -->
     </div>
   </div>
-  <nav class="navbar navbar-expand-lg navbar-dark ftco_navbar bg-dark ftco-navbar-light" id="ftco-navbar">
+  <nav class="navbar navbar-expand-md navbar-dark ftco_navbar bg-dark ftco-navbar-light" id="ftco-navbar">
+    <!-- <a class="navbar-brand" href="#">Angular</a> -->
     <div class="container">
-    
-      <!-- <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ftco-nav" aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="fa fa-bars"></span> Menu
+      <button class="navbar-toggler hidden-sm-up" type="button" (click)="isNavbarCollapsed = !isNavbarCollapsed" data-target="#navbarsDefault" aria-controls="navbarsDefault" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
       </button>
-      <form action="#" class="searchform order-lg-last">
-        <div class="form-group d-flex">
-          <input type="text" class="form-control pl-3" placeholder="Search">
-          <button type="submit" placeholder="" class="form-control search"><span class="fa fa-search"></span></button>
-        </div>
-      </form> -->
-      <div class="collapse navbar-collapse" id="ftco-nav">
-        <ul class="navbar-nav mr-auto">
+    <div [ngbCollapse]="isNavbarCollapsed" class="collapse navbar-collapse" id="navbarsDefault">
+      <ul class="navbar-nav mr-auto">
+        <li class="nav-item" [routerLinkActive]="['active']"><a [routerLink]="['/home']" class="nav-link">Home</a></li>
+        <li class="nav-item"  [routerLinkActive]="['active']"><a [routerLink]="['/books']" class="nav-link">World Books</a></li>
+        <li class="nav-item"  [routerLinkActive]="['active']" ><a [routerLink]="['/bios']"class="nav-link">Math Doer Bios</a></li>
+        <li class="nav-item"  [routerLinkActive]="['active']" ><a [routerLink]="['/team']" class="nav-link">World Team</a></li>
+      </ul>
+    </div>
+  </div>
+  </nav>
+  <!-- <nav class="navbar navbar-expand-lg navbar-dark ftco_navbar bg-dark ftco-navbar-light" id="ftco-navbar">
+    <div class="container-fluid">
+      <div class="navbar-header">
+        <button class="navbar-toggler navbar-toggler-right" type="button" (click)="isNavbarCollapsed = !isNavbarCollapsed">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+      </div>
+
+    <div class="navbar-collapse" [class.collapse]="isNavbarCollapsed" (window:resize)="isNavbarCollapsed = true">
+        <ul class="nav navbar-nav">
           <li class="nav-item" [routerLinkActive]="['active']"><a [routerLink]="['/home']" class="nav-link">Home</a></li>
-          <!-- <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" href="#" id="dropdown04" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Page</a>
-            <div class="dropdown-menu" aria-labelledby="dropdown04">
-              <a class="dropdown-item" [routerLink]="['/books']">Page 1</a>
-              <a class="dropdown-item" [routerLink]="['/']">Page 2</a>
-              <a class="dropdown-item" [routerLink]="['/']">Page 3</a>
-              <a class="dropdown-item" [routerLink]="['/']">Page 4</a>
-            </div>
-          </li> -->
           <li class="nav-item"  [routerLinkActive]="['active']"><a [routerLink]="['/books']" class="nav-link">World Books</a></li>
           <li class="nav-item"  [routerLinkActive]="['active']" ><a [routerLink]="['/bios']"class="nav-link">Math Doer Bios</a></li>
           <li class="nav-item"  [routerLinkActive]="['active']" ><a [routerLink]="['/team']" class="nav-link">World Team</a></li>
         </ul>
       </div>
     </div>
-  </nav>
+  </nav> -->
   <!-- END nav -->
 
 </section>
-
-<!-- 
-<nav class="navbar navbar-expand-xl navbar-light bg-light">
-    <div class="container-fluid">
-      <a class="navbar-brand" [routerLink]="['/']">
-        <div class="logo-image">
-          <img src="../../../assets/OurMathWorld.png" class="img-fluid">
-    </div>
-      </a>
-
-      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="navbar-toggler-icon"></span>
-    </button>
-      <div class="collapse navbar-collapse" id="navbarSupportedContent">
-        <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-          <li class="nav-item">
-            <a class="nav-link active" aria-current="page" [routerLinkActive]="['active']" [routerLink]="['/']">Home</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" [routerLink]="['/books']">World Books</a>
-          </li>
-         <li class="nav-item">
-            <a class="nav-link" [routerLink]="['/bios']">Math Doer Bios</a>
-          </li>
-          <li class="nav-item">
-             <a class="nav-link" [routerLink]="['/team']">World Team</a>
-           </li>
-        
-        </ul>
-       <form class="d-flex"> 
-          <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
-          <button class="btn btn-outline-dark" type="submit">Search</button>
-        </form> 
-      </div>
-    </div>
-</nav> -->

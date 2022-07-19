@@ -49,7 +49,6 @@
           <ul class="bulletlinks">
               <li *ngFor="let link of biosprofile.mathherobullet; let i = index">
                 <html [html]="link"></html>
-                <!-- <a [routerLink]="" (click)="getlinkfromlistbyindex(i)" class="link-dark">{{link}}</a> -->
               </li>
           </ul>
           
@@ -64,19 +63,15 @@
           <h1 class="display-4 m-0"><span class="text-primary text-35">{{biosprofile.jobdescription}}</span></h1>
           
           <ul class="bulletlinks text-20">
-            <!-- <li>
-              <span><a [routerLink]="" (click)="getjobnamelink()" class="link-dark">{{biosprofile.namelinktext}}</a> {{biosprofile.nametext}}</span>
-            </li> -->
             <li *ngFor="let description of biosprofile.jobdescriptionbullets">
-              <!-- <p>{{description}}</p> -->
               <html [html]="description"></html>
             </li>
           </ul>
           <h1 class="display-4 m-0"><span class="text-primary job-reference">REFERENCES</span></h1>
 
           <ul class="bulletlinks ">
-            <li *ngFor="let link of biosprofile.references; let i = index">
-              <a [routerLink]="" (click)="getreferencelinkbyindex(i)" class="link-dark">{{link}}</a>
+            <li *ngFor="let reference of biosprofile.references; let i = index">
+              {{reference}}.
             </li>
           </ul>
         </div>

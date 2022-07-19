@@ -13,7 +13,11 @@ export class NavigationComponent implements OnInit {
   twitter =faTwitter;
   instagram = faInstagram;
   dribble = faDribbble;
+  public isNavbarCollapsed = true;
+  // collapse = false;
   ngOnInit(): void {
   }
-
+  // toggleCollapse(): void {
+  //   this.collapse = !this.collapse;
+  // }
 }

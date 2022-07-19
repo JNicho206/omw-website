@@ -19,12 +19,13 @@ import { NavigationComponent } from './navigation/navigation.component';
 // import { DialogService } from './services/dialog.service';
 import { EnsureModuleLoadedOnceGuard } from './ensure-module-loaded-once.guard';
 import { FooterComponent } from './footer/footer.component';
+import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
 // import { AuthService } from './services/auth.service';
 // import { EventBusService } from './services/event-bus.service';
 // import { AuthInterceptor } from './interceptors/auth.interceptor';
 
 @NgModule({
-  imports: [CommonModule, RouterModule, HttpClientModule,FontAwesomeModule],
+  imports: [CommonModule, RouterModule, HttpClientModule,FontAwesomeModule,NgbModule],
   exports: [RouterModule, HttpClientModule, NavigationComponent,FooterComponent],
   declarations: [NavigationComponent, FooterComponent],
   // providers: [SorterService, FilterService, DataService, TrackByService,

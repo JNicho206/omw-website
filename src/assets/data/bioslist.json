@@ -20,7 +20,6 @@
             "<div class='bio-profile-mathhero'><a href='https://drive.google.com/file/d/1LCvtgI97tgCvVEy7uKO3dU6T0r8CzuMp/view' target='_blank' class='link-dark'>Temperature</a></div>"
         ],
         "funfact": "Kiki founded a gourmet grocery store called “Farmers Hand” so her community could have access to food from local farms.",
-    
         "jobdescription": "URBAN FOOD ADVOCATE",
         "jobdescriptionbullets": ["<div class='bio-profile-jobdescription'><a href='https://www.youtubetrimmer.com/view/?v=fqRTKkHobCk&start=435&end=512&loop=0' target='_blank' class='link-dark'>Kiki Bokungu Louya</a> is an award-winning chef from Detroit, Michigan.</div>"
                                 ,"<div class='bio-profile-jobdescription'>Her companies and restaurants are interested in providing communities healthy foods supplied by local farmers. Her organizations support the fair treatment of food and farm workers.</div>"
@@ -29,10 +28,6 @@
         "references": ["Kiki Louya top chef portland detroit restaurateur."
                         ,"Moskin, J. (2019, July 16). Black Chefs Changing Food in America."
                         ,"K. Kiki Bokungu Louya."
-                    ],
-        "referenceslinks": ["https://detroit.eater.com/22431734/kiki-louya-top-chef-portland-detroit-restaurateur-farmers-hand-folk-mink-selden-standard"
-                        ,"https://www.nytimes.com/interactive/2019/07/16/dining/black-chefs-restaurants-food.html"
-                        ,"https://www.kikilouya.com"
                     ],
         "profileimage": "Kiki_B_Louya.jpg",
         "profileimage2": "Kiki_B_Louyaimg2.jpg",
@@ -44,12 +39,10 @@
         "quote":"MATHEMATICS LITERACY IS A CIVIL RIGHTS ISSUE.",
         "jobtitle": "MATHEMATICIAN & ACTIVIST",
         "jobs": ["CIVIL RIGHTS LEADER","MATHEMATICIAN","MENTOR","TEACHER"],
-    
         "life": "1935-2021",
         "pronunciation": "rob-bert bob mow-us",
         "location": "",
         "knownfor": "The Algebra Project; Civil Rights Movement leadership.",
-    
         "mathhero": "In the Algebra Project students learn:",
         "mathherobullet": [
             "<div class='bio-profile-mathhero'>”We can do math.”</div>",
@@ -62,17 +55,9 @@
                                 ,"<div class='bio-profile-jobdescription'>Bob used <a href='https://www.youtubetrimmer.com/view/?v=HefIMcBz3wI&start=226&end=258&loop=0' target='_blank' class='link-dark'>math literacy</a> as a tool to organize the community. He learned this technique while registering people to vote during the Civil Rights Movement of the 1960s.</div>"
                                 ,"<div class='bio-profile-jobdescription'>The Algebra Project helps students develop techniques to remove the mystery from math questions. Bob’s teachings help students realize <a href='https://www.youtubetrimmer.com/view/?v=fEYIi1iYFsA&start=2709&end=2732&loop=0' target='_blank' class='link-dark'>symbols are created by someone</a>, have a meaning, and are on the paper for a reason.</div>"
                                 ,"<div class='bio-profile-jobdescription'>The Algebra Project helps students realize “the concept of being ‘<a href='https://www.youtubetrimmer.com/view/?v=HefIMcBz3wI&start=173&end=190&loop=0' target='_blank' class='link-dark'>smart</a>’ is something that you become, it’s not something that you are. If I don’t know it now, then I’ll know it tomorrow, if I put in the effort.</div>"],
-	  "jobdescriptionlinks": [
-		"https://drive.google.com/file/d/1cGudVYr8ksO1Xq64xXUp_6Yqr4a2YjUN/view?usp=sharing",
-		"https://www.youtubetrimmer.com/view/?v=HefIMcBz3wI&start=62&end=100&loop=0",
-		"https://www.youtubetrimmer.com/view/?v=HefIMcBz3wI&start=226&end=258&loop=0",
-		"https://www.youtubetrimmer.com/view/?v=fEYIi1iYFsA&start=2709&end=2732&loop=0",
-		"https://www.youtubetrimmer.com/view/?v=HefIMcBz3wI&start=173&end=190&loop=0"],
-
         "references": ["Moses, R., Maxwell West, M., & Davis, F. E. (2009). Culturally Responsive Mathematics Education in the Algebra Project. In B. Greer, S. Mukhopadhyay, A. B. Powell, & S. Nelson-Barber (Eds.), Culturally responsive mathematics education (pp. 239-256). Routledge"
                         ,"Moses, R. P., & Cobb, C. E. (2001). Radical Equations: Civil Rights from Mississippi to the Algebra Project. Beacon Press"
                     ],
-       
         "profileimage": "Bob_Moses.jpg",
         "profileimage2": "",
         "photocreditimage": "Beacon Press"
