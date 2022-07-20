@@ -29,3 +29,101 @@
     align-items:center;
     height:100vh;
 }
+
+
+     /* Media Query for Mobile Devices */
+     @media (max-width: 480px) {
+
+      .book-prevous-btn{
+        width: 500px;
+      }
+      .book-next-btn{
+        width: 500px;
+      }
+  }
+    
+  /* Media Query for low resolution  Tablets, Ipads */
+  @media (min-width: 481px) and (max-width: 767px) {
+
+    .book-prevous-btn{
+      width: 500px;
+    }
+    .book-next-btn{
+      width: 500px;
+    }
+  }
+    
+  /* Media Query for Tablets Ipads portrait mode */
+  @media (min-width: 768px) and (max-width: 1024px){
+
+    .book-prevous-btn{
+      width: 500px;
+    }
+    .book-next-btn{
+      width: 500px;
+    }
+  }
+    
+  /* Media Query for Laptops and Desktops */
+  @media (min-width: 1025px) {
+
+    .book-prevous-btn{
+      width: 500px;
+    }
+    .book-next-btn{
+      width: 500px;
+    }
+  }
+// .btn-success, .btn-success:hover, .btn-success:active, .btn-success:visited {
+//   color:white !important;
+//   background-color: black !important;
+// }
+.btn-next {
+    color: #fff;
+    background-color: black;
+    border-color: black; }
+    .btn-next:hover {
+      color: #fff;
+      background-color: gray;
+      border-color: gray; }
+    .btn-next:focus, .btn-next.focus {
+      -webkit-box-shadow: 0 0 0 0.2rem rgba(38, 39, 38, 0.5);
+      box-shadow: 0 0 0 0.2rem rgba(64, 65, 64, 0.5); }
+    .btn-next.disabled, .btn-next:disabled {
+      color: #fff;
+      background-color: black;
+      border-color: black; }
+    .btn-next:not(:disabled):not(.disabled):active, .btn-next:not(:disabled):not(.disabled).active,
+    .show > .btn-next.dropdown-toggle {
+      color: #fff;
+      background-color: gray;
+      border-color: gray; }
+      .btn-next:not(:disabled):not(.disabled):active:focus, .btn-next:not(:disabled):not(.disabled).active:focus,
+      .show > .btn-next.dropdown-toggle:focus {
+        -webkit-box-shadow: 0 0 0 0.2rem rgba(51, 53, 51, 0.5);
+        box-shadow: 0 0 0 0.2rem rgba(64, 65, 64, 0.5); }
+
+.btn-prevous {
+  color: black;
+  background-color: yellow;
+  border-color: yellow; }
+  .btn-prevous:hover {
+    color: black;
+    background-color: rgb(158, 158, 16);
+    border-color: rgb(158, 158, 16); }
+  .btn-prevous:focus, .btn-prevous.focus {
+    -webkit-box-shadow: 0 0 0 0.2rem rgba(108, 143, 26, 0.5);
+    box-shadow: 0 0 0 0.2rem rgba(108, 143, 26, 0.5); }
+  .btn-prevous.disabled, .btn-prevous:disabled {
+    color: black;
+    background-color: rgb(158, 158, 16);
+    border-color: rgb(158, 158, 16); }
+  .btn-prevous:not(:disabled):not(.disabled):active, .btn-prevous:not(:disabled):not(.disabled).active,
+  .show > .btn-prevous.dropdown-toggle {
+    color: black;
+    background-color: rgb(158, 158, 16);
+    border-color: rgb(158, 158, 16); }
+    .btn-prevous:not(:disabled):not(.disabled):active:focus, .btn-prevous:not(:disabled):not(.disabled).active:focus,
+    .show > .btn-prevous.dropdown-toggle:focus {
+      -webkit-box-shadow: 0 0 0 0.2rem rgba(108, 143, 26, 0.5);
+      box-shadow: 0 0 0 0.2rem rgba(108, 143, 26, 0.5); }

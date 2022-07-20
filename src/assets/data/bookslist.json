@@ -3,12 +3,10 @@
         "id":1, 
         "maintitle":"Our Mathematical World",
         "title":"Pilar Pauses to Lead the Way",
-        "writtinby":"Writtin by Tierra Martin In Collaboration with the Our Mathematical World Team",
-        "illistratedby":  "Illustrated By Darwin Marfil",
+        "description":"This book focuses on “Pause”",
         "coverimg":"Our Math World Book 1 Cover1024_1.jpg",
         "bookimagesfoldername":"Our Math World Book 1 Inside Pages Spread",
         "pagesimages": [
-            "Our Math World Book 1 Inside Pages Spread1024_1.jpg",
             "Our Math World Book 1 Inside Pages Spread1024_2.jpg",
             "Our Math World Book 1 Inside Pages Spread1024_3.jpg",
             "Our Math World Book 1 Inside Pages Spread1024_4.jpg",
@@ -27,7 +25,6 @@
             "Our Math World Book 1 Inside Pages Spread1024_17.jpg",
             "Our Math World Book 1 Inside Pages Spread1024_18.jpg"],
         "pagestexts": [
-            "Our Mathematical World. Pilar Pauses to Lead the Way. Writtin by Tierra Martin with the Our Mathematical World Team. Illustrated By Darwin Marfil",
             "Our Math World Book 1 Inside Pages Spread1024_2.jpg",
             "Our Math World Book 1 Inside Pages Spread1024_3.jpg",
             "Our Math World Book 1 Inside Pages Spread1024_4.jpg",
@@ -50,12 +47,10 @@
         "id":2, 
         "maintitle":"Our Mathematical World",
         "title":"Unique Understands and Lamar Lays Out a Plan",
-        "writtinby":"Writtin by Tierra Martin in Collaboration with the Our Mathematical World Team",
-        "illistratedby":  "Illustrated By Darwin Marfil",
+        "description":"This book focuses on “Understand and Remember”",
         "coverimg":"Our Math World Book 2 Cover1024_1.jpg",
         "bookimagesfoldername":"Our Math World Book 2 Inside Pages Spread",
         "pagesimages": [
-            "Our Math World Book 2 Inside Pages Spread1024_1.jpg",
             "Our Math World Book 2 Inside Pages Spread1024_2.jpg",
             "Our Math World Book 2 Inside Pages Spread1024_3.jpg",
             "Our Math World Book 2 Inside Pages Spread1024_4.jpg",
@@ -74,7 +69,6 @@
             "Our Math World Book 2 Inside Pages Spread1024_17.jpg",
             "Our Math World Book 2 Inside Pages Spread1024_18.jpg"],
         "pagestexts": [
-            "Our Mathematical World. Unique Understands and Lamar Lays Out a Plan. Writtin by Tierra Martin with Our Mathematical World Team. Illustrated By Darwin Marfil",
             "Our Math World Book 2 Inside Pages Spread1024_2.jpg",
             "Our Math World Book 2 Inside Pages Spread1024_3.jpg",
             "Our Math World Book 2 Inside Pages Spread1024_4.jpg",
