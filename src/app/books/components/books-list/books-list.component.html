@@ -1,37 +1,15 @@
 <div class="row pb-3">
-    <div *ngFor="let booktem of booklist" class="col-lg-4 mb-4">
-        <div class="card border-0 mb-2">
+    <div *ngFor="let booktem of booklist" class="col-lg-6 col-md-12 mb-4">
+        <div class="border-0 mb-2">
             <img class="card-img-top" src="{{'../../../../assets/books/'+ booktem.coverimg}}" alt="">
             <div class="card-body bg-light p-4">
                 <h4 class="card-title text-truncate">{{booktem.maintitle}}</h4>
                 <div class="d-flex mb-3">
-                    <small class="mr-2"><i class="fa fa-user text-muted"></i> {{booktem.title}}</small>
-                    <!-- <small class="mr-2"><i class="fa fa-folder text-muted"></i> {{booktem.life}}</small>
-                    <small class="mr-2"><i class="fa fa-comments text-muted"></i> {{booktem.location}}</small> -->
+                    <small class="mr-2 card-subtitle"> {{booktem.title}}</small>
                 </div>
-                <p>{{booktem.writtinby}}</p>
-                <p>{{booktem.illistratedby}}</p>
-                <a class="font-weight-bold" (click)="gotobook(booktem.id)">Read Book</a>
+                <p>{{booktem.description}}</p>
+                <a class="font-weight-bold hyperlink-text linkcursor linkcolor" (click)="gotobook(booktem.id)">Read Book</a>
             </div>
         </div>
     </div>
-    <!-- <div class="col-lg-12">
-        <nav aria-label="Page navigation">
-          <ul class="pagination justify-content-center mb-4">
-            <li class="page-item disabled">
-              <a class="page-link" href="#" aria-label="Previous">
-                <span aria-hidden="true">&laquo; Previous</span>
-              </a>
-            </li>
-            <li class="page-item active"><a class="page-link" href="#">1</a></li>
-            <li class="page-item"><a class="page-link" href="#">2</a></li>
-            <li class="page-item"><a class="page-link" href="#">3</a></li>
-            <li class="page-item">
-              <a class="page-link" href="#" aria-label="Next">
-                <span aria-hidden="true">Next &raquo;</span>
-              </a>
-            </li>
-          </ul>
-        </nav>
-    </div> -->
 </div>
