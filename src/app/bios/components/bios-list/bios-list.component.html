@@ -1,7 +1,7 @@
 <div class="row pb-3">
-    <div *ngFor="let bitem of bioslist" class="col-lg-4 mb-4">
+    <div *ngFor="let bitem of bioslist" class="col-lg-4 col-md-6 col-sm-12 mb-4">
         <div class="card border-0 mb-2">
-            <img class="card-img-top" src="{{'../../../../assets/bioimg/'+ bitem.profileimage}}" alt="">
+            <img class="card-img-top-default" src="{{'../../../../assets/bioimg/'+ bitem.profileimage}}" alt="">
             <div class="card-body bg-light p-4">
                 <h4 class="card-title text-truncate">{{bitem.fullname}}</h4>
                 <div class="d-flex mb-3">

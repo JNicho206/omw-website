@@ -8,7 +8,7 @@
             <img class="book-img " src="{{'../../../../assets/books/'+ book.bookimagesfoldername + '/' + currentbookimage}}" alt="">
         </div> -->
         <div lass="row">
-        <ngb-carousel #ngcarousel>
+        <ngb-carousel #ngcarousel showNavigationArrows="true">
             <ng-template ngbSlide class="carouselCont" *ngFor="let image of book?.pagesimages; let i = index" >
               <img src="{{'../../../../assets/books/'+ book.bookimagesfoldername + '/' + image}}" alt="{{book.title}}">
               <div class="carousel-caption">
