@@ -33,45 +33,63 @@
 
      /* Media Query for Mobile Devices */
      @media (max-width: 480px) {
-
-      .book-prevous-btn{
-        width: 500px;
+      .book-btn{
+        width:93%;
       }
-      .book-next-btn{
-        width: 500px;
+      .book-sectionsize{
+        padding-left:30px;
+        width: 350px;
+      }
+      .book-image{
+        width: 100%;
       }
   }
     
   /* Media Query for low resolution  Tablets, Ipads */
   @media (min-width: 481px) and (max-width: 767px) {
-
-    .book-prevous-btn{
-      width: 500px;
+    .book-btn{
+      width:95%;
+      // margin-left: -148px;
     }
-    .book-next-btn{
-      width: 500px;
+    .book-sectionsize{
+      padding-left:30px;
+      width: 450px;
+    }
+    .book-image{
+      width: 100%;
     }
   }
     
   /* Media Query for Tablets Ipads portrait mode */
   @media (min-width: 768px) and (max-width: 1024px){
-
-    .book-prevous-btn{
-      width: 500px;
+    .book-btn{
+      // width: 758px;
+      width:97%;
+      // margin-left: -148px;
     }
-    .book-next-btn{
-      width: 500px;
+    .book-sectionsize{
+      padding-left:30px;
+      width: 780px;
+    }
+    .book-image{
+      width: 100%;
     }
   }
     
   /* Media Query for Laptops and Desktops */
   @media (min-width: 1025px) {
-
-    .book-prevous-btn{
-      width: 500px;
+    .book-btn{
+      // width: 1003px;
+      // margin-left: -85p;
+      // margin-left:5px;
+      // margin-right:5px;
+      width:98%;
     }
-    .book-next-btn{
-      width: 500px;
+    .book-sectionsize{
+      width: 1025px;
+    }
+    .book-image{
+      width: 100%;
     }
   }
 // .btn-success, .btn-success:hover, .btn-success:active, .btn-success:visited {

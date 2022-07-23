@@ -7,20 +7,28 @@
         <!-- <div class="col book-img-div">
             <img class="book-img " src="{{'../../../../assets/books/'+ book.bookimagesfoldername + '/' + currentbookimage}}" alt="">
         </div> -->
-        <div lass="row">
-        <ngb-carousel #ngcarousel showNavigationArrows="true">
-            <ng-template ngbSlide class="carouselCont" *ngFor="let image of book?.pagesimages; let i = index" >
-              <img src="{{'../../../../assets/books/'+ book.bookimagesfoldername + '/' + image}}" alt="{{book.title}}">
-              <div class="carousel-caption">
-                <!-- <h3>Listen</h3> -->
-                <button (click)="playaudio(i)">Play Audio</button>
-              </div>
-            </ng-template>
-          </ngb-carousel>
-        </div>
+        <div class="row book-sectionsize">
+
+          <div class="row">
+            <ngb-carousel class="" #ngcarousel showNavigationArrows="true">
+                <ng-template ngbSlide class="carouselCont" *ngFor="let image of book?.pagesimages; let i = index" >
+                  <img class="book-image" src="{{'../../../../assets/books/'+ book.bookimagesfoldername + '/' + image}}" alt="{{book.title}}">
+                  <div class="carousel-caption">
+                    <!-- <h3>Listen</h3> -->
+                    <button (click)="playaudio(i)">Play Audio</button>
+                  </div>
+                </ng-template>
+            </ngb-carousel>
+          </div>
           <div class="row justify-content-center">
             <!-- <button type="button" class="btn btn-sm btn-primary m-r" *ngIf="!isNext" (click)="skip()">Skip</button> -->
-            <button type="button" class="btn btn-sm btn-prevous m-r book-prevous-btn" *ngIf="isNext" (click)="previousStep()">Previous</button>
-            <button type="button" class="btn btn-sm btn-next book-next-btn" (click)="nextStep()">Next</button>
+            <!-- <button type="button" class="btn btn-sm btn-prevous m-r book-prevous-btn" *ngIf="isNext" (click)="previousStep()">Previous</button> -->
+            <button type="button" class="btn btn-sm btn-next book-btn" (click)="nextStep()">Next</button>
+          </div>
+          <div class="row justify-content-center">
+            <!-- <button type="button" class="btn btn-sm btn-primary m-r" *ngIf="!isNext" (click)="skip()">Skip</button> -->
+            <button type="button" class="btn btn-sm btn-prevous m-r book-btn" *ngIf="isNext" (click)="previousStep()">Previous</button>
+            <!-- <button type="button" class="btn btn-sm btn-next book-next-btn" (click)="nextStep()">Next</button> -->
+          </div>
         </div>
     </div>
