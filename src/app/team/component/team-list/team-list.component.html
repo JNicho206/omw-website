@@ -4,21 +4,23 @@
         <div class="col-lg-3 col-md-6" *ngFor="let item of teamlist">
             <div class="teamlistprofilepadding">
                 <div class="team card position-relative overflow-hidden border-0 mb-4">
-                    <img class="card-img-top-default" *ngIf="item.img" src="{{'../../assets/teamimg/'+ item.img}}"  alt="">
+                    <div class="text-center p-0">
+                        <img class="card-img-top-default" *ngIf="item.img" src="{{'../../assets/teamimg/'+ item.img}}"  alt="">
+                    </div>
                     <div class="card-body text-center p-0">
-                        <div class="team-text d-flex flex-column justify-content-center bg-light">
+                        <div class="flex-column justify-content-center bg-light">
                             <h5>{{item.fullname}}</h5>
-                            <i>{{item.title}}</i>
+                            <i>{{item.title}}.</i>
                         </div>
-                        <div class="team-social d-flex align-items-center justify-content-center bg-dark">
-                            <a class="btn btn-outline-primary rounded-circle text-center mr-2 px-0" style="width: 36px; height: 36px;" href="#"><fa-icon [icon]="['fab', 'twitter']"></fa-icon></a>
-                            <a class="btn btn-outline-primary rounded-circle text-center mr-2 px-0" style="width: 36px; height: 36px;" href="#"><fa-icon [icon]="['fab', 'facebook']"></fa-icon></a>
-                            <a class="btn btn-outline-primary rounded-circle text-center mr-2 px-0" style="width: 36px; height: 36px;" href="#"><fa-icon [icon]="['fab', 'linkedin']"></fa-icon></a>
-                            <a class="btn btn-outline-primary rounded-circle text-center px-0" style="width: 36px; height: 36px;" href="#"><fa-icon [icon]="['fab', 'instagram']"></fa-icon></a>
+                        <div class=" align-items-center justify-content-center bg-light">
+                            <a  class="btn btn-outline-primary rounded-circle text-center mr-2 px-0" style="width: 36px; height: 36px;" href="#"><fa-icon [icon]="['fab', 'twitter']"></fa-icon></a>
+                            <a class="btn btn-outline-primary rounded-circle text-center mr-2 px-0" style="width: 36px; height: 36px;" href="#"><fa-icon [icon]="['fas', 'globe']"></fa-icon></a>
+                            <!-- <a class="btn btn-outline-primary rounded-circle text-center mr-2 px-0" style="width: 36px; height: 36px;" href="#"><fa-icon [icon]="['fab', 'linkedin']"></fa-icon></a> -->
+                            <!-- <a class="btn btn-outline-primary rounded-circle text-center px-0" style="width: 36px; height: 36px;" href="#"><fa-icon [icon]="['fab', 'instagram']"></fa-icon></a> -->
                         </div>
                     </div>
                 </div>
-                <a class="font-weight-bold hyperlink-text linkcursor" (click)="gotofullteamprofile(item.id)">FULL BIO</a>
+                <a class="font-weight-bold hyperlink-text linkcursor linkcolor" (click)="gotofullteamprofile(item.id)">Full Bio</a>
                 
             </div>
         </div>

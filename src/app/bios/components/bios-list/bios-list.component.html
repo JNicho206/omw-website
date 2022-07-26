@@ -3,14 +3,14 @@
         <div class="card border-0 mb-2">
             <img class="card-img-top-default" src="{{'../../../../assets/bioimg/'+ bitem.profileimage}}" alt="">
             <div class="card-body bg-light p-4">
-                <h4 class="card-title text-truncate">{{bitem.fullname}}</h4>
+                <h4 class="card-title">{{bitem.fullname}}</h4>
                 <div class="d-flex mb-3">
-                    <small class="mr-2"><i class="fa fa-user text-muted"></i> {{bitem.jobtitle}}</small>
-                    <small class="mr-2"><i class="fa fa-folder text-muted"></i> {{bitem.life}}</small>
-                    <small class="mr-2"><i class="fa fa-comments text-muted"></i> {{bitem.location}}</small>
+                    <p class="mr-2"><i class="fa fa-user text-muted"></i> {{bitem.jobtitle}}</p>
+                    <!-- <small class="mr-2"><i class="fa fa-folder text-muted"></i> {{bitem.life}}</small> -->
+                    <!-- <small class="mr-2"><i class="fa fa-comments text-muted"></i> {{bitem.location}}</small> -->
                 </div>
                 <p>{{bitem.knownfor}}</p>
-                <a class="font-weight-bold hyperlink-text linkcursor" (click)="gotobiosprofile(bitem.id)">Read More</a>
+                <a class="font-weight-bold hyperlink-text linkcursor linkcolor" (click)="gotobiosprofile(bitem.id)">Read More</a>
             </div>
         </div>
     </div>

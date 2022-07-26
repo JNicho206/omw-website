@@ -1,5 +1,5 @@
-<div class="container biosprofile" *ngIf="biosprofile">
-    <div class="row">
+<div class="container " *ngIf="biosprofile">
+    <div class="row biosprofile">
       <div class="col yellowbg">
         <h3 class="text-15 paddingtitle">OURMATHWORLD.COM</h3>
         <p class="whitetext text-30">{{biosprofile.jobtitle}}</p>
@@ -26,22 +26,22 @@
         </div>
     </div>
     <div class="row">
-      <div class="col-4 darkgraybg whitetext text-20">
+      <div class="col-4 darkbg whitetext text-30 mathheromargin">
         <p>"{{biosprofile.quote}}"</p>
       </div>
-      <div class="col bio-profile-img-div">
+      <div class="col-4 bio-profile-img-div">
         <img class="bio-profile-img " src="{{'../../../../assets/bioimg/'+ biosprofile.profileimage}}" alt="">
       </div>
-      <div class="col-4 yellowbg text-20">
+      <div class="col yellowbg text-20 shrinkrightmargin">
         <p>Pronunciation: {{'{'}}{{biosprofile.pronunciation}}{{'}'}}</p>
-        <p class="lifetext">Life: {{biosprofile.life}}</p>
-        <p class="othertext">Location: {{biosprofile.location}}</p>
-        <p class="othertext">Known For: {{biosprofile.knownfor}}</p>
+        <p class="lifetext" *ngIf="biosprofile.life">Life: {{biosprofile.life}}</p>
+        <p class="othertext" *ngIf="biosprofile.location">Location: {{biosprofile.location}}</p>
+        <p class="othertext" *ngIf="biosprofile.knownfor">Known For: {{biosprofile.knownfor}}</p>
       </div>
     </div>
     
     <div class="row">
-        <div class="col yellowbg">
+        <div class="col yellowbg mathheromargin">
           <h1 class="whitetext text-35">MATH HERO</h1>
           
           <p class="">{{biosprofile.mathhero}}</p>
@@ -53,7 +53,7 @@
           </ul>
           
           <p class="" *ngIf="biosprofile.funfact">Fun Fact: {{biosprofile.funfact}}</p>
-          <div class="col bio-profile-img-div">
+          <div class="col bio-profile-img-div" *ngIf="biosprofile.profileimage2">
             <img class="bio-profile-img " src="{{'../../../../assets/bioimg/'+ biosprofile.profileimage2}}" alt="">
           </div>
 
@@ -67,7 +67,7 @@
               <html [html]="description"></html>
             </li>
           </ul>
-          <h1 class="display-4 m-0"><span class="text-primary job-reference">REFERENCES</span></h1>
+          <h2 class="m-0"><span class="text-primary job-reference">REFERENCES</span></h2>
 
           <ul class="bulletlinks ">
             <li *ngFor="let reference of biosprofile.references; let i = index">

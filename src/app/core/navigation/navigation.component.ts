@@ -1,5 +1,6 @@
 import { Component, OnInit } from '@angular/core';
-import { faFacebook,faTwitter,faInstagram,faDribbble } from '@fortawesome/free-brands-svg-icons';
+import { faFacebook,faTwitter,faInstagram,faDribbble, } from '@fortawesome/free-brands-svg-icons';
+import { faEarthAmericas } from '@fortawesome/free-solid-svg-icons';
 
 @Component({
   selector: 'app-navigation',
@@ -9,6 +10,7 @@ import { faFacebook,faTwitter,faInstagram,faDribbble } from '@fortawesome/free-b
 export class NavigationComponent implements OnInit {
 
   constructor() { }
+  globe = faEarthAmericas;
   facebook = faFacebook;
   twitter =faTwitter;
   instagram = faInstagram;
