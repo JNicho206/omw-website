@@ -1,5 +1,6 @@
 import { Component, Input, OnInit } from '@angular/core';
 import { ActivatedRoute, Router } from '@angular/router';
+import { windowWhen } from 'rxjs';
 import { TeamProfile } from '../../models/teamprofile';
 
 @Component({
@@ -19,5 +20,18 @@ export class TeamListComponent implements OnInit {
   gotofullteamprofile(teamid:string){
     
     this.router.navigate(['teamprofile', teamid ], { relativeTo: this.route });
+  }
+  
+  gettwitterbyindex( twitterusername:string){
+    var link:string ="https://twitter.com/sleiman_milad";
+    // link = link+= twitterusername;
+    window.open(link, "_blank");
+  }
+  
+  getwebpagebyindex( websiteURL:string){
+    websiteURL = "https://facebook.com";
+    // var link:string ="";
+    // link = this.biosprofile.mathherobulletlinks[index];
+    window.open(websiteURL, "_blank");
   }
 }
