@@ -11,6 +11,7 @@ import {
 	ListeningStarted,
 	RecognizedText,
 	RecognizedTextAction,
+	PauseAction,
 } from '../model/texttospeechmodel';
 
 @Injectable({
@@ -56,6 +57,9 @@ export class SenseService {
 	get isSpeaking(): boolean {
 		return !!this.speaker._isSpeaking;
 	}
+	get isPaused(): boolean {
+		return this.window.speechSynthesis.paused;
+	}
 
 	set isListening(val: boolean) {
 		this.listener._isListening = val;
@@ -98,6 +102,20 @@ export class SenseService {
 				takeUntil(this.destroy$)
 			)
 			.subscribe();
+
+		// this.getType(PauseAction)
+		// 	.pipe(
+		// 		tap((text) => this._pause()),
+		// 		takeUntil(this.destroy$)
+		// 	)
+		// 	.subscribe();
+
+		// this.getType(CancelAction)
+		// 	.pipe(
+		// 		tap( => this._cancel()),
+		// 		takeUntil(this.destroy$)
+		// 	)
+		// 	.subscribe();
 	}
 
 	getType(action: Action | any): Observable<any> {
@@ -257,7 +275,7 @@ export class SenseService {
 		  this.listener.lang = voice.lang;
     }
 
-		if (speak) this._speak('Kiss my shiny metal head');
+		if (speak) this._speak('Voice has been updated.');
 	}
 
 	extractText(speech: any): RecognizedText {
@@ -289,6 +307,18 @@ export class SenseService {
 		this._action$.next(new SpeakAction(text));
 	}
 
+	pause() {
+		console.log('paused...');
+		this.window.speechSynthesis.pause();
+	}
+	resume() {
+		console.log('resumed...');
+		this.window.speechSynthesis.resume();
+	}
+	cancel() {
+		console.log('canceled...');
+		this.window.speechSynthesis.cancel();
+	}
 	private _speak(text: string): void {
 		console.log('speaking...');
 		this.speaker.text = text;

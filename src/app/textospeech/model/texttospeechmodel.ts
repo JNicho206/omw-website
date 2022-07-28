@@ -25,3 +25,6 @@ export class RecognizedTextAction implements Action {
 export class SpeakAction implements Action {
 	constructor(public payload: string) {}
 }
+
+export class PauseAction implements Action {}
+export class CancelAction implements Action {}

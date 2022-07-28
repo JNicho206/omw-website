@@ -3,7 +3,30 @@
             <h4 class="text-secondary mb-3">{{book.maintitle}}</h4>
             <h1 class="display-4 m-0"> <span class="text-primary">{{book.title}}</span></h1>
         </div>
-
+        <div class="row">
+          <!-- <input class="form-control" type="text" /> -->
+    
+          <select
+            class="form-control"
+            *ngIf="voices"
+            (change)="onChange($event.target.value)"
+          >
+            <option
+              [selected]="selectedIndex === i"
+              *ngFor="let v of voices; let i = index"
+              [value]="i"
+            >
+              {{ v.name }} ({{ v.lang }})
+            </option>
+          </select>
+    
+          <button class="btn btn-primary" (click)="updateVoice()">
+            Update
+          </button>
+          <button class="btn btn-default" (click)="toggleSettings()">
+            Close
+          </button>
+        </div>
         <!-- <div class="col book-img-div">
             <img class="book-img " src="{{'../../../../assets/books/'+ book.bookimagesfoldername + '/' + currentbookimage}}" alt="">
         </div> -->
@@ -15,7 +38,10 @@
                   <img class="book-image" src="{{'../../../../assets/books/'+ book.bookimagesfoldername + '/' + image}}" alt="{{book.title}}">
                   <div class="carousel-caption">
                     <!-- <h3>Listen</h3> -->
-                    <button (click)="playaudio(i)">Play Audio</button>
+                    <button *ngIf="!IsSpeaking" (click)="playaudio(i)">Play Audio</button>
+                    <button *ngIf="IsSpeaking && !IsPaused" (click)="pauseaudio()">pause Audio</button>
+                    <button *ngIf="IsPaused" (click)="resumeaudio()">resume Audio</button>
+                    <button *ngIf="IsSpeaking" (click)="stopaudio()">Stop Audio</button>
                   </div>
                 </ng-template>
             </ngb-carousel>
