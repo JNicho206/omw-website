@@ -3,11 +3,11 @@
         <div class="border-0 mb-2">
             <img class="card-img-top" src="{{'../../../../assets/books/'+ booktem.coverimg}}" alt="">
             <div class="card-body bg-light p-4">
-                <h4 class="card-title text-truncate">{{booktem.maintitle}}</h4>
+                <h4 class="card-title text-truncate blacktext">{{booktem.maintitle}}</h4>
                 <div class="d-flex mb-3">
-                    <small class="mr-2 card-subtitle"> {{booktem.title}}</small>
+                    <small class="mr-2 card-subtitle blacktext"> {{booktem.title}}</small>
                 </div>
-                <p>{{booktem.description}}</p>
+                <p class="blacktext">{{booktem.description}}</p>
                 <a class="font-weight-bold hyperlink-text linkcursor linkcolor" (click)="gotobook(booktem.id)">Read Book</a>
             </div>
         </div>

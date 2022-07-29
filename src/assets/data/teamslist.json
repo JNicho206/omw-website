@@ -1,7 +1,7 @@
 [
     {
         "id":1, 
-        "fullname":"ROB DUNCAN",
+        "fullname":"Rob Duncan",
         "title":"Assistant Professor",
         "description":"Robert Duncan, Co-Investigator, is an Assistant Professor in the departments of Human Development and Family Studies and Public Health at Purdue University. His research focuses on understanding the connections between children’s early environments and their development of school readiness skills (e.g., language abilities, self-regulation, executive function, academic achievement)",
         "type":  "R&D",
@@ -9,15 +9,15 @@
     },
     {
         "id":2, 
-        "fullname":"SARAH EASON",
+        "fullname":"Sarah Eason",
         "title":"Assistant Professor",
-        "description":"Sarah Eason, Co-Investigator, is an Assistant Professor in Human Development and Family Studies at Purdue University. Her research focuses on how family math engagement equips children with the skills, knowledge, and attitudes they need to do well in school",
+        "description":"Sarah Eason, Co-Investigator, is an Assistant Professor in Human Development and Family Studies at Purdue University. Her research focuses on how families support children’s development of math knowledge and positive math attitudes, with an emphasis on how to develop resources that align with families’ social and cultural contexts",
         "type":  "R&D",
         "img": "S_Eason.jpg"
     },
     {
         "id":3, 
-        "fullname":"MICHAEL EILAND",
+        "fullname":"Michael Eiland",
         "title":"Senior Research Associate",
         "description":"Michael Eiland, Senior Research Associate at Purdue University, is an early childhood and elementary mathematics education research scientist. His work focuses on mathematical thinking and learning",
         "type":  "R&D",
@@ -25,7 +25,7 @@
     },
     {
         "id":4, 
-        "fullname":"CAROLINE HORNBURG",
+        "fullname":"Caroline Hornburg",
         "title":"Assistant Professor",
         "description":"Caroline Hornburg, Principal Investigator, is an Assistant Professor of Human Development and Family Science at Virginia Tech. Her research program focuses on children’s understanding of specific math skills and the optimal design of interventions to improve children’s understanding",
         "type":  "R&D",
@@ -33,7 +33,7 @@
     },
     {
         "id":5, 
-        "fullname":"AMANDA MAYES",
+        "fullname":"Amanda Mayes",
         "title":"Project Manager",
         "description":"Amanda Mayes, Project Manager, is the founder of Second Act Research, Senior Research Associate in Human Development and Family Studies at Purdue University, and a Visiting Assistant Professor in Cornerstone Integrated Liberal Arts. Her research interests include academic and intrinsic impacts of arts experiences, program assessment, curriculum design, and improving cultural competency.",
         "type":  "R&D",
@@ -41,7 +41,7 @@
     },
     {
         "id":6, 
-        "fullname":"TAMIKA McELVEEN",
+        "fullname":"Tamika McElveen",
         "title":"Postdoctoral Research Associate",
         "description":"Tamika McElveen, Postdoctoral Research Associate at Purdue University, is an Educational Psychologist and her research examines mathematics teaching practices that positively impact students' math identities and achievement. She values opportunities to partner with teachers and students to develop culturally sustaining curriculum and instruction.",
         "type":  "R&D",
@@ -49,7 +49,7 @@
     },
     {
         "id":7, 
-        "fullname":"GIGLIANA MELZI",
+        "fullname":"Gigliana Melzi",
         "title":"Associate Professor",
         "description":"Gigliana Melzi, Co-Investigator, is an Associate Professor in the Department of Applied Psychology and Affiliated Faculty at the Center for Latin American and Caribbean Studies at New York University. Her research focuses on the intersection of culture and linguistic practices and its relation to young children's early learning and development",
         "type":  "R&D",
@@ -57,7 +57,7 @@
     },
     {
         "id":8, 
-        "fullname":"DANA MILLER-COTTO",
+        "fullname":"Dana Miller-Cotto",
         "title":"Assistant Professor",
         "description":"Dana Miller-Cotto, Co-Investigator, is an Assistant Professor of Psychological Sciences at Kent State University in Kent, OH.  Her research focuses on how and why executive functions, or the ability to regulate and control actions and cognitions, are related to mathematics skills with the goal of designing learning materials for students along all ability levels. She is also interested in the extent to which children’s early childhood experiences at home and in school promote or inhibit improvement in math and executive functions and how these experiences differ based on race/ethnicity and family income",
         "type":  "R&D",
@@ -65,31 +65,31 @@
     },
     {
         "id":9, 
-        "fullname":"SARAH POWELL",
+        "fullname":"Sarah Powell",
         "title":"Assistant Professor",
-        "description":"Sarah Powell, Co-Principal Investigator, is an Associate Professor in the Department of Special Education at the University of Texas at Austin. Sarah conducts research in mathematics for students who experience mathematics difficulty and works on grants related to preschool mathematics read-alouds, word-problem solving, and use of data to inform mathematics instruction",
+        "description":"Sarah Powell, Co-Principal Investigator, is an Associate Professor in the Department of Special Education at The University of Texas at Austin. Sarah conducts research in mathematics for students who experience mathematics difficulty and works on grants related to mathematics read-alouds, word-problem solving, data-based decision making in mathematics, intervention replication, and music in mathematics",
         "type":  "R&D",
         "img": "Powell.jpg"
     },
     {
         "id":10, 
-        "fullname":"NYDIA PRISHKER",
+        "fullname":"Nydia Prishker",
         "title":"Assistant Professor",
-        "description":"Nydia Prishker, Curriculum Designer, is an Assistant Professor of Childhood Education at St. Thomas Aquinas College in Sparkill, NY. Nydia is a Bilingual Educator and an advocate for quality and equity in the education of children from diverse cultural, ethnic, and linguistic backgrounds. Nydia investigates the rich language and education practices that are embedded in Latinx families’ everyday lives. Learning from and with Latinx families, Nydia also works in developing new resources for teachers, providers, and parents to enhance the practices of teachers and families that support the school readiness of young children in a culturally responsive and relevant way",
+        "description":"Nydia Prishker, Curriculum Designer, is an Assistant Professor of Childhood Education at St. Thomas Aquinas College in Sparkill, NY. Nydia is a Bilingual Educator and an advocate for quality and equity in the education of children from diverse cultural, ethnic, and linguistic backgrounds. Nydia also works in developing new resources for teachers, providers, and parents to enhance the practices of teachers and families that support the school readiness of young children in a culturally responsive and relevant way",
         "type":  "R&D",
         "img": ""
     },
     {
         "id":11, 
-        "fullname":"DAVID PURPURA",
+        "fullname":"David Purpura",
         "title":"Associate Professor",
-        "description":"David Purpura, Principal Investigator, is an Associate Professor in the Department of Human Development and Family Studies at Purdue University. His research program focuses on how young children learn math and how to identify children who are at risk for later math difficulties",
+        "description":"David Purpura, Principal Investigator, is a Professor in the Department of Human Development and Family Studies at Purdue University and Director of the Center for Early Learning. His research program focuses on how young children learn math and how to identify children who are at risk for later math difficulties",
         "type":  "R&D",
         "img": "david.jpg"
     },
     {
         "id":12, 
-        "fullname":"ANDY RIBNER",
+        "fullname":"Andy Ribner",
         "title":"Postdoctoral Scholar",
         "description":"Andy Ribner, Co-Investigator, is a postdoctoral scholar in the Kids' Thinking Lab at the University of Pittsburgh. His primary area of study is on the development of children's self-regulatory skills and their role in math learning in and out of classroom settings. He also studies the antecedents and consequences of screen-based media use in young children",
         "type":  "R&D",
@@ -97,7 +97,7 @@
     },
     {
         "id":13, 
-        "fullname":"MA BERNADETTE SALGARINO",
+        "fullname":"Ma Bernadette Salgarino",
         "title":"Assistant Director",
         "description":"Dr. Ma Bernadette Andres-Salgarino, Co-Principal Investigator, Assistant Director for iSTEAM of SCCOE is a National Board Certified Teacher, a member of the CA Mathematics Curriculum Framework Committee (2013 & 2021), and an advocate for Rehumanizing Mathematics. She was awarded the Texas Instruments – STEM Teacher of the Year in 2012 and ESUHSD Teacher of the Year in 2013 for her work fostering mathematics literacy and mathematics for social justice",
         "type":  "R&D",
@@ -105,17 +105,17 @@
     },
     {
         "id":14, 
-        "fullname":"SARA SCHMITT",
+        "fullname":"Sara Schmitt",
         "title":"Associate Professor",
-        "description":"Sara Schmitt, Co-Principal Investigator, is an Associate Professor in Human Development and Family Studies at Purdue University. She studies the development of self-regulation, including executive function, and develops and evaluates interventions designed to support these skills in children",
+        "description":"Sara Schmitt, Co-Principal Investigator, is an Associate Professor in the College of Education at the University of Oregon. She studies the development of self-regulation, including executive function, and develops and evaluates interventions designed to support these skills in children",
         "type":  "R&D",
         "img": "Schmitt_Sara.jpg"
     },
     {
         "id":15, 
-        "fullname":"ERIC WILKEY",
+        "fullname":"Eeic Wilkey",
         "title":" Postdoctoral Fellow",
-        "description":"Eric Wilkey, Co-Investigator, is a Postdoctoral Fellow at the Brain & Mind Institute at Western University in London, Ontario.  His research focuses on how executive functions integrate with math skills to support math cognition and math learning and what factors lead to math learning difficulties",
+        "description":"Eric Wilkey, Co-Investigator, is an Assistant Professor in Psychology & Human Development at Vanderbilt University.  His research focuses on how executive functions integrate with math skills to support math cognition and math learning and what factors lead to math learning difficulties",
         "type":  "R&D",
         "img": ""
     },
@@ -129,7 +129,7 @@
     },
     {
         "id":17, 
-        "fullname":"KERI HENSLEY",
+        "fullname":"Keri Hensley",
         "title":"Student Services Coordinator",
         "description":"Keri Hensley is a Student Services Coordinator for Middletown City School District in Ohio.  She has also served as Teacher, Reading Specialist, Teacher Leader, and Principal in the 23 years she has been in the district.  Keri  supports all educators in an effort to provide the best possible learning opportunities for all students",
         "type":  "DISTRICTPARTNERS",
@@ -146,7 +146,7 @@
     {
         "id":19, 
         "fullname":"Danielle Letts",
-        "title":"4t & 5th Grade teacher",
+        "title":"4th & 5th Grade teacher",
         "description":"Danielle Letts is a 4th/5th-grade teacher at Hubbard Media Arts Academy in Alum Rock Union Elementary School District in San Jose. She has been teaching in Alum Rock for over 20 years and is involved at both her school site and school district in a number of capacities to support teachers' professional learning",
         "type":  "DISTRICTPARTNERS",
         "img": "Danielle.png"
@@ -177,7 +177,7 @@
     },
     {
         "id":23, 
-        "fullname":"KYOUNG CHOE",
+        "fullname":"Kyoung Choe",
         "title":"Former Consultant",
         "description":"Kyoung Choe, Former Consultant, uses web-based cognitive tasks, brain imaging, eye-tracking, and machine learning to understand neurocognitive mechanisms of math anxiety and math avoidance. He is passionate about using technology to increase student motivation, engagement, and learning in math at scale",
         "type":  "FORMERR&D",
@@ -185,7 +185,7 @@
     },
     {
         "id":24, 
-        "fullname":"LE M. TRAN",
+        "fullname":"Le M. Tran",
         "title":"Research Associate",
         "description":"Le M. Tran, Former Curriculum Designer, is a Research Associate in the Meadow Center for Preventing Educational Risks at the University of Texas at Austin. Le’s area of interests includes culturally and linguistically responsive practices for students with disabilities particularly in the areas of math intervention, transition services, and IEP development",
         "type":  "FORMERR&D",

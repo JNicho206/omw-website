@@ -4,14 +4,14 @@
         <h3 class="text-15 paddingtitle">OURMATHWORLD.COM</h3>
         <p class="whitetext text-30">{{biosprofile.jobtitle}}</p>
       </div>
-      <div class="col-7">
+      <div class="col-md-7 col-sm-12">
         <div class="row">
             <div class="col">
                 <div >
                     <img class="profile-logo-image" src="'../../../../assets/OurMathWorld.png" alt="">
                 </div>
             </div>
-            <div class="col-8">
+            <div class="col-md-8 col-sm-12">
                 <div class="job-titles paddingtitle"> 
                     <span *ngFor="let job of biosprofile.jobs"> 
                         | {{job}}
@@ -26,10 +26,10 @@
         </div>
     </div>
     <div class="row">
-      <div class="col-4 darkbg whitetext text-30 mathheromargin">
+      <div class="col-md-4 col-sm-12 darkbg whitetext text-30 mathheromargin">
         <p>"{{biosprofile.quote}}"</p>
       </div>
-      <div class="col-4 bio-profile-img-div">
+      <div class="col-md-5 col-sm-12 bio-profile-img-div">
         <img class="bio-profile-img " src="{{'../../../../assets/bioimg/'+ biosprofile.profileimage}}" alt="">
       </div>
       <div class="col yellowbg text-20 shrinkrightmargin">
@@ -58,7 +58,7 @@
           </div>
 
         </div>
-        <div class="col-7">
+        <div class="col-md-7 col-sm-12">
           
           <h1 class="display-4 m-0"><span class="text-primary text-35">{{biosprofile.jobdescription}}</span></h1>
           
