@@ -1,7 +1,10 @@
 <div class="row pb-3">
     <div *ngFor="let booktem of booklist" class="col-lg-6 col-md-12 mb-4">
         <div class="border-0 mb-2">
-            <img class="card-img-top" src="{{'../../../../assets/books/'+ booktem.coverimg}}" alt="">
+            <div>
+                <img class="card-img-top" src="{{'../../../../assets/books/'+ booktem.coverimg}}" alt="">
+                <div style="width: 100%; height: 68%; position: absolute; top: 0; left: 0"></div>
+              </div>
             <div class="card-body bg-light p-4">
                 <h4 class="card-title text-truncate blacktext">{{booktem.maintitle}}</h4>
                 <div class="d-flex mb-3">

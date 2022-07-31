@@ -43,6 +43,9 @@
       .book-image{
         width: 100%;
       }
+      .voicewidth{
+        width: 300px;
+      }
   }
     
   /* Media Query for low resolution  Tablets, Ipads */
@@ -57,6 +60,9 @@
     }
     .book-image{
       width: 100%;
+    }
+    .voicewidth{
+      width: 300px;
     }
   }
     
@@ -74,7 +80,10 @@
     .book-image{
       width: 100%;
     }
-  }
+    .voicewidth{
+      width: 300px;
+    }
+ }
     
   /* Media Query for Laptops and Desktops */
   @media (min-width: 1025px) {
@@ -91,6 +100,10 @@
     .book-image{
       width: 100%;
     }
+    .voicewidth{
+      width: 300px;
+      margin: 0 auto;
+  }
   }
 // .btn-success, .btn-success:hover, .btn-success:active, .btn-success:visited {
 //   color:white !important;
@@ -123,24 +136,24 @@
 
 .btn-prevous {
   color: black;
-  background-color: yellow;
-  border-color: yellow; }
+  background-color: #f1bc31;
+  border-color: #f1bc31; }
   .btn-prevous:hover {
     color: black;
-    background-color: rgb(158, 158, 16);
-    border-color: rgb(158, 158, 16); }
+    background-color: #be9429;
+    border-color: #be9429; }
   .btn-prevous:focus, .btn-prevous.focus {
     -webkit-box-shadow: 0 0 0 0.2rem rgba(108, 143, 26, 0.5);
     box-shadow: 0 0 0 0.2rem rgba(108, 143, 26, 0.5); }
   .btn-prevous.disabled, .btn-prevous:disabled {
     color: black;
-    background-color: rgb(158, 158, 16);
-    border-color: rgb(158, 158, 16); }
+    background-color: #be9429;
+    border-color: #be9429; }
   .btn-prevous:not(:disabled):not(.disabled):active, .btn-prevous:not(:disabled):not(.disabled).active,
   .show > .btn-prevous.dropdown-toggle {
     color: black;
-    background-color: rgb(158, 158, 16);
-    border-color: rgb(158, 158, 16); }
+    background-color: #be9429;
+    border-color: #be9429; }
     .btn-prevous:not(:disabled):not(.disabled):active:focus, .btn-prevous:not(:disabled):not(.disabled).active:focus,
     .show > .btn-prevous.dropdown-toggle:focus {
       -webkit-box-shadow: 0 0 0 0.2rem rgba(108, 143, 26, 0.5);

@@ -22,7 +22,7 @@ export class BookComponent implements OnInit {
   isPrevious: boolean = false;
   isNext: boolean = false;
 
-	settingsOpen = false;
+	// settingsOpen = false;
 	selectedIndex: number;
 	voices: any[];
 	activeVoice: any;
@@ -47,7 +47,7 @@ export class BookComponent implements OnInit {
 
     this.bookservice.getallbooks().subscribe(data => {
       this.book = data.filter(data=>{
-        return data.id=this.bookid;
+        return this.bookid == data.id;
       })[0];
       this.currentbookimage = this.book.pagesimages[0];
       
@@ -55,9 +55,9 @@ export class BookComponent implements OnInit {
     });
   }
   
-	toggleSettings() {
-		this.settingsOpen = !this.settingsOpen;
-	}
+	// toggleSettings() {
+	// 	this.settingsOpen = !this.settingsOpen;
+	// }
 	loadVoices() {
 		this.sense.voices$
 			.pipe(

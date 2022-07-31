@@ -3,28 +3,23 @@
             <h4 class="text-secondary mb-3">{{book.maintitle}}</h4>
             <h1 class="display-4 m-0"> <span class="text-primary">{{book.title}}</span></h1>
         </div>
-        <div class="row">
+        <div class="row voicewidth">
           <!-- <input class="form-control" type="text" /> -->
-    
+          <label> Audio Voice:</label>
           <select
             class="form-control"
             *ngIf="voices"
-            (change)="onChange($event.target.value)"
-          >
+            (change)="onChange($event.target.value)">
             <option
               [selected]="selectedIndex === i"
               *ngFor="let v of voices; let i = index"
-              [value]="i"
-            >
+              [value]="i">
               {{ v.name }} ({{ v.lang }})
             </option>
           </select>
     
           <button class="btn btn-primary" (click)="updateVoice()">
             Update
-          </button>
-          <button class="btn btn-default" (click)="toggleSettings()">
-            Close
           </button>
         </div>
         <!-- <div class="col book-img-div">
@@ -35,7 +30,10 @@
           <div class="row">
             <ngb-carousel class="" #ngcarousel showNavigationArrows="true">
                 <ng-template ngbSlide class="carouselCont" *ngFor="let image of book?.pagesimages; let i = index" >
-                  <img class="book-image" src="{{'../../../../assets/books/'+ book.bookimagesfoldername + '/' + image}}" alt="{{book.title}}">
+                  <div>
+                    <img class="book-image" src="{{'../../../../assets/books/'+ book.bookimagesfoldername + '/' + image}}" alt="{{book.title}}">
+                    <div style="width: 100%; height: 100%; position: absolute; top: 0; left: 0"></div>
+                  </div>
                   <div class="carousel-caption">
                     <!-- <h3>Listen</h3> -->
                     <button *ngIf="!IsSpeaking" (click)="playaudio(i)">Play Audio</button>
