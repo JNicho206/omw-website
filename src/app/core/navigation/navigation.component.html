@@ -25,15 +25,15 @@
       <button class="navbar-toggler hidden-sm-up" type="button" (click)="isNavbarCollapsed = !isNavbarCollapsed" data-target="#navbarsDefault" aria-controls="navbarsDefault" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
-    <div [ngbCollapse]="isNavbarCollapsed" class="collapse navbar-collapse" id="navbarsDefault">
-      <ul class="navbar-nav mr-auto">
-        <li class="nav-item" [routerLinkActive]="['active']"><a [routerLink]="['/home']" class="nav-link">Home</a></li>
-        <li class="nav-item"  [routerLinkActive]="['active']"><a [routerLink]="['/books']" class="nav-link">Books</a></li>
-        <li class="nav-item"  [routerLinkActive]="['active']" ><a [routerLink]="['/bios']"class="nav-link">Math Hero Bios</a></li>
-        <li class="nav-item"  [routerLinkActive]="['active']" ><a [routerLink]="['/team']" class="nav-link">Meet the Team</a></li>
-      </ul>
+      <div [ngbCollapse]="isNavbarCollapsed" class="collapse navbar-collapse" id="navbarsDefault">
+        <ul class="navbar-nav mr-auto">
+          <li class="nav-item" [routerLinkActive]="['active']"><a [routerLink]="['/home']" class="nav-link">Home</a></li>
+          <li class="nav-item"  [routerLinkActive]="['active']"><a [routerLink]="['/books']" class="nav-link">Books</a></li>
+          <li class="nav-item"  [routerLinkActive]="['active']" ><a [routerLink]="['/bios']"class="nav-link">Math Hero Bios</a></li>
+          <li class="nav-item"  [routerLinkActive]="['active']" ><a [routerLink]="['/team']" class="nav-link">Meet the Team</a></li>
+        </ul>
+      </div>
     </div>
-  </div>
   </nav>
   <!-- <nav class="navbar navbar-expand-lg navbar-dark ftco_navbar bg-dark ftco-navbar-light" id="ftco-navbar">
     <div class="container-fluid">
