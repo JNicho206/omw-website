@@ -6,6 +6,7 @@ import { BooksListComponent } from './components/books-list/books-list.component
 import { BookComponent } from './components/book/book.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
+import { MaterialOMWModule } from '../material.module';
 
 
 
@@ -16,6 +17,7 @@ import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
   imports: [
     CommonModule,
     NgbModule,
+    MaterialOMWModule,
     // BrowserAnimationsModule,
     RouterModule.forChild([
       // { path: '', redirectTo: '/home', pathMatch: 'full' },

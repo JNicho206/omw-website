@@ -5,6 +5,8 @@ import { BiosProfileComponent } from './components/bios-profile/bios-profile.com
 import { BiosComponent } from './bios.component';
 import { RouterModule } from '@angular/router';
 import { HtmlDirective } from '../core/directive/html.directive';
+import { MatButtonToggleGroup } from '@angular/material/button-toggle';
+import { MaterialOMWModule } from '../material.module';
 
 
 
@@ -17,6 +19,7 @@ import { HtmlDirective } from '../core/directive/html.directive';
   ],
   imports: [
     CommonModule,
+    MaterialOMWModule,
     RouterModule.forChild([
       // { path: '', redirectTo: '/home', pathMatch: 'full' },
       { 

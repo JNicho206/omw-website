@@ -23,15 +23,18 @@ export class TeamListComponent implements OnInit {
   }
   
   gettwitterbyindex( twitterusername:string){
-    var link:string ="https://twitter.com/sleiman_milad";
+    var link:string ="https://twitter.com/"+twitterusername;
     // link = link+= twitterusername;
     window.open(link, "_blank");
   }
   
   getwebpagebyindex( websiteURL:string){
-    websiteURL = "https://facebook.com";
+    websiteURL = "https://"+websiteURL;
     // var link:string ="";
     // link = this.biosprofile.mathherobulletlinks[index];
     window.open(websiteURL, "_blank");
+  }
+  sendemail(email:string, fullname:string){
+    window.open("https://mail.google.com/mail/?view=cm&fs=1&to="+email+"&su=OMW Member "+fullname+ "&body=HI "+fullname);
   }
 }

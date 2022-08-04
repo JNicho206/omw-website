@@ -1,5 +1,6 @@
 export interface BiographyProfile {
     id: number; 
+    languagetype: languagetype; 
     fullname: string; 
     quote: string;
     jobtitle: string;
@@ -26,3 +27,8 @@ export interface BiographyProfile {
     namelinktext: string;
     nametext: string;
 }
+
+export enum languagetype {
+    ENG = "eng",
+    SP = "sp"
+  }

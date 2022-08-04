@@ -15,6 +15,7 @@ import { HomeComponent } from './home/home.component';
 import { BiosComponent } from './bios/bios.component';
 import { BooksComponent } from './books/books.component';
 import { BooksListComponent } from './books/components/books-list/books-list.component';
+import { MaterialOMWModule } from './material.module';
 
 @NgModule({
   imports: [
@@ -23,6 +24,7 @@ import { BooksListComponent } from './books/components/books-list/books-list.com
     NgbModule,
     CoreModule,
     FontAwesomeModule,
+    MaterialOMWModule,
     RouterModule.forRoot([
       { path: '', redirectTo: '/home', pathMatch: 'full' },
       { path: 'home', component: HomeComponent },

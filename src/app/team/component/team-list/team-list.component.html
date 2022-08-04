@@ -1,7 +1,7 @@
 <div class="bordergroup">
     <h1 class="teamtypetitle">{{teamTypeName}}</h1>
     <div class="row" *ngIf="teamlist?.length > 0">
-        <div class="col-lg-3 col-md-6" *ngFor="let item of teamlist">
+        <div class="col-lg-4 col-md-6" *ngFor="let item of teamlist">
             <div class="teamlistprofilepadding">
                 <div class="team card position-relative overflow-hidden border-0 mb-4">
                     <div class="text-center p-0">
@@ -10,11 +10,12 @@
                     <div class="card-body text-center p-0">
                         <div class="flex-column justify-content-center bg-light">
                             <h5>{{item.fullname}}</h5>
-                            <i>{{item.title}}.</i>
+                            <i>{{item.title}}</i>
                         </div>
                         <div class=" align-items-center justify-content-center bg-light">
-                            <a  class="btn btn-outline-primary rounded-circle text-center mr-2 px-0" style="width: 36px; height: 36px;" href="#"><fa-icon [icon]="['fab', 'twitter']"></fa-icon></a>
-                            <a class="btn btn-outline-primary rounded-circle text-center mr-2 px-0" style="width: 36px; height: 36px;" href="#"><fa-icon [icon]="['fas', 'globe']"></fa-icon></a>
+                            <a *ngIf="item.twitter" class="btn btn-outline-primary rounded-circle text-center mr-2 px-0" style="width: 36px; height: 36px;" (click)="gettwitterbyindex(item.twitter)"><fa-icon [icon]="['fab', 'twitter']"></fa-icon></a>
+                            <a *ngIf="item.website" class="btn btn-outline-primary rounded-circle text-center mr-2 px-0" style="width: 36px; height: 36px;" (click)="getwebpagebyindex(item.website)"><fa-icon [icon]="['fas', 'globe']"></fa-icon></a>
+                            <a *ngIf="item.email" class="btn btn-outline-primary rounded-circle text-center mr-2 px-0" style="width: 36px; height: 36px;" (click)="sendemail(item.email,item.fullname)"><fa-icon [icon]="['fas', 'envelope']"></fa-icon></a>
                             <!-- <a class="btn btn-outline-primary rounded-circle text-center mr-2 px-0" style="width: 36px; height: 36px;" href="#"><fa-icon [icon]="['fab', 'linkedin']"></fa-icon></a> -->
                             <!-- <a class="btn btn-outline-primary rounded-circle text-center px-0" style="width: 36px; height: 36px;" href="#"><fa-icon [icon]="['fab', 'instagram']"></fa-icon></a> -->
                         </div>

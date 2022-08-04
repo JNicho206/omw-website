@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { languagetype } from '../bios/models/biographyprofile';
 import { Book } from './model/book';
 import { BookService } from './service/book.service';
 
@@ -10,12 +11,22 @@ import { BookService } from './service/book.service';
 export class BooksComponent implements OnInit {
 
   booklist: Book[];
+  fullbooklist: Book[];
+  selectedLanguageType: languagetype;
   constructor(private bookservice: BookService) { }
 
   ngOnInit(): void {
+    this.selectedLanguageType = languagetype.ENG;
     this.bookservice.getallbooks().subscribe(data => {
-      this.booklist = data;
+      this.fullbooklist = data;
+      this.updatedataBylanguage();
     });
   }
-
+  onLanguageChange(value) {
+    this.selectedLanguageType = (value == languagetype.ENG)? languagetype.ENG : languagetype.SP;
+    this.updatedataBylanguage();
+  }
+  updatedataBylanguage(){
+    this.booklist = this.fullbooklist.filter(x=>x.languagetype == this.selectedLanguageType);
+  }
 }

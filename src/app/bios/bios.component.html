@@ -4,6 +4,11 @@
     <div class="d-flex flex-column text-center mb-5 pt-5">
         <h1 class="display-4 m-0"><span class="text-primary">Our Mathematical World Biographies</span></h1>
     </div>
-
+    <div class="buttontogglelayout">
+        <mat-button-toggle-group name="languagetoggle" (change)="onLanguageChange($event.value)" [value]="selectedLanguageType" aria-label="Language">
+            <mat-button-toggle value="eng">English</mat-button-toggle>
+            <mat-button-toggle value="sp">Spanish</mat-button-toggle>
+          </mat-button-toggle-group>
+    </div>
     <app-bios-list [bioslist]="biographylist"></app-bios-list>
 </div>

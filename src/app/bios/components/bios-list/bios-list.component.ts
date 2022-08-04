@@ -1,6 +1,6 @@
 import { Component, Input, OnInit } from '@angular/core';
 import { ActivatedRoute, Router } from '@angular/router';
-import { BiographyProfile } from '../../models/biographyprofile';
+import { BiographyProfile} from '../../models/biographyprofile';
 
 @Component({
   selector: 'app-bios-list',

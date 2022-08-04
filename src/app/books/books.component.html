@@ -3,6 +3,11 @@
         <h1 class="display-4 m-0"><span class="">Our Mathematical World</span></h1>
         <h1 class="display-4 m-0"><span class="">Books</span></h1>
     </div>
-
+    <div class="buttontogglelayout">
+        <mat-button-toggle-group name="languagetoggle" (change)="onLanguageChange($event.value)" [value]="selectedLanguageType" aria-label="Language">
+            <mat-button-toggle value="eng">English</mat-button-toggle>
+            <mat-button-toggle value="sp">Spanish</mat-button-toggle>
+          </mat-button-toggle-group>
+    </div>
     <app-books-list [booklist]="booklist"></app-books-list>
 </div>

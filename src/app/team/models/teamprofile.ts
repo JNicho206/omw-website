@@ -5,5 +5,8 @@ export interface TeamProfile {
     description: string;
     type: teamtype;
     img: string;
+    twitter: string;
+    website: string;
+    email: string;
 }
 type teamtype = 'R&D' | 'DISTRICTPARTNERS' | 'FORMERR&D' | 'FORMERDISTRICTPARTNERS'; 

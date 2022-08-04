@@ -30,6 +30,11 @@
     height:100vh;
 }
 
+.voicewidth{
+  text-align: center;
+  width: 300px;
+  margin: 0 auto;
+}
 
      /* Media Query for Mobile Devices */
      @media (max-width: 480px) {
@@ -42,9 +47,6 @@
       }
       .book-image{
         width: 100%;
-      }
-      .voicewidth{
-        width: 300px;
       }
   }
     
@@ -61,9 +63,6 @@
     .book-image{
       width: 100%;
     }
-    .voicewidth{
-      width: 300px;
-    }
   }
     
   /* Media Query for Tablets Ipads portrait mode */
@@ -79,9 +78,6 @@
     }
     .book-image{
       width: 100%;
-    }
-    .voicewidth{
-      width: 300px;
     }
  }
     
@@ -100,10 +96,6 @@
     .book-image{
       width: 100%;
     }
-    .voicewidth{
-      width: 300px;
-      margin: 0 auto;
-  }
   }
 // .btn-success, .btn-success:hover, .btn-success:active, .btn-success:visited {
 //   color:white !important;
