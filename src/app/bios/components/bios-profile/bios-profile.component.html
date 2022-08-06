@@ -35,16 +35,24 @@
         <div style="width: 100%; height: 100%; position: absolute; top: 0; left: 0"></div>
       </div>
       <div class="col yellowbg text-20 shrinkrightmargin">
-        <p>Pronunciation: {{'{'}}{{biosprofile.pronunciation}}{{'}'}}</p>
-        <p class="lifetext" *ngIf="biosprofile.life">Life: {{biosprofile.life}}</p>
+        <p>
+          <span *ngIf="!isSpanish">Pronunciation: </span>
+          <span *ngIf="isSpanish">Crecio: </span> {{'{'}}{{biosprofile.pronunciation}}{{'}'}}</p>
+        <p class="lifetext" *ngIf="biosprofile.life">
+          <span *ngIf="!isSpanish">Life: </span>
+          <span *ngIf="isSpanish">Vida: </span> {{biosprofile.life}}</p>
         <p class="othertext" *ngIf="biosprofile.location">Location: {{biosprofile.location}}</p>
-        <p class="othertext" *ngIf="biosprofile.knownfor">Known For: {{biosprofile.knownfor}}</p>
+        <p class="othertext" *ngIf="biosprofile.knownfor">
+          <span *ngIf="!isSpanish">Known For: </span>
+          <span *ngIf="isSpanish">Conocida por: </span>
+          {{biosprofile.knownfor}}</p>
       </div>
     </div>
     
     <div class="row">
         <div class="col yellowbg mathheromargin">
-          <h1 class="whitetext text-35">MATH HERO</h1>
+          <h1  *ngIf="!isSpanish" class="whitetext text-35">MATH HERO</h1>
+          <h1  *ngIf="isSpanish" class="whitetext text-35">HÉROE MATEMÁTICO</h1>
           
           <p class="">{{biosprofile.mathhero}}</p>
           
@@ -54,7 +62,10 @@
               </li>
           </ul>
           
-          <p class="" *ngIf="biosprofile.funfact">Fun Fact: {{biosprofile.funfact}}</p>
+          <p class="" *ngIf="biosprofile.funfact">
+            <span *ngIf="!isSpanish">Fun Fact: </span>
+            <span *ngIf="isSpanish">Dato divertido: </span>
+             {{biosprofile.funfact}}</p>
           <div class="col bio-profile-img-div" *ngIf="biosprofile.profileimage2">
             <img class="bio-profile-img " src="{{'../../../../assets/bioimg/'+ biosprofile.profileimage2}}" alt="">
             <div style="width: 100%; height: 100%; position: absolute; top: 0; left: 0"></div>
@@ -70,7 +81,8 @@
               <html [html]="description"></html>
             </li>
           </ul>
-          <h2 class="m-0"><span class="text-primary job-reference">REFERENCES</span></h2>
+          <h2 class="m-0" *ngIf="!isSpanish"><span class="text-primary job-reference">REFERENCES</span></h2>
+          <h2 class="m-0" *ngIf="isSpanish"><span class="text-primary job-reference">REFERENCIAS Y CRÉDITOS FOTOGRÁFICOS</span></h2>
 
           <ul class="bulletlinks ">
             <li *ngFor="let reference of biosprofile.references; let i = index">

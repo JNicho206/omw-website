@@ -1,6 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import { ActivatedRoute } from '@angular/router';
-import { BiographyProfile } from '../../models/biographyprofile';
+import { BooleanLiteral } from 'typescript';
+import { BiographyProfile, languagetype } from '../../models/biographyprofile';
 import { BiosService } from '../../service/bios.service';
 
 @Component({
@@ -11,6 +12,7 @@ import { BiosService } from '../../service/bios.service';
 export class BiosProfileComponent implements OnInit {
   bioid : number; 
   biosprofile : BiographyProfile;
+  isSpanish = false;
   constructor(private route: ActivatedRoute,
     private biosservice: BiosService) { }
 
@@ -21,6 +23,7 @@ export class BiosProfileComponent implements OnInit {
       this.biosprofile = data.filter(data=>{
         return data.id==this.bioid;
       })[0];
+      this.isSpanish = (this.biosprofile.languagetype == languagetype.SP);
     });
 
   }
