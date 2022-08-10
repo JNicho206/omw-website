@@ -112,7 +112,7 @@
     {
         "id":11, 
         "fullname":"David Purpura",
-        "title":"Associate Professor",
+        "title":"Professor",
         "description":"David Purpura, Principal Investigator, is a Professor in the Department of Human Development and Family Studies at Purdue University and Director of the Center for Early Learning. His research program focuses on how young children learn math and how to identify children who are at risk for later math difficulties",
         "type":  "R&D",
         "img": "david.jpg",
@@ -155,7 +155,7 @@
     },
     {
         "id":15, 
-        "fullname":"Eeic Wilkey",
+        "fullname":"Eric Wilkey",
         "title":" Postdoctoral Fellow",
         "description":"Eric Wilkey, Co-Investigator, is an Assistant Professor in Psychology & Human Development at Vanderbilt University.  His research focuses on how executive functions integrate with math skills to support math cognition and math learning and what factors lead to math learning difficulties",
         "type":  "R&D",
@@ -200,7 +200,7 @@
     {
         "id":19, 
         "fullname":"Danielle Letts",
-        "title":"4th & 5th Grade teacher",
+        "title":"4th & 5th Grade Teacher",
         "description":"Danielle Letts is a 4th/5th-grade teacher at Hubbard Media Arts Academy in Alum Rock Union Elementary School District in San Jose. She has been teaching in Alum Rock for over 20 years and is involved at both her school site and school district in a number of capacities to support teachers' professional learning",
         "type":  "DISTRICTPARTNERS",
         "img": "Danielle.png",

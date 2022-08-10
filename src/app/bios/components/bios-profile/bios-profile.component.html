@@ -37,14 +37,16 @@
       <div class="col yellowbg text-20 shrinkrightmargin">
         <p>
           <span *ngIf="!isSpanish">Pronunciation: </span>
-          <span *ngIf="isSpanish">Crecio: </span> {{'{'}}{{biosprofile.pronunciation}}{{'}'}}</p>
+          <span *ngIf="isSpanish">Pronunciación: </span> {{'{'}}{{biosprofile.pronunciation}}{{'}'}}</p>
         <p class="lifetext" *ngIf="biosprofile.life">
           <span *ngIf="!isSpanish">Life: </span>
           <span *ngIf="isSpanish">Vida: </span> {{biosprofile.life}}</p>
-        <p class="othertext" *ngIf="biosprofile.location">Location: {{biosprofile.location}}</p>
+        <p class="othertext" *ngIf="biosprofile.location">
+          <span *ngIf="!isSpanish">Location: </span>
+          <span *ngIf="isSpanish">Localización: </span> {{biosprofile.location}}</p>
         <p class="othertext" *ngIf="biosprofile.knownfor">
           <span *ngIf="!isSpanish">Known For: </span>
-          <span *ngIf="isSpanish">Conocida por: </span>
+          <span *ngIf="isSpanish">Conocido/a por: </span>
           {{biosprofile.knownfor}}</p>
       </div>
     </div>

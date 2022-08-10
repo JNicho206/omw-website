@@ -3814,7 +3814,7 @@
   
   .card-title {
     margin-bottom: 0.65rem; 
-    font-size: 1.0rem;
+    font-size: 1.2rem;
   } 
   
   .card-subtitle {
@@ -3875,12 +3875,12 @@
      @media (max-width: 480px) {
 
       .card-img-top {
-        width: 275px !important;
+        width: 200px !important;
         height: 200px;
         border-top-left-radius: calc(0.25rem - 1px);
         border-top-right-radius: calc(0.25rem - 1px); }
       .card-img-top-default {
-        width: 100%;
+        width: 200px;
         height: 200px;
         border-top-left-radius: calc(0.25rem - 1px);
         border-top-right-radius: calc(0.25rem - 1px); }
@@ -3890,12 +3890,12 @@
   @media (min-width: 481px) and (max-width: 767px) {
 
     .card-img-top {
-      width: 400px !important;
+      width: 300px !important;
       height: 300px;
       border-top-left-radius: calc(0.25rem - 1px);
       border-top-right-radius: calc(0.25rem - 1px); }
       .card-img-top-default {
-        width: 100%;
+        width: 300px;
         height: 300px;
         border-top-left-radius: calc(0.25rem - 1px);
         border-top-right-radius: calc(0.25rem - 1px); }
@@ -3905,13 +3905,13 @@
   @media (min-width: 768px) and (max-width: 1024px){
 
     .card-img-top {
-      width: 400px !important;
+      width: 300px !important;
       height: 300px;
       border-top-left-radius: calc(0.25rem - 1px);
       border-top-right-radius: calc(0.25rem - 1px); }
       .card-img-top-default {
-        width: 100%;
-        height: 400px;
+        width: 300px;
+        height: 300px;
         border-top-left-radius: calc(0.25rem - 1px);
         border-top-right-radius: calc(0.25rem - 1px); }
   }
@@ -3920,14 +3920,14 @@
   @media (min-width: 1025px) {
 
     .card-img-top {
-      width: 500px !important;
-      height: 400px;
+      width: 300px !important;
+      height: 300px;
       border-top-left-radius: calc(0.25rem - 1px);
       border-top-right-radius: calc(0.25rem - 1px); }
   }
     .card-img-top-default {
-      width: 100%;
-      height: 400px;
+      width: 300px;
+      height: 300px;
       border-top-left-radius: calc(0.25rem - 1px);
       border-top-right-radius: calc(0.25rem - 1px); }
   .card-img-bottom {
@@ -8733,6 +8733,7 @@ mat-button-toggle {
     margin-top: 5px !important;
     padding: 0 5px !important;
     z-index: 3 !important;
+    margin: 3px;
 }
 
 mat-button-toggle:hover {
@@ -8742,7 +8743,7 @@ mat-button-toggle:hover {
 }
 
 .mat-button-toggle-checked {
-      box-shadow: 0 0 30px #000 !important;
+      // box-shadow: 0 0 30px #000 !important;
     border: 1px #000 solid !important;
     border-radius: 5px !important;
     background-color: #FFF !important;
