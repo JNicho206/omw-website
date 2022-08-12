@@ -1,6 +1,7 @@
 [
     {
         "id":1, 
+        "languagetype":"eng",
         "fullname":"KIKI BOKUNGU LOUYA",
         "quote":"IF I SEE A PROBLEM, AND I CAN FIGURE OUT A FIX, THEN I’M GOING TO ADDRESS THAT PROBLEM",
         "jobtitle": "CHEF & ACTIVIST",
@@ -35,7 +36,44 @@
         "photocreditimage": ""
     },
     {
+        "id":3, 
+        "languagetype":"sp",
+        "fullname":"KIKI BOKUNGU LOUYA",
+        "quote":"SE VEO UN PROBLEMA, Y PUEDO ENCONTRAR UNA SOLUCIÓN, ENTONCES VOY A ENFRENTAR ESE PROBLEMA",
+        "jobtitle": "CHEF Y ACTIVISTA",
+        "jobs": ["CHEF","ACTIVISTA","DUEÑA DE NEGOCIO","AGRICULTORA URBANA"],
+    
+        "life": "1982-presente",
+        "pronunciation": "key-key boh-KHUN-goo lou-ya",
+        "location": "Detroit, MI",
+        "knownfor": "Chef, & Activista para las sistemas de comida equitativos y saludables.",
+    
+        "mathhero": "Los chefs como Kiki preparan comida usando recetas que requieren del uso de conceptos mathemáticos como:",
+        "mathherobullet": [
+            	"<div class='bio-profile-mathhero'><a href='https://drive.google.com/file/d/1FJJHDzZl2lvvIXI6L12mE_8nuZnjofqZ/view?usp=sharing' target='_blank' class='link-dark'>Medidas</a></div>",
+            	"<div class='bio-profile-mathhero'><a href='https://drive.google.com/file/d/1WMKVCk0owrYDFJkBFEPlunA_R9Je2ixt/view?usp=sharing' target='_blank' class='link-dark'>Fraccions</a></div>",
+            	"<div class='bio-profile-mathhero'><a href='https://drive.google.com/file/d/1XHVzQYFRHWtqSNeCG8AlLTmDxSKYhIUQ/view?usp=sharing' target='_blank' class='link-dark'>Números mixtos</a></div>",
+            	"<div class='bio-profile-mathhero'><a href='https://drive.google.com/file/d/1zWly0VVSh8hMSqhDXlPu3G37RWLkVr8j/view?usp=sharing' target='_blank' class='link-dark'>Peso</a></div>",
+            	"<div class='bio-profile-mathhero'><a href='https://drive.google.com/file/d/1s1ykCGCinfDNhN_7PVfbzzo_cGSV4Oj5/view?usp=sharing' target='_blank' class='link-dark'>Temperatura</a></div>"
+        ],
+        "funfact": "Kiki fundó una tienda gourmet llamada 'Farmers Hand' para que su comunidad tuviera acceso a alimentos de las granjas locales.",
+    
+        "jobdescription": "TRANSFORMADO LA COMIDA",
+        "jobdescriptionbullets": [	"<div class='bio-profile-jobdescription'><a href='https://www.youtubetrimmer.com/view/?v=fqRTKkHobCk&start=435&end=512&loop=0' target='_blank' class='link-dark'>Kiki Bokungu Louya</a> es una chef de Detroit que ha recibido muchos premios.</div>",
+                            "<div class='bio-profile-jobdescription'>Las empresas y restaurantes de Kiki están interesados en proveer a las comunidades con alimentos saludables proporcionados por agricultores locales. Sus organizaciones apoyan el comercio justo de los alimentos y el trato justo de los trabajadores agrícolas.</div>",
+                            "<div class='bio-profile-jobdescription'>Kiki combina su pasión por las matemáticas, las ciencias, y encontrar soluciones a problemas con la concina.</div>",
+                            "<div class='bio-profile-jobdescription'>Kiki compitió en el programa de televisión Top Chef: Portland.</div>"],
+        "references": [	"Kiki Louya top chef portland detroit restaurateur.",
+                    "Moskin, J. (2019, July 16). Black Chefs Changing Food in America.",
+                    "K. Kiki Bokungu Louya."
+                    ],
+        "profileimage": "Kiki_B_Louya.jpg",
+        "profileimage2": "Kiki_B_Louyaimg2.jpg",
+        "photocreditimage": ""
+    },
+    {
         "id":2, 
+        "languagetype":"eng",
         "fullname":"ROBERT (BOB) MOSES",
         "quote":"MATHEMATICS LITERACY IS A CIVIL RIGHTS ISSUE.",
         "jobtitle": "MATHEMATICIAN & ACTIVIST",
