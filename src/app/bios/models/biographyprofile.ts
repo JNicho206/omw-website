@@ -13,6 +13,7 @@ export interface BiographyProfile {
 
     funfact: string;
     mathhero: string;
+    mathherounderbullet: string;
     mathherobullet: [string];
 
     jobdescription: string;

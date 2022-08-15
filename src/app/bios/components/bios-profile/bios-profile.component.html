@@ -64,6 +64,8 @@
               </li>
           </ul>
           
+          <p class="" *ngIf="biosprofile.mathherounderbullet">
+             {{biosprofile.mathherounderbullet}}</p>
           <p class="" *ngIf="biosprofile.funfact">
             <span *ngIf="!isSpanish">Fun Fact: </span>
             <span *ngIf="isSpanish">Dato divertido: </span>
@@ -88,7 +90,8 @@
 
           <ul class="bulletlinks ">
             <li *ngFor="let reference of biosprofile.references; let i = index">
-              <div class='bio-profile-jobdescription'>{{reference}}</div>
+              <html [html]="reference"></html>
+              <!-- <div class='bio-profile-jobdescription'>{{reference}}</div> -->
             </li>
           </ul>
         </div>
