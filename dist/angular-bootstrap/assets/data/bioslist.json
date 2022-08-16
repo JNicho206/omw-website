@@ -20,7 +20,7 @@
             "<div class='bio-profile-mathhero'><a href='https://drive.google.com/file/d/12fx3jUmUxTGXSvSujCEHj0TjfkB0bFiB/view' target='_blank' class='link-dark'>Weights</a></div>",
             "<div class='bio-profile-mathhero'><a href='https://drive.google.com/file/d/18Xf9qadiblQX4vNhkrcB8-J-d7D6e-85/view' target='_blank' class='link-dark'>Temperature</a></div>"
         ],
-        "mathherounderbullet": "<div class='bio-profile-mathhero'><a href='https://drive.google.com/file/d/1WUTYBKfI7kdFYFX2_kOQk6izCOlys2Im/view' target='_blank' class='link-dark'>Measurement</a></div>",
+        "mathherounderbullet": "text under bullet",
         "funfact": "Kiki founded a gourmet grocery store called “Farmers Hand” so her community could have access to food from local farms.",
 
         "jobdescription": "URBAN FOOD ADVOCATE",
@@ -28,9 +28,9 @@
                                 ,"<div class='bio-profile-jobdescription'>Kiki's companies and restaurants are interested in providing communities healthy foods supplied by local farmers. Her organizations support the fair treatment of food and farm workers.</div>"
                                 ,"<div class='bio-profile-jobdescription'>Kiki combines her love of math, problem solving, and science with her cooking skills.</div>"
                                 ,"<div class='bio-profile-jobdescription'>Kiki competed on the TV show <a href='https://drive.google.com/file/d/1cWPRg8vVHpF2UOlsgoQ20_QgdvIxQtLV/view' target='_blank' class='link-dark'>Top Chef: Portland</a>.</div>"],
-        "references": ["Kiki Louya top chef portland detroit restaurateur."
-                        ,"Moskin, J. (2019, July 16). Black Chefs Changing Food in America."
-                        ,"K. Kiki Bokungu Louya."
+        "references": ["<div class='bio-profile-jobdescription'>Kiki Louya top chef portland detroit restaurateur.</div>"
+                        ,"<div class='bio-profile-jobdescription'>Moskin, J. (2019, July 16). Black Chefs Changing Food in America.</div>"
+                        ,"<div class='bio-profile-jobdescription'>K. Kiki Bokungu Louya.</div>"
                     ],
         "profileimage": "Kiki_B_Louya.jpg",
         "profileimage2": "Kiki_B_Louyaimg2.jpg",
@@ -57,7 +57,7 @@
             	"<div class='bio-profile-mathhero'><a href='https://drive.google.com/file/d/1zWly0VVSh8hMSqhDXlPu3G37RWLkVr8j/view?usp=sharing' target='_blank' class='link-dark'>Peso</a></div>",
             	"<div class='bio-profile-mathhero'><a href='https://drive.google.com/file/d/1s1ykCGCinfDNhN_7PVfbzzo_cGSV4Oj5/view?usp=sharing' target='_blank' class='link-dark'>Temperatura</a></div>"
         ],
-        "mathherounderbullet": "<div class='bio-profile-mathhero'><a href='https://drive.google.com/file/d/1WUTYBKfI7kdFYFX2_kOQk6izCOlys2Im/view' target='_blank' class='link-dark'>Measurement</a></div>",
+        "mathherounderbullet": "",
         "funfact": "Kiki fundó una tienda gourmet llamada 'Farmers Hand' para que su comunidad tuviera acceso a alimentos de las granjas locales.",
 
         "jobdescription": "TRANSFORMADO LA COMIDA",
@@ -65,9 +65,9 @@
                             "<div class='bio-profile-jobdescription'>Las empresas y restaurantes de Kiki están interesados en proveer a las comunidades con alimentos saludables proporcionados por agricultores locales. Sus organizaciones apoyan el comercio justo de los alimentos y el trato justo de los trabajadores agrícolas.</div>",
                             "<div class='bio-profile-jobdescription'>Kiki combina su pasión por las matemáticas, las ciencias, y encontrar soluciones a problemas con la concina.</div>",
                             "<div class='bio-profile-jobdescription'>Kiki compitió en el programa de televisión Top Chef: Portland.</div>"],
-        "references": [	"Kiki Louya top chef portland detroit restaurateur.",
-                    "Moskin, J. (2019, July 16). Black Chefs Changing Food in America.",
-                    "K. Kiki Bokungu Louya."
+        "references": [	"<div class='bio-profile-jobdescription'>Kiki Louya top chef portland detroit restaurateur.</div>",
+                    "<div class='bio-profile-jobdescription'>Moskin, J. (2019, July 16). Black Chefs Changing Food in America.</div>",
+                    "<div class='bio-profile-jobdescription'>K. Kiki Bokungu Louya.</div>"
                     ],
         "profileimage": "Kiki_B_Louya.jpg",
         "profileimage2": "Kiki_B_Louyaimg2.jpg",
@@ -93,15 +93,15 @@
             "<div class='bio-profile-mathhero'>To summarize situations visually using <a href='https://drive.google.com/file/d/1zVfDi5kxyPEWXptEvJaZsRmyzX4BLd9n/view?usp=sharing' target='_blank' class='link-dark'>graphs</a> and <a href='https://drive.google.com/file/d/1Rg9EpMFnvaHLN2lvQwiMDosZb9kq06LF/view?usp=sharing' target='_blank' class='link-dark'>charts</a>.</div>",
             "<div class='bio-profile-mathhero'>To expand on the arithmetic notion of “How many?” to include <a href='https://drive.google.com/file/d/1pYQVSs1F_UCOA5GYF2oNTpfwMZNkINx3/view?usp=sharing' target='_blank' class='link-dark'>directions</a> (“Which way?”) and <a href='https://drive.google.com/file/d/1JxOSGJCdCjRVk14JrXAGXriBov3YLyLE/view?usp=sharing' target='_blank' class='link-dark'>dimensions</a> seen in algebra.</div>"
             ],
-        "mathherounderbullet": "<div class='bio-profile-mathhero'><a href='https://drive.google.com/file/d/1WUTYBKfI7kdFYFX2_kOQk6izCOlys2Im/view' target='_blank' class='link-dark'>Measurement</a></div>",
+        "mathherounderbullet": "",
         "funfact": "",
         "jobdescription": "ALGEBRA OPENS DOORS",
         "jobdescriptionbullets": ["<div class='bio-profile-jobdescription'><a href='https://www.youtubetrimmer.com/view/?v=a6_O-MPe8O0&start=1&end=21&loop=0' target='_blank' class='link-dark'>Bob Moses</a> was best known for developing The Algebra Project. <a href='https://drive.google.com/file/d/1RZkYCl4OI0ELXBXQhXIlgssREopfPkvH/view?usp=sharing' target='_blank' class='link-dark'>Algebra</a> is often described as the language of summary. Bob viewed mastery of algebra as the first step to gaining access to <a href='https://www.youtubetrimmer.com/view/?v=HefIMcBz3wI&start=62&end=100&loop=0' target='_blank' class='link-dark'>educational and employment opportunities</a>.</div>"
                                 ,"<div class='bio-profile-jobdescription'>Bob used <a href='https://www.youtubetrimmer.com/view/?v=HefIMcBz3wI&start=226&end=258&loop=0' target='_blank' class='link-dark'>math literacy</a> as a tool to organize the community. He learned this technique while registering people to vote during the Civil Rights Movement of the 1960s.</div>"
                                 ,"<div class='bio-profile-jobdescription'>The Algebra Project helps students develop techniques to remove the mystery from math questions. Bob’s teachings help students realize <a href='https://www.youtubetrimmer.com/view/?v=fEYIi1iYFsA&start=2709&end=2732&loop=0' target='_blank' class='link-dark'>symbols are created by someone</a>, have a meaning, and are on the paper for a reason.</div>"
                                 ,"<div class='bio-profile-jobdescription'>The Algebra Project helps students realize “the concept of being ‘<a href='https://www.youtubetrimmer.com/view/?v=HefIMcBz3wI&start=173&end=190&loop=0' target='_blank' class='link-dark'>smart</a>’ is something that you become, it’s not something that you are. If I don’t know it now, then I’ll know it tomorrow, if I put in the effort.</div>"],
-        "references": ["Moses, R., Maxwell West, M., & Davis, F. E. (2009). Culturally Responsive Mathematics Education in the Algebra Project. In B. Greer, S. Mukhopadhyay, A. B. Powell, & S. Nelson-Barber (Eds.), Culturally responsive mathematics education (pp. 239-256). Routledge"
-                        ,"Moses, R. P., & Cobb, C. E. (2001). Radical Equations: Civil Rights from Mississippi to the Algebra Project. Beacon Press"
+        "references": ["<div class='bio-profile-jobdescription'>Moses, R., Maxwell West, M., & Davis, F. E. (2009). Culturally Responsive Mathematics Education in the Algebra Project. In B. Greer, S. Mukhopadhyay, A. B. Powell, & S. Nelson-Barber (Eds.), Culturally responsive mathematics education (pp. 239-256). Routledge</div>"
+                        ,"<div class='bio-profile-jobdescription'>Moses, R. P., & Cobb, C. E. (2001). Radical Equations: Civil Rights from Mississippi to the Algebra Project. Beacon Press</div>"
                     ],
 
         "profileimage": "Bob_Moses.jpg",
@@ -117,28 +117,29 @@
         "jobs": ["PROFESSIONAL GOLFER","SPORTS"],
 
         "life": "1991-present",
-        "pronunciation": "a’ßram ‘anser",
+        "pronunciation": "aßram anser",
         "location": "San Antonio, Texas",
         "knownfor": "Professional golfing",
 
         "mathhero": "Abraham uses math in many ways when he plays golf:",
         "mathherobullet": [
             "<div class='bio-profile-mathhero'>He makes an <a href='https://drive.google.com/file/d/1jRjsQL8oLfe8R2RsBCwgiB5x-19oges4/view?usp=sharing' target='_blank' class='link-dark'>estimate</a> of the <a href='https://drive.google.com/file/d/1A4HNZvX82R-e1m1vHSUdGOYfJ-xUzev4/view?usp=sharing' target='_blank' class='link-dark'>distance</a> between him, the ball, and the hole.</div>",
-            "<div class='bio-profile-mathhero'>Next, he analyzes the possible <a href='https://drive.google.com/file/d/1bZLl8t8hcDF3j6R3OLoxslp1QgQbelM8/view?usp=sharing' target='_blank' class='link-dark'>angles</a> to hit the ball to keep it on the grass ("fairway"). A bad angle will make his ball land in a trap like tall grass, sand, or water.</div>",
+            "<div class='bio-profile-mathhero'>Next, he analyzes the possible <a href='https://drive.google.com/file/d/1bZLl8t8hcDF3j6R3OLoxslp1QgQbelM8/view?usp=sharing' target='_blank' class='link-dark'>angles</a> to hit the ball to keep it on the grass ('fairway'). A bad angle will make his ball land in a trap like tall grass, sand, or water.</div>",
             "<div class='bio-profile-mathhero'>Finally, he <a href='https://drive.google.com/file/d/1lcb2nz9bN1yuvzcXW7UIFhJgP09JqSBY/view?usp=sharing' target='_blank' class='link-dark'>calculates</a> the <a href='https://drive.google.com/file/d/15Li9ssGKGpqXlx8bIEsRf1egCpxOLSP7/view?usp=sharing' target='_blank' class='link-dark'>force</a> with which to hit the ball to put it in the hole perfectly - or leave it as close as possible.</div>"
         ],
-        "mathherounderbullet": "<div class='bio-profile-mathhero'><a href='https://drive.google.com/file/d/1WUTYBKfI7kdFYFX2_kOQk6izCOlys2Im/view' target='_blank' class='link-dark'>Measurement</a></div>",
+        "mathherounderbullet": "",
         "funfact": "",
         "jobdescription": "HOLE IN ONE!",
         "jobdescriptionbullets": ["<div class='bio-profile-jobdescription'><a href='https://www.youtubetrimmer.com/view/?v=iuDFNtDnxZw&start=1&end=17&loop=0' target='_blank' class='link-dark'>Abraham Ancer</a> is a professional golfer. A professional golfers’ job is to get the ball into each of the 18 holes on the golf course with the <a href='https://drive.google.com/file/d/1_yyXeCZ6TKlE_EiN19qay6tn3xDtuad-/view?usp=sharing' target='_blank' class='link-dark'>least</a> amount of ball strokes.</div>"
                                 ,"<div class='bio-profile-jobdescription'>Abraham’s father introduced him to golf at a very young age. He practiced at the local course in Reynosa, Mexico. Each hole he targets has a <a href='https://drive.google.com/file/d/18qhTYF1UsNZgbL74D3w99g1lC6hSqCJV/view?usp=sharing' target='_blank' class='link-dark'>circumference</a> of 4.5 inches or 11 centimeters.</div>"
                                 ,"<div class='bio-profile-jobdescription'>Abraham is the fourth Mexican to win on the Professional Golfers’ Association (PGA) Tour. He is the first to win a <a href='https://www.youtubetrimmer.com/view/?v=iuDFNtDnxZw&start=499&end=526&loop=0' target='_blank' class='link-dark'>world golf championship match</a>. One of his greatest wishes is to make golf more accessible to all children regardless of their background.</div>"
                                 ],
-        "references": ["Ancer, A. & Gabrielle Herzig (2021, May 10). How Abraham Ancer, with no coach, made it to the PGA Tour from a tiny town in Mexico. GolfDigest International. https://www.golfdigest.com/story/abraham-ancer-journeys-pga-tour"
-                        ,"DP World Tour. (2021, August 8). Abraham Ancer becomes first Mexican to win a WGC | 2021 WGC - FedEx St. Jude International [Video]. YouTube. https://www.youtube.com/watch?v=iuDFNtDnxZw"
-                        ,"Photo from Twitter @Abraham_Ancer"
+        "references": ["<div class='bio-profile-jobdescription'>Ancer, A. & Gabrielle Herzig (2021, May 10). How Abraham Ancer, with no coach, made it to the PGA Tour from a tiny town in Mexico. <a href='https://www.golfdigest.com/story/abraham-ancer-journeys-pga-tour' target='_blank' class='link-dark'>GolfDigest International</a></div>"
+                        ,"<div class='bio-profile-jobdescription'>DP World Tour. (2021, August 8). Abraham Ancer becomes first Mexican to win a WGC | 2021 WGC - FedEx St. Jude International [Video]. <a href='https://www.youtube.com/watch?v=iuDFNtDnxZw' target='_blank' class='link-dark'>YouTube</a></div>"
+                        ,"<div class='bio-profile-jobdescription'>Photo from Twitter @Abraham_Ancer</div>"
                     ],
-        "profileimage": "Abraham_Ancer.jpg",
+        "profileimage": "Abraham_Ancer.jpeg",
+        "profileimage2": "",
         "photocreditimage": ""
     },
     {
@@ -160,7 +161,7 @@
             "<div class='bio-profile-mathhero'>Write rules for computers to follow.<a href='https://www.youtubetrimmer.com/view/?v=Cu3R5it4cQs&start=13&end=23&loop=0' target='_blank' class='link-dark'>Computers</a> <a href='https://drive.google.com/file/d/11UzxlNCZRm63vJeLKJ8gQA4F7keKx7lv/view?usp=sharing' target='_blank' class='link-dark'>decompose</a> rules into strings of <a href='https://www.youtubetrimmer.com/view/?v=Cu3R5it4cQs&start=22&end=38&loop=0' target='_blank' class='link-dark'>1s and 0s</a>.</div>",
             "<div class='bio-profile-mathhero'>Develop a <a href='https://drive.google.com/file/d/1ie2Rl0zoa160-0baWqfzxFfFEZgv7XSl/view?usp=sharing' target='_blank' class='link-dark'>coding</a> language to provide <a href='https://drive.google.com/file/d/15Li9ssGKGpqXlx8bIEsRf1egCpxOLSP7/view?usp=sharing' target='_blank' class='link-dark'>computers</a> instructions on how to operate.</div>"
         ],
-        "mathherounderbullet": "<div class='bio-profile-mathhero'><a href='https://drive.google.com/file/d/1WUTYBKfI7kdFYFX2_kOQk6izCOlys2Im/view' target='_blank' class='link-dark'>Measurement</a></div>",
+        "mathherounderbullet": "",
         "funfact": "",
         "jobdescription": "SOFTWARE CREATOR",
         "jobdescriptionbullets": ["<div class='bio-profile-jobdescription'>Andrew Ozor is a software engineer. A software engineer designs and writes programs for electronic devices.</div>"
@@ -168,10 +169,11 @@
                                 ,"<div class='bio-profile-jobdescription'>Andrew always wanted to create his own video games. He learned coding in college and discovered there were so many different things he could design beyond video games.</div>"
 					            ,"<div class='bio-profile-jobdescription'>Andrew decided he wanted to focus on developing codes that help make systems easier for people to use.</div>"
                                 ],
-        "references": ["A. Ozor, personal communication, February 04, 2021"
-                        ,"GCFGlobal.org. (n.d.). Computer basics: What is a computer? https://edu.gcfglobal.org/en/computerbasics/what-is-a-computer/1/"
+        "references": ["<div class='bio-profile-jobdescription'>A. Ozor, personal communication, February 04, 2021</div>"
+                        ,"<div class='bio-profile-jobdescription'>GCFGlobal.org. (n.d.). Computer basics:  <a href=' https://edu.gcfglobal.org/en/computerbasics/what-is-a-computer/1' target='_blank' class='link-dark'>What is a computer?</a></div>"
                     ],
         "profileimage": "Andrew_Ozor.jpg",
+        "profileimage2": "",
         "photocreditimage": "Andrew Ozor, Photo Credit"
     }
 ]
