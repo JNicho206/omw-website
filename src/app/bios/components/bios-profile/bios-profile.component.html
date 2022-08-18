@@ -36,17 +36,17 @@
       </div>
       <div class="col yellowbg text-20 shrinkrightmargin">
         <p>
-          <span *ngIf="!isSpanish">Pronunciation: </span>
-          <span *ngIf="isSpanish">Pronunciación: </span> {{'{'}}{{biosprofile.pronunciation}}{{'}'}}</p>
-        <p class="lifetext" *ngIf="biosprofile.life">
-          <span *ngIf="!isSpanish">Life: </span>
-          <span *ngIf="isSpanish">Vida: </span> {{biosprofile.life}}</p>
-        <p class="othertext" *ngIf="biosprofile.location">
-          <span *ngIf="!isSpanish">Location: </span>
-          <span *ngIf="isSpanish">Localización: </span> {{biosprofile.location}}</p>
-        <p class="othertext" *ngIf="biosprofile.knownfor">
-          <span *ngIf="!isSpanish">Known For: </span>
-          <span *ngIf="isSpanish">Conocido/a por: </span>
+          <span class="boldtext" *ngIf="!isSpanish">Pronunciation: </span>
+          <span class="boldtext" *ngIf="isSpanish">Pronunciación: </span> {{'{'}}{{biosprofile.pronunciation}}{{'}'}}</p>
+        <p  *ngIf="biosprofile.life">
+          <span class="boldtext" *ngIf="!isSpanish">Life: </span>
+          <span class="boldtext" *ngIf="isSpanish">Vida: </span> {{biosprofile.life}}</p>
+        <p *ngIf="biosprofile.location">
+          <span class="boldtext" *ngIf="!isSpanish">Location: </span>
+          <span class="boldtext" *ngIf="isSpanish">Localización: </span> {{biosprofile.location}}</p>
+        <p *ngIf="biosprofile.knownfor">
+          <span class="boldtext" *ngIf="!isSpanish">Known For: </span>
+          <span class="boldtext" *ngIf="isSpanish">Conocido/a por: </span>
           {{biosprofile.knownfor}}</p>
       </div>
     </div>
@@ -65,11 +65,13 @@
           </ul>
           
           <p class="" *ngIf="biosprofile.mathherounderbullet">
-             {{biosprofile.mathherounderbullet}}</p>
+             
+            <html [html]="biosprofile.mathherounderbullet"></html></p>
           <p class="" *ngIf="biosprofile.funfact">
             <span *ngIf="!isSpanish">Fun Fact: </span>
             <span *ngIf="isSpanish">Dato divertido: </span>
-             {{biosprofile.funfact}}</p>
+             
+            <html [html]="biosprofile.funfact"></html></p>
           <div class="col bio-profile-img-div" *ngIf="biosprofile.profileimage2">
             <img class="bio-profile-img " src="{{'../../../../assets/bioimg/'+ biosprofile.profileimage2}}" alt="">
             <div style="width: 100%; height: 100%; position: absolute; top: 0; left: 0"></div>
