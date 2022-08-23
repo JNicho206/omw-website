@@ -39,16 +39,16 @@ export class SenseService {
 	private _action$ = new Subject<Action>();
 	action$ = this._action$.asObservable();
 
-	hasMicrofonAccess$ = from(
-		navigator.mediaDevices.getUserMedia({ audio: true })
-	).pipe(
-		map(() => true),
-		catchError((err) => {
-			console.error(err);
-			console.log('No microphone access');
-			return of(false);
-		})
-	);
+	// hasMicrofonAccess$ = from(
+	// 	navigator.mediaDevices.getUserMedia({ audio: true })
+	// ).pipe(
+	// 	map(() => true),
+	// 	catchError((err) => {
+	// 		console.error(err);
+	// 		console.log('No microphone access');
+	// 		return of(false);
+	// 	})
+	// );
 
 	set isSpeaking(val: boolean) {
 		this.speaker._isSpeaking = val;
