@@ -17,7 +17,11 @@ export class BiosComponent implements OnInit {
   ngOnInit(): void {
     this.selectedLanguageType = languagetype.ENG;
     this.biosservice.getallbios().subscribe(data => {
-      this.fullBiographylist= data;
+      this.fullBiographylist= data.sort(function(a, b){
+        if(a.fullname < b.fullname) { return -1; }
+        if(a.fullname > b.fullname) { return 1; }
+        return 0;
+    });
       this.updatedataBylanguage();
     });
   }

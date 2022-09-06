@@ -12,6 +12,9 @@
                             <h5>{{item.fullname}}</h5>
                             <i>{{item.title}}</i>
                         </div>
+                        <div class="flex-column justify-content-center bg-light">
+                            <a class="font-weight-bold hyperlink-text linkcursor linkcolor" (click)="gotofullteamprofile(item.id)">Full Bio</a>
+                        </div>
                         <div class=" align-items-center justify-content-center bg-light">
                             <a *ngIf="item.twitter" class="btn btn-outline-primary rounded-circle text-center mr-2 px-0" style="width: 36px; height: 36px;" (click)="gettwitterbyindex(item.twitter)"><fa-icon [icon]="['fab', 'twitter']"></fa-icon></a>
                             <a *ngIf="item.website" class="btn btn-outline-primary rounded-circle text-center mr-2 px-0" style="width: 36px; height: 36px;" (click)="getwebpagebyindex(item.website)"><fa-icon [icon]="['fas', 'globe']"></fa-icon></a>
@@ -21,7 +24,6 @@
                         </div>
                     </div>
                 </div>
-                <a class="font-weight-bold hyperlink-text linkcursor linkcolor" (click)="gotofullteamprofile(item.id)">Full Bio</a>
                 
             </div>
         </div>
