@@ -8,5 +8,6 @@ export interface TeamProfile {
     twitter: string;
     website: string;
     email: string;
+    location: string;
 }
 type teamtype = 'R&D' | 'DISTRICTPARTNERS' | 'FORMERR&D' | 'FORMERDISTRICTPARTNERS'; 

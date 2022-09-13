@@ -10,7 +10,7 @@
                     <div class="card-body text-center p-0">
                         <div class="flex-column justify-content-center bg-light">
                             <h5>{{item.fullname}}</h5>
-                            <i>{{item.title}}</i>
+                            <i>{{item.title}}<span *ngIf="item.location">, {{item.location}}</span></i>
                         </div>
                         <div class="flex-column justify-content-center bg-light">
                             <a class="font-weight-bold hyperlink-text linkcursor linkcolor" (click)="gotofullteamprofile(item.id)">Full Bio</a>

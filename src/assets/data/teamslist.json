@@ -8,7 +8,8 @@
         "img": "Rob_Duncan.jpg",
         "twitter":"rjduncan5",
         "website":"www.purdue.edu/hhs/hdfs/directory/faculty/duncan_robert.html",
-        "email":"duncan99@purdue.edu"
+        "email":"duncan99@purdue.edu",
+        "location": "Purdue University"
     },
     {
         "id":2, 
@@ -19,7 +20,8 @@
         "img": "Sarah_Eason.jpg",
         "twitter":"SarahHEason",
         "website":"",
-        "email":"season@purdue.edu"
+        "email":"season@purdue.edu",
+        "location": "Purdue University"
     },
     {
         "id":3, 
@@ -30,7 +32,8 @@
         "img": "Michael_Eiland.jpg",
         "twitter":"",
         "website":"",
-        "email":"meiland@purdue.edu"
+        "email":"meiland@purdue.edu",
+        "location": "Purdue University"
     },
     {
         "id":4, 
@@ -41,7 +44,8 @@
         "img": "Caroline_Hornburg.jpg",
         "twitter":"cbhornburg",
         "website":"www.vtlearnlab.com",
-        "email":"chornburg@vt.edu"
+        "email":"chornburg@vt.edu",
+        "location": "Purdue University"
     },
     {
         "id":5, 
@@ -52,7 +56,8 @@
         "img": "Amanda_Mayes.jpg",
         "twitter":"mayes_mandy",
         "website":"secondactresearch.com",
-        "email":"asmayes@purdue.edu"
+        "email":"asmayes@purdue.edu",
+        "location": "Purdue University"
     },
     {
         "id":6, 
@@ -63,7 +68,8 @@
         "img": "Tamika_McElveen.jpg",
         "twitter":"TamikaMcElveen",
         "website":"",
-        "email":"tmcelvee@purdue.edu"
+        "email":"tmcelvee@purdue.edu",
+        "location": "Purdue University"
     },
     {
         "id":7, 
@@ -74,7 +80,8 @@
         "img": "Gigliana_Melzi.jpg",
         "twitter":"GiglianaMelzi",
         "website":"https://www.cfdmelzi.org",
-        "email":"gigliana.melzi@nyu.edu"
+        "email":"gigliana.melzi@nyu.edu",
+        "location": "New York University"
     },
     {
         "id":8, 
@@ -85,7 +92,8 @@
         "img": "Dana_Coto_Miller.jpg",
         "twitter":"danacotto",
         "website":"danamillercotto.com",
-        "email":"dmillerc@kent.edu"
+        "email":"dmillerc@kent.edu",
+        "location": "Kent State University"
     },
     {
         "id":9, 
@@ -96,7 +104,8 @@
         "img": "Sarah_Powell.jpg",
         "twitter":"sarahpowellphd",
         "website":"www.sarahpowellphd.com",
-        "email":"srpowell@utexas.edu"
+        "email":"srpowell@utexas.edu",
+        "location": "The University of Texas at Austin"
     },
     {
         "id":10, 
@@ -107,7 +116,8 @@
         "img": "Nydia_Prishker.jpg",
         "twitter":"nprishker",
         "website":"www.stac.edu/nydia",
-        "email":"nprishke@stac.edu"
+        "email":"nprishke@stac.edu",
+        "location": "St. Thomas Aquinas College"
     },
     {
         "id":11, 
@@ -118,7 +128,8 @@
         "img": "David_Purpura.jpg",
         "twitter":"DavidJPurpura",
         "website":"www.davidpurpura.com",
-        "email":"Purpura@purdue.edu"
+        "email":"Purpura@purdue.edu",
+        "location": "Purdue University"
     },
     {
         "id":12, 
@@ -129,7 +140,8 @@
         "img": "Andy_Ribner.jpg",
         "twitter":"andyribner",
         "website":"www.andyribner.com",
-        "email":"andy.ribner@pitt.edu"
+        "email":"andy.ribner@pitt.edu",
+        "location": "University of Pittsburgh"
     },
     {
         "id":13, 
@@ -140,7 +152,8 @@
         "img": "Bernedette_Salgarino.jpg",
         "twitter":"salg274",
         "website":"",
-        "email":"bernadette.salgarino@gmail.com"
+        "email":"bernadette.salgarino@gmail.com",
+        "location": "Santa Clara County Office of Education"
     },
     {
         "id":14, 
@@ -151,7 +164,8 @@
         "img": "Sara_Schmitt.jpg",
         "twitter":"SaraAnneSchmitt",
         "website":"",
-        "email":"sschmitt@uoregon.edu"
+        "email":"sschmitt@uoregon.edu",
+        "location": "​University of Oregon"
     },
     {
         "id":15, 
@@ -162,7 +176,8 @@
         "img": "Eric_Wilkey.jpg",
         "twitter":"ericdwilkey",
         "website":"www.ericdwilkey.com",
-        "email":"eric.d.wilkey@vanderbilt.edu"
+        "email":"eric.d.wilkey@vanderbilt.edu",
+        "location": "Vanderbilt University"
     },
     {
         "id":16, 
@@ -173,7 +188,8 @@
         "img": "Audrey_Diaz.jpg",
         "twitter":"",
         "website":"",
-        "email":""
+        "email":"",
+        "location": "Alum Rock Union School District"
     },
     {
         "id":17, 
@@ -184,7 +200,8 @@
         "img": "OMW_logo_for_headshots.jpg",
         "twitter":"",
         "website":"",
-        "email":""
+        "email":"",
+        "location": "Middletown City School District"
     },
     {
         "id":18, 
@@ -195,7 +212,8 @@
         "img": "Sandra_Kunze.jpg",
         "twitter":"",
         "website":"",
-        "email":""
+        "email":"",
+        "location": "Alum Rock Union School District"
     },
     {
         "id":19, 
@@ -206,7 +224,8 @@
         "img": "Danielle_Letts.jpg",
         "twitter":"",
         "website":"",
-        "email":""
+        "email":"",
+        "location": "Alum Rock Union School District"
     },
     {
         "id":20, 
@@ -217,7 +236,8 @@
         "img": "OMW_logo_for_headshots.jpg",
         "twitter":"",
         "website":"",
-        "email":""
+        "email":"",
+        "location": "Middletown City School District"
     },
     {
         "id":21, 
@@ -228,7 +248,8 @@
         "img": "Kelly_Rutledge.jpg",
         "twitter":"",
         "website":"",
-        "email":""
+        "email":"",
+        "location": "Middletown City School District"
     },
     {
         "id":22, 
@@ -239,7 +260,8 @@
         "img": "Adam_Smith.jpg",
         "twitter":"",
         "website":"",
-        "email":""
+        "email":"",
+        "location": "EF+Math"
     },
     {
         "id":23, 
@@ -250,7 +272,8 @@
         "img": "Kyoung_Chose.jpg",
         "twitter":"",
         "website":"",
-        "email":""
+        "email":"",
+        "location": ""
     },
     {
         "id":24, 
@@ -261,7 +284,8 @@
         "img": "Le_Tran.jpg",
         "twitter":"",
         "website":"",
-        "email":""
+        "email":"",
+        "location": ""
     },
     {
         "id":25, 
@@ -272,7 +296,8 @@
         "img": "Matin_Abdel_Qawi.jpg",
         "twitter":"",
         "website":"",
-        "email":""
+        "email":"",
+        "location": ""
     },
     {
         "id":26, 
@@ -283,7 +308,8 @@
         "img": "Michelle_Hurr.jpg",
         "twitter":"",
         "website":"",
-        "email":""
+        "email":"",
+        "location": ""
     },
     {
         "id":27, 
@@ -294,7 +320,8 @@
         "img": "Megan_Weisman.jpg",
         "twitter":"",
         "website":"",
-        "email":""
+        "email":"",
+        "location": ""
     },
     {
         "id":28, 
@@ -305,7 +332,8 @@
         "img": "OMW_logo_for_headshots.jpg",
         "twitter":"",
         "website":"",
-        "email":""
+        "email":"",
+        "location": ""
     },
     {
         "id":29, 
@@ -316,7 +344,8 @@
         "img": "Rex_Howard.jpg",
         "twitter":"",
         "website":"",
-        "email":""
+        "email":"",
+        "location": ""
     },
     {
         "id":30, 
@@ -327,7 +356,8 @@
         "img": "Lyndsey_Pierce.jpg",
         "twitter":"",
         "website":"",
-        "email":""
+        "email":"",
+        "location": ""
     },
     {
         "id":31, 
@@ -338,6 +368,7 @@
         "img": "OMW_logo_for_headshots.jpg",
         "twitter":"",
         "website":"",
-        "email":""
+        "email":"",
+        "location": ""
     }
 ]
