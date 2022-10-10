@@ -45,7 +45,7 @@
         "twitter":"cbhornburg",
         "website":"www.vtlearnlab.com",
         "email":"chornburg@vt.edu",
-        "location": "Purdue University"
+        "location": "Virginia Tech"
     },
     {
         "id":5, 
@@ -98,7 +98,7 @@
     {
         "id":9, 
         "fullname":"Sarah Powell",
-        "title":"Assistant Professor",
+        "title":"Associate Professor",
         "description":"Sarah Powell, Co-Principal Investigator, is an Associate Professor in the Department of Special Education at The University of Texas at Austin. Sarah conducts research in mathematics for students who experience mathematics difficulty and works on grants related to mathematics read-alouds, word-problem solving, data-based decision making in mathematics, intervention replication, and music in mathematics",
         "type":  "R&D",
         "img": "Sarah_Powell.jpg",
@@ -366,6 +366,18 @@
         "description":"Kayla Richey is a third grade teacher for Middletown City School District in Middletown, Ohio. Kayla has worked in both charter and public school settings. Kayla has been teaching for 9 years and has a masters in Educational Leadership from the University of Cincinnati",
         "type":  "FORMERDISTRICTPARTNERS",
         "img": "OMW_logo_for_headshots.jpg",
+        "twitter":"",
+        "website":"",
+        "email":"",
+        "location": ""
+    },
+    {
+        "id":32, 
+        "fullname":"Grace Carroll",
+        "title":"CEO of Carroll Consulting",
+        "description":"Grace Carroll is currently CEO of Carroll Consulting, which focuses on program design, implementation and process evaluation, and assessment/evaluation of community-based projects. She served ten years as the Director for African American Student Development at the University of California, Berkeley and three years as the Associate Director of the Center for Research on the Education of Students Placed at Risk (CRESPAR) at Howard University. Her academic research on African American self-concept and racial perception culminated in her book, Environmental Stress and African Americans: The Other Side of the Moon. She also served on the research team that developed and conducted the qualitative data collection and analyses for the University of Michigan Law School’s defense of affirmative action policies. Carroll received her BA, MA and PhD in Sociology of Education from Stanford University as well as her teaching credentials.",
+        "type":  "FORMERDISTRICTPARTNERS",
+        "img": "Grace_Carroll.jpg",
         "twitter":"",
         "website":"",
         "email":"",

@@ -856,7 +856,7 @@
         "jobdescriptionbullets": ["<div class='bio-profile-jobdescription'><a href='https://www.youtubetrimmer.com/view/?v=xukAaYHCrp0&start=0&end=19&loop=0' target='_blank' class='link-dark'>Lonnie Johnson</a> is an inventor and an engineer. Engineers invent and modify things to improve the ways in which we work, live, and play.</div>"
                                  ,"<div class='bio-profile-jobdescription'>Lonnie, as a child, became interested in <a href='https://www.youtubetrimmer.com/view/?v=eBtJGsyrQjE&start=5&end=53&loop=0' target='_blank' class='link-dark'>making toys</a> and other objects. In high school, a <a href='https://www.youtubetrimmer.com/view/?v=eBtJGsyrQjE&start=77&end=101&loop=0' target='_blank' class='link-dark'>robot</a> of his design won a state competition.</div>"
                                  ,"<div class='bio-profile-jobdescription'>Lonnie earned multiple degrees from Tuskegee University, a historically black college/university known for its work in the fields of agriculture, aviation, and engineering. He has worked as a <a href='https://www.youtubetrimmer.com/view/?v=xukAaYHCrp0&start=27&end=83&loop=0' target='_blank' class='link-dark'>research engineer</a> and <a href='https://www.youtubetrimmer.com/view/?v=xukAaYHCrp0&start=168&end=218&loop=0' target='_blank' class='link-dark'>nuclear engineer</a> for the US Air Force and NASA.</div>"
-                                 ,"<div class='bio-profile-jobdescription'>Lonnie used his knowledge of jet propulsion to create the Super Soaker® water gun as well as the popular <a href='https://www.youtubetrimmer.com/view/?v=xukAaYHCrp0&start=218&end=251&loop=0' target='_blank' class='link-dark'>N-Strike® Nerf toys.</a>.</div>"
+                                 ,"<div class='bio-profile-jobdescription'>Lonnie used his knowledge of jet propulsion to create the Super Soaker® water gun as well as the popular <a href='https://www.youtubetrimmer.com/view/?v=xukAaYHCrp0&start=218&end=251&loop=0' target='_blank' class='link-dark'>N-Strike® Nerf toys</a>.</div>"
 					             ,"<div class='bio-profile-jobdescription'>Lonnie was inducted into the National Inventors Hall of Fame in 2022. The Super Soaker® was inducted into the National Toy Hall of Fame in 2015. He holds over 100 US patents.</div>"
                                 ],
         "references": ["<div class='bio-profile-jobdescription'>CBS Sunday Morning. (2017, May 21). <em>Making a big splash with the Super Soaker</em> [Video]. YouTube. https://www.youtube.com/watch?v=wW71vqyY4lI </div>"
@@ -1004,10 +1004,10 @@
                                  ,"<div class='bio-profile-jobdescription'>Manuel's company made a platform where kids can create games and online worlds on <a href='https://www.youtubetrimmer.com/view/?v=j7eETkQcHLA&start=63&end=85&loop=0' target='_blank' class='link-dark'>Roblox</a>.</div>"
                                  ,"<div class='bio-profile-jobdescription'>Manuel’s job is to oversee the creation of virtual games in a <a href='https://www.youtubetrimmer.com/view/?v=j7eETkQcHLA&start=249&end=283&loop=0' target='_blank' class='link-dark'>metaworld</a>. He wants to help children learn more about designing virtual worlds in a safe place.</div>"
                                  ],
-        "references": ["<div class='bio-profile-jobdescription'>Bronstein, M. (2021, February 26). <em>Joining Roblox</em>. <a href='https://www.linkedin.com/pulse/joining-roblox-manuel-bronstein?trk=public_profile_article_view' target='_blank' class='link-dark'>LinkedIn</a> </div>"
-		              ,"<div class='bio-profile-jobdescription'>Manuel Bronstein. In <em>Everipedia</em>. Retrieved July 2, 2020, from <a href='https://everipedia.org/wiki/lang_en/manuel-bronstein' target='_blank' class='link-dark'>Everipedia</a> </div>"
-		              ,"<div class='bio-profile-jobdescription'><em>Our people</em>. Roblox. Retrieved July 2, 2020 from <a href='https://corp.roblox.com/people/' target='_blank' class='link-dark'>Roblox</a> </div>"
-		              ,"<div class='bio-profile-jobdescription'>Bronstein, M. (n.d.). <em>Manuel Bronstein</em> [Photograph]. Vidcon. https://www.vidcon.com/lineup/7012/manuel-bronstein</div>"
+        "references": ["<div class='bio-profile-jobdescription'>Bronstein, M. (2021, February 26). <em>Joining Roblox</em>. https://www.linkedin.com/pulse/joining-roblox-manuel-bronstein </div>"
+		              ,"<div class='bio-profile-jobdescription'>Manuel Bronstein. In <em>Everipedia</em>. Retrieved July 2, 2020, from https://everipedia.org/wiki/lang_en/manuel-bronstein </div>"
+		              ,"<div class='bio-profile-jobdescription'><em>Our people</em>. Roblox. Retrieved July 2, 2020 from https://corp.roblox.com/people/ </div>"
+		              ,"<div class='bio-profile-jobdescription'>Bronstein, M. (n.d.). <em>Manuel Bronstein</em> [Photograph]. Vidcon. https://www.vidcon.com/lineup/7012/manuel-bronstein </div>"
                       ],
 
         "profileimage": "Manuel_Bronstein.jpg",
@@ -1225,6 +1225,1171 @@
                                  ],
         "references": ["<div class='bio-profile-jobdescription'>De Araujo, Z. (2021, November 8). <em>Mathematically Educated</em>. https://mathematicallyeducated.com/category/general-interest/' </div>"
 					  ,"<div class='bio-profile-jobdescription'>Mizzoueducation. (2019, January 22). <em>Zandra de Araujo, English Learners in K-12 Math Education Research Review </em> [Video]. YouTube. https://www.youtube.com/watch?v=6ozOXyK2COY </div>"
+		              ,"<div class='bio-profile-jobdescription'>de Araujo, Z. (n.d.). <em>Zandra de Araujo</em> [Photograph]. NCTM. https://www.nctm.org/About/President,-Board-and-Committees/Nominations-and-Elections/2021-Candidates/Zandra-de-Araujo/ </div>"
+                      ],
+
+        "profileimage": "Zandra_de_Araujo.jpg",
+        "profileimage2": "",
+        "photocreditimage": "Photo courtesy of <em>Mathematically Educated</em>. https://mathematicallyeducated.com/category/general-interest"
+    },
+    {
+        "id":35,
+        "languagetype":"sp",
+        "fullname":"ROBERT (BOB) MOSES",
+        "quote":"EL ALFABETISMO MATEMÁTICO ES UNA CUESTIÓNDE DERECHOS CIVILES.",
+        "jobtitle": "MATEMÁTICO Y ACTIVISTA",
+        "jobs": ["LÍDER DE LOS DERECHOS CIVILES","MATEMÁTICO","MENTOR","MAESTRO"],
+
+        "life": "1935-2021",
+        "pronunciation": "rob-bert bob mou-ses",
+        "location": "",
+        "knownfor": "El Proyecto Álgebra y el liderazgo del Movimiento por los Derechos Civiles.",
+
+        "mathhero": "En el Proyecto de Álgebra los estudiantes aprenden:",
+        "mathherobullet": [
+            "<div class='bio-profile-mathhero'>”Podemos hacer matemáticas.”</div>",
+            "<div class='bio-profile-mathhero'>A tomar sus propias palabras e imágenes (<a href='https://drive.google.com/file/d/1Sg5n5PTPpbZzcv9G4mHxmJ8coCfglWoe/view' target='_blank' class='link-dark'>“charla real”</a>) y convertir esas ideas en <a href='https://drive.google.com/file/d/10okV-RiGQxemzEtr2Dlhht_tzru37Wz-/view?usp=sharing' target='_blank' class='link-dark'>expresiónes</a> matemáticas usando <a href='https://drive.google.com/file/d/1MT-c9yUAVGCJpLSocDdNkps65c6-yh1z/view?usp=sharing' target='_blank' class='link-dark'>símbolo</a> (“charla característica”).</div>",
+            "<div class='bio-profile-mathhero'>A resumir situaciones visualmente mediante <a href='https://drive.google.com/file/d/1GSOyWMvSMnigkGj03Bxk2TBmNpXK03WO/view?usp=sharing' target='_blank' class='link-dark'>gráfico</a> y tablas.</div>",
+            "<div class='bio-profile-mathhero'>A ampliar la noción <a href='https://drive.google.com/file/d/1__2lrhinLqJlEe-NRNYMORJJfguHZn4m/view?usp=sharing' target='_blank' class='link-dark'>aritmética</a> de “¿Cuántos?” para incluir <a href='https://drive.google.com/file/d/1HuZVZmdmFwkGqOV7Env-TTUOAOV2Hgud/view?usp=sharing' target='_blank' class='link-dark'>direcciónes</a> (“¿Hacia dónde?”) y <a href='https://drive.google.com/file/d/1ho9NsPDHEKpLOT4jA-eLCGU8AZdEb5Cz/view?usp=sharing' target='_blank' class='link-dark'>dimensiónes</a> vistas en álgebra.</div>"
+            ],
+        "mathherounderbullet": "",
+        "funfact": "",
+        "jobdescription": "ALGEBRA OPENS DOORS",
+        "jobdescriptionbullets": ["<div class='bio-profile-jobdescription'><a href='https://www.youtubetrimmer.com/view/?v=a6_O-MPe8O0&start=1&end=21&loop=0' target='_blank' class='link-dark'>Bob Moses</a> fue mejor conocido por desarrollar The Algebra Project. <a href='https://drive.google.com/file/d/1xHVJ_qKEO6Ppstl2igpyhfXKdh7LS_3v/view?usp=sharing' target='_blank' class='link-dark'>El algebra</a> se describe a menudo como el lenguaje del resumen. Bob vio el dominio del álgebra como el primer paso para obtener <a href='https://www.youtubetrimmer.com/view/?v=HefIMcBz3wI&start=62&end=100&loop=0' target='_blank' class='link-dark'>acceso a oportunidades educativas y laborales</a>.</div>"
+                                ,"<div class='bio-profile-jobdescription'>Bob usó la <a href='https://www.youtubetrimmer.com/view/?v=HefIMcBz3wI&start=226&end=258&loop=0' target='_blank' class='link-dark'>alfabetización matemática</a> como una herramienta para organizar la comunidad. Aprendió esta técnica mientras registraba a las personas para votar durante el Movimiento por los Derechos Civiles de la década de 1960.</div>"
+                                ,"<div class='bio-profile-jobdescription'>El Proyecto de Álgebra ayuda a los estudiantes a desarrollar técnicas para eliminar el misterio de las preguntas de matemáticas. Las enseñanzas de Bob ayudan a los estudiantes a darse cuenta de que  <a href='https://www.youtubetrimmer.com/view/?v=fEYIi1iYFsA&start=2709&end=2732&loop=0' target='_blank' class='link-dark'>los símbolos son creados por alguien</a>, tienen un significado y están en el papel por una razón.</div>"
+                                ,"<div class='bio-profile-jobdescription'>El Proyecto de Álgebra ayuda a los estudiantes a darse cuenta de que “el concepto de ser ‘<a href='https://www.youtubetrimmer.com/view/?v=HefIMcBz3wI&start=173&end=190&loop=0' target='_blank' class='link-dark'>inteligente</a>’ es algo en lo que te conviertes, no es algo que eres. Si no lo sé ahora, lo sabré mañana, si me esfuerzo.”</div>"],
+        "references": ["<div class='bio-profile-jobdescription'>Moses, R. P., & Cobb, C. E. (2001). <em>Radical Equations: Civil Rights from Mississippi to the Algebra Project</em>. Beacon Press </div>"
+                      ,"<div class='bio-profile-jobdescription'>Moses, R., Maxwell West, M., & Davis, F. E. (2009). Culturally Responsive Mathematics Education in the Algebra Project. In B. Greer, S. Mukhopadhyay, A. B. Powell, & S. Nelson-Barber (Eds.), <em>Culturally responsive mathematics education</em> (pp. 239-256). Routledge </div>"
+			          ,"<div class='bio-profile-jobdescription'>Unknown. (n.d.). <em>Robert P. Moses</em> [Photograph]. Erikson Institute Early Math Collaborative. https://earlymath.erikson.edu/bob-moses-legacy/ </div>"
+                    ],
+
+        "profileimage": "Bob_Moses.jpg",
+        "profileimage2": "",
+        "photocreditimage": ""
+    },
+    {
+        "id":36,
+        "languagetype":"sp",
+        "fullname":"ABRAHAM ANCER",
+        "quote":"SIMPLEMENTE ES QUE LO AMÉ. CREO QUE ESO ES LO QUE ME HA AYUDADO A LLEGAR A DONDE ESTOY.",
+        "jobtitle": "GOLFISTA PROFESIONAL",
+        "jobs": ["DEPORTES","GOLFISTA PROFESIONAL","EMPRENDEDOR"],
+
+        "life": "1991-present",
+        "pronunciation": "aßram anser",
+        "location": "San Antonio, Texas",
+        "knownfor": "Ser golfista profesional",
+
+        "mathhero": "Abraham usa las matemáticas de muchas maneras cuando juega golf:",
+        "mathherobullet": [
+            "<div class='bio-profile-mathhero'>Hace una <a href='https://drive.google.com/file/d/10frZvvKjStjAbr4XDrptvwwv784ga8MS/view?usp=sharing' target='_blank' class='link-dark'>estimación</a> de la <a href='https://drive.google.com/file/d/1yUU5laRwX54KFQ8gcb5GWxpPfuiSek-o/view?usp=sharing' target='_blank' class='link-dark'>distancia</a> entre él, la bola, y el hoyo.</div>",
+            "<div class='bio-profile-mathhero'>Después, analiza los <a href='https://drive.google.com/file/d/1HfE3AzkGSRaPpzX2L5YVEDI1JHe0QCu6/view?usp=sharing' target='_blank' class='link-dark'>ángulo</a> posibles para pegarle a la pelota y mantenerla sobre el pasto corto. Pegarle en un ángulo incorrecto puede resultar en que la pelota caiga en pastos altos, arena, árboles o agua.</div>",
+            "<div class='bio-profile-mathhero'>Por último, <a href='https://drive.google.com/file/d/15aSJXgkiArVx4QddL2t-E-EHL57DQIcG/view?usp=sharing' target='_blank' class='link-dark'>calcula</a> la <a href='https://drive.google.com/file/d/1w27j-dg1mba9qFIbyCU3ThqDoLfzf2VL/view?usp=sharing' target='_blank' class='link-dark'>fuerza</a> con la cual pegarle a la bola para meterla perfectamente al hoyo - o dejarla lo más cerca.</div>"
+        ],
+        "mathherounderbullet": "",
+        "funfact": "",
+        "jobdescription": "¡HOYO EN ONE!",
+        "jobdescriptionbullets": ["<div class='bio-profile-jobdescription'><a href='https://www.youtubetrimmer.com/view/?v=iuDFNtDnxZw&start=1&end=17&loop=0' target='_blank' class='link-dark'>Abraham Ancer</a> es un golfista profesional. El trabajo de los golfistas profesionales es meter la bola dentro de cada uno de los 18 hoyos en el campo de golf con el <a href='https://drive.google.com/file/d/1TigpbnMy-xtLGXlYPZgRbQhLxWB71FNS/view?usp=sharing' target='_blank' class='link-dark'>menor número</a> de golpes a la bola posibles.</div>"
+                                ,"<div class='bio-profile-jobdescription'>Abraham fue introducido al golf por su padre desde muy pequeño. Él practicaba en el campo local de Reynosa, México. Cada hoyo en el que debe meter la pelota tiene una <a href='https://drive.google.com/file/d/1ij5xN_m77508AD6mnD262BSY3Q8QMEKt/view?usp=sharing' target='_blank' class='link-dark'>circunferencia</a> de 4,5 inches u 11 centimeters.</div>"
+                                ,"<div class='bio-profile-jobdescription'>Abraham is the fourth Mexican to win on the Professional Golfers’ Association (PGA) Tour. He is the first to win a <a href='https://www.youtubetrimmer.com/view/?v=iuDFNtDnxZw&start=499&end=526&loop=0' target='_blank' class='link-dark'>world golf championship match</a>. One of his greatest wishes is to make golf more accessible to all children regardless of their background.</div>"
+                                ],
+        "references": ["<div class='bio-profile-jobdescription'>Ancer, A. & Gabrielle Herzig (2021 May 10). <em>How Abraham Ancer, with no coach, made it to the PGA Tour from a tiny town in Mexico</em>. GolfDigest International. https://www.golfdigest.com/story/abraham-ancer-journeys-pga-tour</div>"
+                      ,"<div class='bio-profile-jobdescription'>DP World Tour. (2021 Aug 8). <em>Abraham Ancer becomes first Mexican to win a WGC | 2021 WGC - FedEx St. Jude International</em> [Video]. YouTube. https://www.youtube.com/watch?v=iuDFNtDnxZw</div>"
+                      ,"<div class='bio-profile-jobdescription'>Ancer, A. (n.d.). <em>Abraham Ancer</em> [Photograph]. Twitter @Abraham_Ancer</div>"
+                    ],
+        "profileimage": "Abraham_Ancer.jpg",
+        "profileimage2": "",
+        "photocreditimage": ""
+    },
+     {
+        "id":37,
+        "languagetype":"sp",
+        "fullname":"ANDREW OZOR",
+        "quote":"DESCUBRE LO QUE REALMENTE TE APASIONA Y LO QUE TE DA ENERGÍA.",
+        "jobtitle": "INGENIERO DE SOFTWARE",
+        "jobs": ["INGENIERÍA INFORMÁTICA","PROGRAMACIÓN","SOFTWARE"],
+
+        "life": "1984-presente",
+        "pronunciation": "an-droo ah-zo",
+        "location": "Austin, Texas",
+        "knownfor": "Diseñar sistemas de software para procesar rápidamente grandes cantidades de datos",
+
+        "mathhero": "Los ingenieros de software como Andrew usan las matemáticas para:",
+        "mathherobullet": [
+            "<div class='bio-profile-mathhero'>Desarrollar programas informáticos para resolver problemas complejos.</div>",
+            "<div class='bio-profile-mathhero'>Escriba las reglas que deben seguir las computadoras. Las computadoras descomponen las reglas en <a href='https://www. youtubetrimmer.com/view/?v=oYxE3L-6-a8&start=37&end=55&loop=0' target='_blank' class='link-dark'>cadenas de 1 y 0</a>.</div>",
+            "<div class='bio-profile-mathhero'>Desarrollar un lenguaje de <a href='https://drive.google.com/file/d/1gAKu5vLMqak_zhgMuDBpYO3tVqreLZGj/view' target='_blank' class='link-dark'>codificación</a> para proporcionar instrucciones a las <a href='https://drive.google.com/file/d/1UByHinYCjRT7iHCAPciOzvEWE5e-Fkcx/view' target='_blank' class='link-dark'>computadoras</a> sobre cómo operar.</div>"
+        ],
+        "mathherounderbullet": "",
+        "funfact": "",
+        "jobdescription": "SOFTWARE CREATOR",
+        "jobdescriptionbullets": ["<div class='bio-profile-jobdescription'>Andrew Ozor es ingeniero de software. Un ingeniero de software diseña y escribe programas para dispositivos electrónicos.</div>"
+                                 ,"<div class='bio-profile-jobdescription'>Andrew diseña <a href='https://www. youtubetrimmer.com/view/?v=oYxE3L-6-a8&start=22&end=37&loop=0' target='_blank' class='link-dark'>software</a> para que los abogados lo utilicen para almacenar y clasificar <a href='https://drive.google.com/file/d/1dvXJMktqnrbJ-sPFs6GeDMM__p99PVQU/view?usp=sharing' target='_blank' class='link-dark'>datos</a> legales importantes.</div>"
+                                 ,"<div class='bio-profile-jobdescription'>Andrew siempre quiso crear sus propios videojuegos. Aprendió a programar en la universidad y descubrió que podía diseñar muchas cosas distintas más allá de los videojuegos.</div>"
+					             ,"<div class='bio-profile-jobdescription'>Andrew decidió que quería centrarse en desarrollar códigos que ayudaran a que los sistemas fueran más fáciles de usar para las personas.</div>"
+                                ],
+        "references": ["<div class='bio-profile-jobdescription'>GCFGlobal.org. (n.d.). <em>Computer basics: What is a computer?</em>  https://edu.gcfglobal.org/en/computerbasics/what-is-a-computer/1/</div>"
+                      ,"<div class='bio-profile-jobdescription'>Educar Poral (2019 Jul 11). <em>Microaprendizaje: ¿Cómo funciona una computadora?</em> [Video] YouTube. https://www.youtube.com/watch?v=oYxE3L-6-a8</div>"
+                      ,"<div class='bio-profile-jobdescription'>P. Ehrman, personal communication, February 04, 2021</div>"
+			          ,"<div class='bio-profile-jobdescription'>Ozor, A. (2021). <em>Andrew Ozor</em> [Photograph]. Personal Collection</div>"
+
+                    ],
+        "profileimage": "Andrew_Ozor.jpg",
+        "profileimage2": "",
+        "photocreditimage": ""
+    },
+ {
+        "id":38,
+        "languagetype":"sp",
+        "fullname":"ANWAR GARCIA",
+        "quote":"LAS MATEMÁTICAS LE ENSEÑANA TU MENTE Y AUMENTAN TU CAPACIDAD PARA RESOLVER PROBLEMAS.",
+        "jobtitle": "INGENIERO DE CONSTRUCCIÓN",
+        "jobs": ["CONSTRUCCIÓN","EDIFICIO","ADMINISTRACIÓN"],
+
+        "life": "1985-presente",
+        "pronunciation": "ahn-war gah-r-see-ah",
+        "location": "Arkansas",
+        "knownfor": "Ejecutivo de proyectos en McCown Gordon Construction",
+
+        "mathhero": "Anwar usa las matemáticas para:",
+        "mathherobullet": [
+            "<div class='bio-profile-mathhero'>Determinar las <a href='https://drive.google.com/file/d/1ho9NsPDHEKpLOT4jA-eLCGU8AZdEb5Cz/view?usp=sharing' target='_blank' class='link-dark'>dimensións</a> del <a href='https:// www.youtubetrimmer.com/view/?v=hncmeHBLMcc&loop=0' target='_blank' class='link-dark'>plano</a> y la ubicación adecuada de elementos como puertas y ventanas.</div>",
+            "<div class='bio-profile-mathhero'><a href='https://drive.google.com/file/d/15aSJXgkiArVx4QddL2t-E-EHL57DQIcG/view?usp=sharing' target='_blank' class='link-dark'>Calcular</a> con <a href='https://drive.google.com/file/d/19YpfmbLA_XAAwhMmWU8jdHl91qmGgmDA/view?usp=sharing' target='_blank' class='link-dark'>fórmulas</a> cuánto tiempo llevará completar un proyecto en comparación con la cantidad de días hábiles disponibles.</div>",
+            "<div class='bio-profile-mathhero'><a href='https://drive.google.com/file/d/1djI9SEq7FqOViK_iFWLcoX-iZfA_-PF-/view?usp=sharing' target='_blank' class='link-dark'>Presupuestar</a> la cantidad de dinero que se gastará en materiales de construcción y en pagar a los trabajadores.</div>",
+            "<div class='bio-profile-mathhero'>Manejar grandes presupuestos que van desde varios <a href='https://drive.google.com/file/d/1Crj9lhgol-F1BMmunD5c8VmGGc-n20za/view?usp=sharing' target='_blank' class='link-dark'>miles</a>hasta varios cientos de <a href='https://drive.google.com/file/d/1jhMS0B_FOPTsjVRrKTc5XrhmZ1T_MjH0/view?usp=sharing' target='_blank' class='link-dark'>millónes</a>de dólares.</div>"
+            ],
+	   "mathherounderbullet": "",
+         "funfact": "",
+        "jobdescription": "TURNING DRAWINGS INTO BUILDINGS…",
+        "jobdescriptionbullets": ["<div class='bio-profile-jobdescription'><a href='https://www.youtubetrimmer.com/view/?v=KgeZCibxoXU&start=122&end=134&loop=0' target='_blank' class='link-dark'>Anwar Garcia</a> es un ingeniero de construcción. Toma un conjunto de instrucciones, llamado plano, que le proporciona un arquitecto, y planifica la construcción de un edificio.</div>"
+                                 ,"<div class='bio-profile-jobdescription'>Una vez que se le da el plano, Anwar calcula el costo de cada pieza y cómo se deben ensamblar las piezas. Después de eso, calcula cuánto tiempo llevará construirlo. Su equipo de construcción junta las piezas para hacer el edificio.</div>"
+                                 ,"<div class='bio-profile-jobdescription'>La pasión de Anwar por construer cosas comenzó al armar juegos de Lego® cuando era niño. Como adulto, todavía disfruta de construir juegos de Lego®. Comparte esta afición con su hijo y su hija.</div>"
+                                ],
+        "references": ["<div class='bio-profile-jobdescription'>Ing. David M. Rivas. (2020 Apr 14). <em>Importancia de Los Planos en Arquitectura</em>. [Video] YouTube. https://www.youtube.com/watch?v=hncmeHBLMcc</div>"
+			          ,"<div class='bio-profile-jobdescription'>P. Ehrman, personal communication, May, 13, 2021</div>"
+			          ,"<div class='bio-profile-jobdescription'>Garcia, A. (2021). <em>Anwar Garcia</em> [Photograph]. Personal Collection</div>"
+                    ],
+        "profileimage": "Anwar_Garcia.jpg",
+        "profileimage2": "",
+        "photocreditimage": ""
+    },
+{
+        "id":39,
+        "languagetype":"sp",
+        "fullname":"DRA. ARABIA MOLLETTE",
+        "quote":"CUANDO TIENES HAMBRE DE ALGO, HACES LO QUE PUEDAS PARA CONSEGUIR TU META.",
+        "jobtitle": "DOCTORA DE SALA DE EMERGENCIAS",
+        "jobs": ["DOCTORA","ACTIVISTA MÉDICA","MAESTRA"],
+
+        "life": "1981-presente",
+        "pronunciation": "a-rei-bi-a mo-let",
+        "location": "Nueva York, Nueva York",
+        "knownfor": "Médica de emergencias, enseñar medicina a nivel mundial y servir a la comunidad",
+
+        "mathhero": "Los doctores como Arabia usan las matemáticas para:",
+        "mathherobullet": [
+            "<div class='bio-profile-mathhero'>Aprender sobre la salud de un paciente al leer tablas y <a href='https://drive.google.com/file/d/1GSOyWMvSMnigkGj03Bxk2TBmNpXK03WO/view?usp=sharing' target='_blank' class='link-dark'>gráficos</a>.</div>",
+            "<div class='bio-profile-mathhero'><a href='https://drive.google.com/file/d/1Th81fqzhWRhPnlMKpG2fGdgUAxRTZvmL/view?usp=sharing' target='_blank' class='link-dark'>Evaluar</a> cuánta medicina necesitará un paciente.</div>",
+            "<div class='bio-profile-mathhero'>Evitar darle demasiada medicina a un paciente al recetar una cantidad <a href='https://drive.google.com/file/d/1TigpbnMy-xtLGXlYPZgRbQhLxWB71FNS/view?usp=sharing' target='_blank' class='link-dark'>menor que</a> la necesaria, si es que no se tiene la dosis exacta.</div>"
+            ],
+	  "mathherounderbullet": "",
+        "funfact": "",
+	  "jobdescription": "DOCTORA Y MAESTRA",
+        "jobdescriptionbullets": ["<div class='bio-profile-jobdescription'><a href='https://www.youtubetrimmer.com/view/?v=j4C12S4DNSQ&start=16&end=31&loop=0' target='_blank' class='link-dark'>Arabia Mollette</a> es una doctora. El objetivo de un doctor es ayudar a las personas enfermas a mejorar. La mayoría de los doctores trabajan en hospitales o consultorios privados.</div>"
+                                ,"<div class='bio-profile-jobdescription'>Arabia trabaja en la <a href='https://www.youtubetrimmer.com/view/?v=j4C12S4DNSQ&start=382&end=405&loop=0' target='_blank' class='link-dark'>sala de emergencias</a> del hospital, que es el primer lugar al que acuden las personas cuando buscan ayuda. Todos los doctores prometen “no hacer daño” al tratar a los pacientes.</div>"
+                                ,"<div class='bio-profile-jobdescription'>Arabia soñaba con ser doctora desde los 11 años. Asistió a la <a href='https://www.youtubetrimmer.com/view/?v=j4C12S4DNSQ&start=444&end=481&loop=0' target='_blank' class='link-dark'>escuela de medicina</a> en La Havana, Cuba. No hablaba español cuando se mudó a Cuba, pero <a href='https://www.youtubetrimmer.com/view/?v=dozWRWYIAfw&start=12&end=48&loop=0' target='_blank' class='link-dark'>aprendió mientras estudiaba</a> allí durante siete años. Ella usa la historia de su vida sobre crecer en la comunidad a la que sirve para <a href='https://www.youtubetrimmer.com/view/?v=j4C12S4DNSQ&start=481&end=525&loop=0' target='_blank' class='link-dark'>conectarse con los pacientes</a>.</div>"
+                                ,"<div class='bio-profile-jobdescription'>Arabia enseña medicina de emergencia en todo el mundo y presenta un podcast de salud y bienestar llamado <em>The Visit (La Visita)</em>.</div>"
+                                ],
+        "references": ["<div class='bio-profile-jobdescription'>Modern Hero. [M H]. (2017 Jul 23). <em>Meet Dr. Arabia Mollette</em> [Video]. YouTube. https://www.youtube.com/watch?v=j4C12S4DNSQ</div>"
+	           	      ,"<div class='bio-profile-jobdescription'>Mollette, A. (2017 Sep 10). <em>Arabia Mollette, MD</em>. Retrieved May 02, 2021, from https://feminem.org/speaker/arabia-mollette-md/</div>"
+			          ,"<div class='bio-profile-jobdescription'>Otis, G. (2017 Apr 03). <em>EXCLUSIVE: Offbeat ER doctor from the Bronx rises above tragedy to FORGE unique career</em>. Retrieved May 02, 2021, from https://www.nydailynews.com/newyork/offbeat-er-doctor-bronx-rose-tragedy-article-1.3016960</div>"
+		              ,"<div class='bio-profile-jobdescription'>Unknown. (n.d.). <em>Arabia Mollette MD</em> [Photograph]. feminem - Females Working in Emergency Medicine. https://feminem.org/speaker/arabia-mollette-md/ </div>"
+                    ],
+
+        "profileimage": "Arabia_Mollette.jpg",
+        "profileimage2": "",
+        "photocreditimage": ""
+    },
+{
+        "id":40,
+        "languagetype":"sp",
+        "fullname":"ARTUR AVILA",
+        "quote":"EL PENSAMIENTO MATEMÁTICO ES CRUCIAL Y VA MÁS ALLÁ DE LO QUE SE ENSEÑA ENCLASE.",
+        "jobtitle": "MATEMÁTICO Y PROFESOR",
+        "jobs": ["MATEMÁTICO","PROFESOR"],
+
+        "life": "1979-presente",
+        "pronunciation": "Ar-tur A-vi-la",
+        "location": "Rio de Janeiro, Brasil",
+        "knownfor": "Resolver problemas matemáticos complejos",
+
+        "mathhero": "Artur usa las matemáticas para:",
+        "mathherobullet": [
+            "<div class='bio-profile-mathhero'>Trabajar en <a href='https://www.youtubetrimmer.com/view/?v=wt6VGpgcSJk&start=34&end=46&loop=0' target='_blank' class='link-dark'>grupos</a> para aprender de otros cómo resolver problemas complejos.</div>",
+            "<div class='bio-profile-mathhero'>Comprender el comportamiento atípico (“caos”). Un ejemplo de caos es una bola que <a href='https://www.youtubetrimmer.com/view/?v=wt6VGpgcSJk&start=46&end=72&loop=0' target='_blank' class='link-dark'>golpea los lados de una mesa de billar</a>. Un gráfico de la bola que rebota parece un <a href='https://drive.google.com/file/d/1InJoCi4NQiNRyFIy50ZFck1kXWO66DH4/view?usp=sharing' target='_blank' class='link-dark'>pentágono</a>. Artur hace <a href='https://drive.google.com/file/d/1GSOyWMvSMnigkGj03Bxk2TBmNpXK03WO/view?usp=sharing' target='_blank' class='link-dark'>gráficas</a> y <a href='https://drive.google.com/file/d/1cvPnbGODtZV8UwEmu_KrPbfquQ10MNIG/view?usp=sharing' target='_blank' class='link-dark'>compara</a> los pentágonos de diferentes bolas en busca de un <a href='https://drive.google.com/file/d/1zQHXlHZh0DbwgWNv64hpWTFWo-tbpdJp/view?usp=sharing' target='_blank' class='link-dark'>patrón</a>. </div>"
+            ],
+        "mathherounderbullet": "",
+        "funfact": "<div class='bio-profile-mathhero'>Artur disfruta de pensar en problemas muy difíciles mientras camina por la playa.</div>",
+        "jobdescription": "GENIO BRASILEÑO DE LAS MATEMÁTICAS",
+        "jobdescriptionbullets": ["<div class='bio-profile-jobdescription'><a href='https://www.youtubetrimmer.com/view/?v=wt6VGpgcSJk&start=8&end=34&loop=0' target='_blank' class='link-dark'>Artur Avila</a> es un matemático y profesor. Un matemático crea nuevas ideas sobre las matemáticas y las prueba.</div>"
+                                 ,"<div class='bio-profile-jobdescription'>Artur usa las matemáticas para estudiar sistemas que cambian con el tiempo. Artur escribe una regla que describe la <a href='https://drive.google.com/file/d/1KKOtmqyiJ5D1FIHW-B4p6PhaK-Fg06ZN/view?usp=sharing' target='_blank' class='link-dark'>frecuencia</a> de un comportamiento. Artur hace gráficas del comportamiento de la regla durante meses para determinar si debe cambiar su regla según lo que observa.</div>"
+                                 ,"<div class='bio-profile-jobdescription'>Artur disfruta resolver problemas matemáticos difíciles que otros tienen miedo de intentar. Es un matemático <a href='https://www.youtubetrimmer.com/view/?v=u37xB0efmHk&loop=0' target='_blank' class='link-dark'>premiado</a>.</div>"
+                                 ,"<div class='bio-profile-jobdescription'>Artur <a href='https://www.youtubetrimmer.com/view/?v=wt6VGpgcSJk&start=98&end=113&loop=0' target='_blank' class='link-dark'>vive</a> en Rio de Janeiro, Brasil y Paris, Francia.</div>"
+                                ],
+        "references": ["<div class='bio-profile-jobdescription'>Lin, T. & Klarreich (2014). <em>A Brazilian Wunderkind Who Calms Chaos</em>. Quanta Magazine. https://www.quantamagazine.org/artur-avila-is-first-brazilian-mathematician-to-win-fields-medal-20140812/</div>"
+			    ,"<div class='bio-profile-jobdescription'>Quanta Magazine. (2015 Jun 12). <em>Artur Avila: A Brazilian Wunderkind Who Calms Chaos</em> [Video]. YouTube. https://www.youtube.com/watch?v=wt6VGpgcSJk</div>"
+			    ,"<div class='bio-profile-jobdescription'>Lin, T. (2014). <em>Artur Avila</em> [Photograph]. Quanta Magazine. https://www.quantamagazine.org/artur-avila-is-first-brazilian-mathematician-to-win-fields-medal-20140812/</div>"
+                      ],
+
+        "profileimage": "Artur_Avila.jpg",
+        "profileimage2": "",
+        "photocreditimage": ""
+    },
+{
+        "id":41,
+        "languagetype":"sp",
+        "fullname":"ARTURO LERMA, JR",
+        "quote":"LA VIDA SIEMPRE SE TRATA DE NÚMEROS. SIEMPRE TENEMOS NÚMEROS A NUESTRO ALREDEDOR, SIN IMPORTAR SI LO SABEMOS O NO.",
+        "jobtitle": "INSPECTOR DE EDIFICIOS",
+        "jobs": ["CONSTRUCCIÓN","INSPECTORES DE CONSTRUCCIÓN"],
+
+        "life": "1963-presente",
+        "pronunciation": "AAr-tuu-roh lEHr-maa",
+        "location": "Mission, Texas",
+        "knownfor": "Experto en construcción",
+
+        "mathhero": "Los inspectores de edificios usan las matemáticas de muchas maneras. Ellos tienen que:",
+        "mathherobullet": [
+            "<div class='bio-profile-mathhero'><a href='https://drive.google.com/file/d/15aSJXgkiArVx4QddL2t-E-EHL57DQIcG/view?usp=sharing' target='_blank' class='link-dark'>Calcular</a> la cantidad de materiales de construcción necesarios para los cimientos de una casa.</div>",
+            "<div class='bio-profile-mathhero'><a href='https://drive.google.com/file/d/1FJJHDzZl2lvvIXI6L12mE_8nuZnjofqZ/view?usp=sharing' target='_blank' class='link-dark'>Medir</a> la <a href='https://drive.google.com/file/d/1yUU5laRwX54KFQ8gcb5GWxpPfuiSek-o/view?usp=sharing' target='_blank' class='link-dark'>distancia</a> de los edificios para asegurarse de que coincida con los planos de construcción.</div>",
+            "<div class='bio-profile-mathhero'>Resumir situaciones visualmente utilizando <a href='https://drive.google.com/file/d/1GSOyWMvSMnigkGj03Bxk2TBmNpXK03WO/view?usp=sharing' target='_blank' class='link-dark'>gráficos</a> y tablas.</div>",
+		"<div class='bio-profile-mathhero'>Calcular los <a href='https://drive.google.com/file/d/1CaO0iFGrNVoVqFoKVQ32pOvuhayxBNrA/view?usp=sharing' target='_blank' class='link-dark'>pies cuadrados</a> de una casa al encontrar la <a href='https://drive.google.com/file/d/1M4IKJvhDCqLmzNQu6Dg2I3opSSUU5Szt/view?usp=sharing' target='_blank' class='link-dark'>suma</a> de todas las <a href='https://drive.google.com/file/d/1TvGr1wzzFd_RIEYkWXY8S88vDz-DmYXD/view?usp=sharing' target='_blank' class='link-dark'>áreas</a> terminadas.</div>"
+		],
+        "mathherounderbullet": "",
+        "funfact": "",
+	  "jobdescription": "LAS MATEMÁTICAS CREAN BASES SÓLIDAS",
+        "jobdescriptionbullets": ["<div class='bio-profile-jobdescription'>Arturo Lerma es un <a href='https://www.youtubetrimmer.com/view/?v=hXqRHHVNEWY&start=0&end=87&loop=0' target='_blank' class='link-dark'>inspectores de construcción</a>. Los inspectores de construcción revisan que los edificios en construcción sigan las reglas y códigos de acuerdo a la ley.</div>"
+                                  ,"<div class='bio-profile-jobdescription'>Arturo de pequeño trabajaba con su madre cosechando uvas en California. Él sabía exactamente cuántos racimos de uvas necesitaría para llenar una caja. Esto era muy importante porque les pagarían por la cantidad de <a href=’https://drive.google.com/file/d/1xL7_iMFVEbAtl7T-cGY70-bR-qEo9cGc/view?usp=sharing' target='_blank' class='link-dark'>cajas de uvas</a> que recogieran cada día.</div>"
+                                  ,"<div class='bio-profile-jobdescription'>Arturo trabajó en el verano con su papá en obras de construcción. A veces él usa su brazo como vara de medir, porque aprendió que la medida desde su hombro hasta su muñeca es aproximadamente una <a href='https://drive.google.com/file/d/1SY0uGGOzdroETEYLaA8vDgRuzJnvdwc0/view?usp=sharing' target='_blank' class='link-dark'>yarda</a>.</div>"
+                                  ,"<div class='bio-profile-jobdescription'>Arturo encontró su pasión en las matemáticas gracias a su padre. El papá de Arturo no sabía leer ni escribir, pero resolvía cualquier problema de matemáticas si Arturo se lo leía en voz alta.</div>"
+                                ],
+        "references": ["<div class='bio-profile-jobdescription'>City of Chandler, AZ (Official). (2019 May 17). <em>Day in the life of a Building Inspector</em> [Video]. YouTube. https://www.youtube.com/watch?v=hXqRHHVNEWY'</div>"
+			    ,"<div class='bio-profile-jobdescription'>N. Prishker, comunicación personal, Julio, 2022 </div>"
+			    ,"<div class='bio-profile-jobdescription'>Lerma, A. (2022). <em>Arturo Lerma</em> [Fotos]. Colección Personal</div>"
+                      ],
+
+        "profileimage": "Arturo_Lerma.jpg",
+        "profileimage2": "",
+        "photocreditimage": ""
+    },
+{
+         "id":42,
+        "languagetype":"sp",
+        "fullname": "BLACK VIOLIN - KEVIN SYLVESTER & WILNER BAPTISTE",
+        "quote":"RECONOCE TU PODER. HAZ LO QUE AMAS. AMA LO QUE HACES. Y HAZLO SIN PEDIR DISCULPAS.",
+        "jobtitle": "MÚSICOS Y COMPOSITORES",
+        "jobs": ["MÚSICOS","VIOLINISTAS","MENTORES"],
+
+        "life": "",
+        "pronunciation": "(keh-VIN suhl-VEST-er) & (WIL-nuhr bap-TEEST)",
+        "location": "Fort Lauderdale, Florida",
+        "knownfor": "Instrumentistas de cuerda de formación clásica, y composición musical",
+
+        "mathhero": "Kevin y Wilner usan las matemáticas cuando tocan y escriben música para:",
+        "mathherobullet": [
+            "<div class='bio-profile-mathhero'><a href='https://www.youtubetrimmer.com/view/?v=2R-ZmRikaY4&start=6&end=160&loop=0' target='_blank' class='link-dark'>Leer partituras de música</a> y <a href='https://www.youtubetrimmer.com/view/?v=2R-ZmRikaY4&start=160&end=331&loop=0' target='_blank' class='link-dark'>contar el ritmo</a> por <a href='https://drive.google.com/file/d/1JJE-jADvtdebEKY_YaMhu8Hplts85Fje/view?usp=sharing' target='_blank' class='link-dark'>minuto</a>. Algunos de los tiempos son notas <a href='https://drive.google.com/file/d/1bUItkbYpORG8hXK75tKLXUi3gRfU4acx/view?usp=sharing' target='_blank' class='link-dark'>enteras</a> y otros son <a href='https://drive.google.com/file/d/1WMKVCk0owrYDFJkBFEPlunA_R9Je2ixt/view?usp=sharing' target='_blank' class='link-dark'>fracciónes</a>.</div>",
+            "<div class='bio-profile-mathhero'>Seguir <a href='https://drive.google.com/file/d/1zQHXlHZh0DbwgWNv64hpWTFWo-tbpdJp/view?usp=sharing' target='_blank' class='link-dark'>patrónes</a> para decidir el orden de las notas al componer música.</div>",
+		    "<div class='bio-profile-mathhero'>Determinar la <a href='https://drive.google.com/file/d/1JX-HGP0a3THa33efBanZCIDhKLwt5d72/view?usp=sharing' target='_blank' class='link-dark'>velocidad</a> o el tempo de una canción. Esto significa qué tan rápido o lento tocar y qué <a href='https://www.youtubetrimmer.com/view/?v=YDX4xULlkwc&start=3&end=28&loop=0' target='_blank' class='link-dark'>acordes</a> se necesitan tocar en una cierta cantidad de tiempo.</div>"
+            ],
+	  "mathherounderbullet": "",
+        "funfact": "",
+        "jobdescription": "DIVERTIRSE TOCANDO CUERDAS",
+        "jobdescriptionbullets": ["<div class='bio-profile-jobdescription'>Black Violin es el nombre de un grupo musical. Los miembros del grupo son Kevin, que toca el violín, y Wilner, que toca la viola. El grupo musical inició sus presentaciones juntos en el 2004.</div>"
+                                ,"<div class='bio-profile-jobdescription'>Black Violin <a href='https://www.youtubetrimmer.com/view/?v=_YzHk9NZep8&start=47&end=127&loop=0' target='_blank' class='link-dark'>mezcla música clásica con música hip-hop</a>. Demuestran cómo estos estilos de música se complementan entre sí.</div>"
+                                ,"<div class='bio-profile-jobdescription'>Los objetivos de Black Violin son <a href='https://www.youtubetrimmer.com/view/?v=_YzHk9NZep8&start=136&end=193&loop=0' target='_blank' class='link-dark'>ayudar a los niños a romper con los estereotipos</a>. Usan su música para enseñar a los niños que está bien hacer algo que aman y hacerlo de una manera en que nadie lo ha hecho nunca.</div>"
+                                ,"<div class='bio-profile-jobdescription'><a href='https://www.youtubetrimmer.com/view/?v=_YzHk9NZep8&start=2&end=11&loop=0' target='_blank' class='link-dark'>Kevin y Wilner se conocieron</a> en su clase de orquesta de la escuela secundaria. Viven en Florida y tocan música en todo el mundo.</div>"
+                                ],
+        "references": ["<div class='bio-profile-jobdescription'>Black Violin (2020). https://blackviolin.net/</div>"
+		 	    ,"<div class='bio-profile-jobdescription'>Black Violin. (2016 May 12). <em>Behind the Scenes with Black Violin</em> [Video]. YouTube. https://www.youtube.com/watch?v=_YzHk9NZep8 </div>"
+			    ,"<div class='bio-profile-jobdescription'>Jaime Altozano (2017 Nov 21). <em>Qué es un ACORDE. Tipos de Acordes. La Explicación Definitiva. | Jaime Altozano</em>. [Video] YouTube. https://www.youtube.com/watch?v=YDX4xULlkwc </div>"
+			    ,"<div class='bio-profile-jobdescription'>TED-Ed en Español (2002 Apr 6). <em>Cómo leer música - Tim Hansen</em>. [Video] YouTube. https://www.youtube.com/watch?v=2R-ZmRikaY4 </div>"
+			    ,"<div class='bio-profile-jobdescription'>Totty, L. (2015). <em>With ‘stereotypes,’ a duo raised on hip-hop and classical has it both ways</em>. NPR. https://www.npr.org/2015/09/17/440603268/with-stereotypes-a-duo-raised-on-hip-hop-and-classical-has-it-both-ways</div>"
+		        ,"<div class='bio-profile-jobdescription'>Unknown (2021). <em>Black Violin</em> [Photograph]. Courtesy of the Artist</div>"
+                      ],
+
+        "profileimage": "Black_Violin.jpg",
+        "profileimage2": "",
+        "photocreditimage": ""
+    },
+{
+        "id":43,
+        "languagetype":"sp",
+        "fullname":"CELESTE DAVIS",
+        "quote":"TODOS TENEMOS LUCHAS Y PROBLEMAS QUE SUPERAR, PERO NADIE TE VENCE CUANDO TRABAJAS DURO.",
+        "jobtitle": "DIRECTORA EXECUTIVA Y DEFENSORA",
+        "jobs": ["CEO","EDUCADORA DE CIENCIA FAMILIAR","DEFENSORA COMUNITARIA"],
+
+        "life": "1956-presente",
+        "pronunciation": "Sul-lest Day-vis",
+        "location": "Middletown, Ohio",
+        "knownfor": "Ayudar a todas las familias a sentirse seguras y cuidadas",
+
+        "mathhero": "Los líderes de organizaciones como Celeste usan las matemáticas para:",
+        "mathherobullet": [
+            "<div class='bio-profile-mathhero'>Realizar <a href='https://drive.google.com/file/d/1djI9SEq7FqOViK_iFWLcoX-iZfA_-PF-/view?usp=sharing' target='_blank' class='link-dark'>presupuesto</a> para grandes empresas.</div>",
+            "<div class='bio-profile-mathhero'><a href='https:// drive.google.com/file/d/10frZvvKjStjAbr4XDrptvwwv784ga8MS/view?usp=sharing' target='_blank' class='link-dark'>Estimar</a> cuánto dinero se necesitará para operar y cómo se gastará.</div>",
+            "<div class='bio-profile-mathhero'><a href='https://drive.google.com/file/d/15aSJXgkiArVx4QddL2t-E-EHL57DQIcG/view?usp=sharing' target='_blank' class='link-dark'>Calcular</a> cuánto dinero entra y sale de la empresa usando <a href='https://drive.google.com/file/d/1M4IKJvhDCqLmzNQu6Dg2I3opSSUU5Szt/view?usp=sharing' target='_blank' class='link-dark'>sumas</a> y <a href='https://drive.google.com/drive/folders/1O0RAcM5DuTpkoehUy3ZsRHSye3oqfLuG' target='_blank' class='link-dark'>restas</a>. Idealmente, habrá una <a href='https://drive.google.com/file/d/1fL4FWi-DVxKh20kDQwIQSxgvWArYIAGC/view?usp=sharing' target='_blank' class='link-dark'>ganancia</a> o esos números serán <a href='https://drive.google.com/file/d/1nUG6jaoXgY40W9astGStGk1uNmefdY-h/view?usp=sharing' target='_blank' class='link-dark'>iguales</a>.</div>"
+            ],
+ 	  "mathherounderbullet": "",
+        "funfact": "",
+	  "jobdescription": "AYUDANDO A NIÑOS Y FAMILIAS",
+        "jobdescriptionbullets": ["<div class='bio-profile-jobdescription'><a href='https://www.youtubetrimmer.com/view/?v=PEHeI1JeGjs&start=0&end=23&loop=0' target='_blank' class='link-dark'>La Dra. Celeste Davis</a> es la directora ejecutiva y fundadora de <em>3RDevelopment</em>. Esta organización ayuda a los niños y las familias a tomar decisiones positivas. Animan y ayudan a todos a desarrollar una actitud ganadora y aspirar al éxito.</div>"
+                                 ,"<div class='bio-profile-jobdescription'>La organización de Celeste ayuda a las familias a alcanzar sus metas y salir de la pobreza. Creen que todos merecen la oportunidad de cambiar y convertirse en la mejor persona que creen que pueden llegar a ser.</div>"
+                                 ,"<div class='bio-profile-jobdescription'>Celeste ayuda a las familias a aprender cómo hacer presupuestos o planes sobre cómo ahorrar y gastar su dinero.</div>"
+                                 ,"<div class='bio-profile-jobdescription'>Celeste también trabaja con niños en un programa extracurricular para ayudarlos a comprender los problemas matemáticos. Le gusta cambiar el <a href='https:// www.youtubetrimmer.com/view/?v=hIeTQNHtPZc&start=0&end=274&loop=0' target='_blank' class='link-dark'>pensamiento de los estudiantes</a> de “No puedo” to “No sé (todavía)”.</div>"
+                                ],
+        "references": ["<div class='bio-profile-jobdescription'>Lewis, J. (2018, Septiembre 28). <em>Dr. Celeste Davis Best Woman Award</em> [Video]. YouTube. https://www.youtube.com/watch?v=PEHeI1JeGjs </div>"
+			    ,"<div class='bio-profile-jobdescription'>Sprouts Español. (2021). Mentalidad Fija vs. Mentalidad de Crecimiento [Video]. YouTube. https://www.youtube.com/watch?v=hIeTQNHtPZc </div>"
+			    ,"<div class='bio-profile-jobdescription'>Davis, C. (2021). <em>Celeste Davis</em> [Photograph]. Personal Collection</div>"
+                      ],
+
+        "profileimage": "Celeste_Davis.jpg",
+        "profileimage2": "",
+        "photocreditimage": ""
+    },
+{
+        "id":44,
+        "languagetype":"sp",
+        "fullname":"CONCHA GÓMEZ",
+        "quote":"PARTE DE MI OBJETIVO ES OFRECER APOYO A LOS ESTUDIANTES QUE A LO MEJORNO CUENTANCON APOYO.",
+        "jobtitle": "MATEMÁTICA",
+        "jobs": ["MATEMÁTICA","PROFESORA","APOYO AL ESTUDIANTE"],
+
+        "life": "1970-presente",
+        "pronunciation": "CON-cha GO-mez",
+        "location": "Pleasant Hill, California",
+        "knownfor": "Profesora en Diablo Valley College, y cofundadora del Anillo Noetheriano en UC Berkeley",
+
+        "mathhero": "Concha le enseña matemáticas a estudiantes universitarios. Ella ayuda a los estudiantes a:",
+        "mathherobullet": [
+            "<div class='bio-profile-mathhero'>Desarrollar <a href='https://drive.google.com/file/d/1x3UYzF5_iVh3DYU-KnXWWgGAh0WcyykZ/view?usp=sharing' target='_blank' class='link-dark'>teorías</a> matemáticas usando reglas en <a href='https://drive.google.com/file/d/1xHVJ_qKEO6Ppstl2igpyhfXKdh7LS_3v/view?usp=sharing' target='_blank' class='link-dark'>álgebra</a> y <a href='https://drive.google.com/file/d/1KK0R2DqGi7ZEoo3bFo6S_Ooapq87yz8s/view?usp=sharing' target='_blank' class='link-dark'>geometría</a>.</div>",
+            "<div class='bio-profile-mathhero'>Usar <a href='https://drive.google.com/file/d/19YpfmbLA_XAAwhMmWU8jdHl91qmGgmDA/view?usp=sharing' target='_blank' class='link-dark'>fórmulas</a> para encontrar <a href='https://drive.google.com/file/d/1zQHXlHZh0DbwgWNv64hpWTFWo-tbpdJp/view?usp=sharing' target='_blank' class='link-dark'>patrónes</a> para probar o refuter teorías.</div>",
+            "<div class='bio-profile-mathhero'>Trabajar con <a href='https://drive.google.com/file/d/10okV-RiGQxemzEtr2Dlhht_tzru37Wz-/view?usp=sharing' target='_blank' class='link-dark'>expresiónes</a> y <a href='https://drive.google.com/file/d/1LZqYibXDlQK4bNubyHnL700lMcAtyGpb/view?usp=sharing' target='_blank' class='link-dark'>ecuaciónes</a>.</div>",
+		    "<div class='bio-profile-mathhero'>Usar <a href='https://drive.google.com/file/d/1c6sUEFcCDVPFXhRXuDrUeSGHfG1B5vzk/view?usp=sharing' target='_blank' class='link-dark'>variable</a> matemáticas para resolver problemas de la vida real.</div>"
+            ],
+	  "mathherounderbullet": "",
+      "funfact": "",
+	  "jobdescription": "TRABAJANDO POR LA IGUALDAD DE OPORTUNIDADES ENLAS MATEMÁTICAS",
+        "jobdescriptionbullets": ["<div class='bio-profile-jobdescription'><a href='https://www.youtubetrimmer.com/view/?v=aXjLWhrj7_I&start=1&end=33&loop=0' target='_blank' class='link-dark'>Dra. Concha Gómez</a> es una matemática y profesora de matemáticas. Los matemáticos, como Concha, trabajan en una variedad de lugares. También le enseñan a estudiantes en universidades y colegios.</div>"
+                                ,"<div class='bio-profile-jobdescription'>Concha se enfrento a muchas dificultades <a href='https://www.youtubetrimmer.com/view/?v=aXjLWhrj7_I&start=99&end=140&loop=0' target='_blank' class='link-dark'>cuando estaba creciendo</a>, por ser mujer. Su familia no apoyó su educación y su amor por las matemáticas.</div>"
+                                ,"<div class='bio-profile-jobdescription'>Concha superó estos desafíos y fue a la universidad de UC Berkeley. Formó una organización para ayudar a las mujeres matemáticas a sentirse bienvenidas.</div>"
+                                ,"<div class='bio-profile-jobdescription'>Concha ahora ayuda a estudiantes de diferentes razas, etnias y géneros a encontrar su pasión y triunfar.</div>"
+                                ],
+        "references": ["<div class='bio-profile-jobdescription'>Francisco, E. (2005 May 13). <em>Concha Gómez: A Math Guru for Women and Minorities</em>. Science. https://www.sciencemag.org/careers/2005/05/concha-g-mez-math-guru-women-and-minorities </div>"
+			          ,"<div class='bio-profile-jobdescription'>DrG DVC Math. (2021 Jan 18). <em>Meet Your Math Professor - Concha Gomez, Ph.D., Diablo Valley College</em> [Video]. YouTube. https://www.youtube.com/watch?v=aXjLWhrj7_I&t=7s </div>"
+			          ,"<div class='bio-profile-jobdescription'>Gómez, C. (n.d.). <em>Concha Gómez</em> [Photograph]. Diablo Valley College. https://www.dvc.edu/about/governance/faculty-senate/senate-directory.html</div>"
+                      ],
+
+        "profileimage": "Concha_Gomez.jpg",
+        "profileimage2": "",
+        "photocreditimage": ""
+    },
+{
+        "id":45,
+        "languagetype":"sp",
+        "fullname":"DRA. ELLEN OCHOA",
+        "quote":"NO TENGA MIEDO DE. ALCANZAR LAS ESTRELLAS.",
+        "jobtitle": "ASTRONAUTA",
+        "jobs": ["DIRECTOR DE NASA", "ASTRONAUTA", "CIENTÍFICA"],
+
+        "life": "1958-presente",
+        "pronunciation": "El-lin O-cho-a",
+        "location": "Los Angeles, California",
+        "knownfor": "Salón de la Fama de Astronautas, & Directora de NASA",
+
+        "mathhero": "En el espacio, Ellen usó las matemáticas para:",
+        "mathherobullet": [
+            "<div class='bio-profile-mathhero'>Ver si la energía del sol hace que la capa de ozono de la Tierra <a href='https://drive.google.com/file/d/1UBZdXJ0x0oRjSzsbbNMepY9JU8oW92Zv/view?usp=sharing' target='_blank' class='link-dark'>aumente</a> o <a href='https://drive.google.com/file/d/1kY9q-TRNEQ7Nqsxet1gTybB4IIkW94gU/view?usp=sharing' target='_blank' class='link-dark'>disminuya</a>.</div>",
+            "<div class='Estudiar los cambios de <a href='https://drive.google.com/file/d/1s1ykCGCinfDNhN_7PVfbzzo_cGSV4Oj5/view?usp=sharing' target='_blank' class='link-dark'>temperatura</a> en la Tierra.</div>"
+            ],
+	  "mathherounderbullet": "<div class='bio-profile-mathhero'>Como directora de NASA Ellen ayudó a elegir, entre <a href='https://www.youtubetrimmer.com/view/?v=jhD8GFwy734&start=113&end=249&loop=0' target='_blank' class='link-dark'> miles de personas</a>, a las <a href='https://drive.google.com/file/d/1hXjc_uMDvNQkfdljl6nwOmBbMrxL_Czr/view?usp=sharing' target='_blank' class='link-dark'>pocos</a> que viajarían al espacio, así mismo ayudó a tomar decisiones sobre qué trabajos deberían llevar a cabo los astronautas.</div>",
+        "funfact": "<div class='bio-profile-mathhero'>Existen seis <a href='https:// drive.google.com/file/d/1XYC7ArpFIT3xqGNeM3w2-tZ_zXgAedRG/view?usp=sharing' target='_blank' class='link-dark'>esculas</a> que han sido nombradas en honor a Ellen Ochoa.</div>",
+        "jobdescription": "AL ESPACIO Y MÁS ALLÁ",
+        "jobdescriptionbullets": ["<div class='bio-profile-jobdescription'><a href='https://www.youtubetrimmer.com/view/?v=G40G1q1I7u8&start=35&end=87&loop=0' target='_blank' class='link-dark'> Ellen Ochoa</a> es una <a href='https://www.youtubetrimmer.com/view/?v=w-1dTJKK764&start=114&end=178&loop=0' target='_blank' class='link-dark'>astronauta</a>. Ella es la primera latina en viajar al espacio. Su <a href='https://www.youtubetrimmer.com/view/?v=A6GpEWFCajg&start=32&end=59&loop=0' target='_blank' class='link-dark'>primer viaje especial</a> fue en 1993 en la nave espacial Discovery.</div>"
+                                 ,"<div class='bio-profile-jobdescription'>La mayoría de los astronautas viajan al espacio una vez. En el curso de <a href='https://www.youtubetrimmer.com/view/?v=R8uonsBIAIg&start=0&end=31&loop=0' target='_blank' class='link-dark'>cuatro misiones</a>, Ellen pasó más de 40 días y 1000 horas en el espacio.</div>"
+                                 ,"<div class='bio-profile-jobdescription'>En misiones posteriores, ella fue la encargada de manejar el <a href='https://www.youtubetrimmer.com/view/?v=HHffb5R06pU&start=67&end=117&loop=0' target='_blank' class='link-dark'>brazo robótico</a> que colocaba las piezas de construcción en la Estación Espacial Internacional.</div>"
+					             ,"<div class='bio-profile-jobdescription'>Mientras era directora de la NASA, Ellen supervisó el trabajo en una nave espacial para explorar Marte.</div>"
+                                 ,"<div class='bio-profile-jobdescription'>Ellen es miembro del Salón de la Fama de los Astronautas.</div>"
+                                ],
+        "references": ["<div class='bio-profile-jobdescription'>The Editors of Encyclopedia Britannica. (n.d.). Ellen Ochoa. In <em>Encyclopedia Britannica</em>. https://www.britannica.com/biography/Ellen-Ochoa</div>"
+			          ,"<div class='bio-profile-jobdescription'>Ducksters. (n.d.). <em>Physics for Kids</em>. https://www.ducksters.com/science/physics/ </div>"
+		              ,"<div class='bio-profile-jobdescription'>News On 6. (2017, Oct 23). <em>Director of NASA Space Center Visits OK School Named in Her Honor</em>. News9.com. https://www.news9.com/story/5e35ef1a2f69d76f62025e79/director-of-nasa-space-center-visits-ok-school-named-in-her-honor </div>"
+		              ,"<div class='bio-profile-jobdescription'>Brittanica (n.d.). <em>Ellen Ochoa</em> [Photograph]. Encyclopedia Britannica. https://www.britannica.com/biography/Ellen-Ochoa</div>"
+                      ],
+
+        "profileimage": "Ellen_Ochoa.jpg",
+        "profileimage2": "",
+        "photocreditimage": ""
+    },
+{
+        "id":46,
+        "languagetype":"sp",
+        "fullname":"GEE’S BEND QUILTERS",
+        "quote":"ESTARÉ SENTADA PENSANDO ENCÓMO QUIERO HACER UNA COLCHA, Y ENTONCES SOLO SE ME VIENE A LA CABEZA CÓMO QUIERO HACERLO.",
+        "jobtitle": "COSTUREROS DE COLCHAS",
+        "jobs": ["ACOLCHADO","ARTESANÍA","ARTÍCULOS DEL HOGAR"],
+
+        "life": "",
+        "pronunciation": "yis bend kuil-ters",
+        "location": "Gee’s Bend, Alabama",
+        "knownfor": "Las tradiciones de elaboración de edredones que se transmiten de generación en generación",
+
+        "mathhero": "Los costureros de colchas de Gee's Bend usan las matemáticas para:",
+        "mathherobullet": ["<div class='bio-profile-mathhero'>Calcular el <a href='https://drive.google.com/file/d/1TvGr1wzzFd_RIEYkWXY8S88vDz-DmYXD/view?usp=sharing' target='_blank' class='link-dark'>área</a> de un edredón con <a href='https://drive.google.com/file/d/1KK0R2DqGi7ZEoo3bFo6S_Ooapq87yz8s/view?usp=sharing' target='_blank' class='link-dark'>geometría</a> para asegurarte de que sea lo suficientemente grande para cubrir la cama.</div>",
+            		       "<div class='bio-profile-mathhero'>Incorporar <a href='https://drive.google.com/file/d/1rvKWmjurYhxNUBIumYs5bq3Ir8B-lAR5/view?usp=sharing' target='_blank' class='link-dark'>simetría</a> y <a href='https://drive.google.com/file/d/1zQHXlHZh0DbwgWNv64hpWTFWo-tbpdJp/view?usp=sharing' target='_blank' class='link-dark'>patrónes</a> para crear un <a href='https://www.youtubetrimmer.com/view/?v=5TQM325PMIk&start=0&end=247&loop=0' target='_blank' class='link-dark'>diseño</a> interesante.</div>"
+        				  ],
+ 	  "mathherounderbullet": "<div class='bio-profile-mathhero'>Los edredones a menudo tienen capas, ¡por eso son agradables y cálidos! Es importante <a href='https://drive.google.com/file/d/1FJJHDzZl2lvvIXI6L12mE_8nuZnjofqZ/view?usp=sharing' target='_blank' class='link-dark'>medir</a> las <a href='https://drive.google.com/file/d/1ho9NsPDHEKpLOT4jA-eLCGU8AZdEb5Cz/view?usp=sharing' target='_blank' class='link-dark'>dimensiones</a> de una colcha para que todas las capas sean del mismo tamaño.</div>",
+        "funfact": "",
+        "jobdescription": "KEEPING WARM & MAKING ART",
+        "jobdescriptionbullets": ["<div class='bio-profile-jobdescription'>Los <a href='https://www.youtubetrimmer.com/view/?v=yOxzL1P85z0&start=0&end=47&loop=0' target='_blank' class='link-dark'>costureros de colchas de Gee's Bend</a> hacen edredones que son conocidos por ser <a href='https://www.youtubetrimmer.com/view/?v=yOxzL1P85z0&start=48&end=161&loop=0' target='_blank' class='link-dark'>hermosos, coloridos y tener un estilo único</a>. Un edredón es una manta grande, acolchada y suave, cosida con múltiples telas y materiales.</div>"
+                                 ,"<div class='bio-profile-jobdescription'>Los miembros de Gee's Bend comenzaron a hacer colchas y edredones al principio del siglo XIX para que sus familias no pasaran frio. Las casas en el siglo de 1800 no tenían calefacción. Aprendieron a hacer edredones con cualquier material que tuvieran, como ropa vieja.</div>"
+                                 ,"<div class='bio-profile-jobdescription'>Los costureros de Gee's Bend <a href='https://www.youtubetrimmer.com/view/?v=yOxzL1P85z0&start=162&end=186&loop=0' target='_blank' class='link-dark'>continúan con las tradiciones</a> que <a href='https://www.youtubetrimmer.com/view/?v=l3GBIgDWSD8&start=160&end=245&loop=0' target='_blank' class='link-dark'>aprendieron de sus antepasados</a> y ven sus edredones como arte.</div>"
+                                 ,"<div class='bio-profile-jobdescription'>Los edredones de Gee's Bend se han exhibido <a href='https://www.youtubetrimmer.com/view/?v=BUO7GGoH5hc&start=498&end=631&loop=0' target='_blank' class='link-dark'>en museos</a> y algunos de los costureros han ganado honores de por vida por su trabajo de acolchado.</div>"
+                                ],
+        "references": ["<div class='bio-profile-jobdescription'>Quilts of Gee's Bend. (2021 Oct 10). In <em>Wikipedia</em>. https://en.wikipedia.org/wiki/Quilts_of_Gee%27s_Bend </div>"
+			          ,"<div class='bio-profile-jobdescription'>Souls Grown Deep (n.d.). <em>Annie E. Pettway</em>. https://www.soulsgrowndeep.org/artist/annie-bell-pettway </div>"
+		              ,"<div class='bio-profile-jobdescription'>Souls Grown Deep (n.d.). <em>Gee's Bend</em>. https://www.soulsgrowndeep.org/gees-bend-quiltmakers </div>"
+		              ,"<div class='bio-profile-jobdescription'>ysela salas (2019 Feb 27). <em>TODO SOBRE MOLDE O PATRONES, MATEMATICA Y SIMBOLOGIA (MODA SION)</em>. [Video] YouTube. https://www.youtube.com/watch?v=5TQM325PMIk</div>"
+                    ],
+
+        "profileimage": "Gees_Bend.jpg",
+        "profileimage2": "",
+        "photocreditimage": ""
+    },
+{
+        "id":47,
+        "languagetype":"sp",
+        "fullname":"GLADYS TAMEZ",
+        "quote":"EL CONOCIMIENTO ES MUY IMPORTANTE. APRENDE TODO LO QUE PUEDAS DE LO QUE SEA QUE TE INTERESE HACER.",
+        "jobtitle": "FABRICANTE DE SOMBREROS",
+        "jobs": ["DISEÑADORA DE MODA","SOMBRERA","DUEÑA DE NEGOCIO"],
+
+        "life": "1976-presente",
+        "pronunciation": "gla-dees tah-mez",
+        "location": "Los Angeles, California",
+        "knownfor": "Sombrerera, disenadora de sombreros",
+
+        "mathhero": "Las sombrereras y sombreros como Gladys usan muchas matemáticas para diseñar y hacer sombreros, por ejemplo:",
+        "mathherobullet": [
+            "<div class='bio-profile-mathhero'>Gladys tiene buen ojo para la <a href='https://drive.google.com/file/d/1KK0R2DqGi7ZEoo3bFo6S_Ooapq87yz8s/view?usp=sharing' target='_blank' class='link-dark'>geometría</a>. Ella es capaz de imaginar cómo diferentes figuras se unen para convertirse en un sombrero.</div>",
+            "<div class='bio-profile-mathhero'>Para hacer los sombreros, Gladys tiene que saber <a href='https://drive.google.com/file/d/1FJJHDzZl2lvvIXI6L12mE_8nuZnjofqZ/view?usp=sharing' target='_blank' class='link-dark'>medir</a> las cabezas de sus clientes para que sus sombreros queden perfectos.</div>",
+            "<div class='bio-profile-mathhero'>Ella usa conceptos como <a href='https://drive.google.com/file/d/1ij5xN_m77508AD6mnD262BSY3Q8QMEKt/view?usp=sharing' target='_blank' class='link-dark'>circunferencia</a>, <a href='https://drive.google.com/file/d/15BKT0hY5vgGaEyO_e7kx6EMcWr62bfl4/view?usp=sharing' target='_blank' class='link-dark'>diámetro</a> y <a href='https://drive.google.com/file/d/1TvGr1wzzFd_RIEYkWXY8S88vDz-DmYXD/view?usp=sharing' target='_blank' class='link-dark'>área</a> para crear sus diseños.</div>"
+            ],
+	  "mathherounderbullet": "",
+      "funfact": "",
+	  "jobdescription": "EL AJUSTE PERFECTO",
+        "jobdescriptionbullets": ["<div class='bio-profile-jobdescription'><a href='https://www.youtubetrimmer.com/view/?v=wObmC762N7Y&start=40&end=105&loop=0' target='_blank' class='link-dark'> Gladys Tamez es sombrerera</a> y diseñadora de moda. Ella diseña, elabora y fabrica especialmente <a href='https://drive.google.com/file/d/1XChXb1ac417LlmCSpglD_bci5Njii0y4/view' target='_blank' class='link-dark'>sombreros para mujeres</a>.</div>"
+                                 ,"<div class='bio-profile-jobdescription'>Gladys nació en la ciudad fronteriza de Reynosa, México. Ella tiene buenos recuerdos de su infancia. Recuerda cuando paseaba la ciudad en el auto con su mamá y su tía que llevaban sombreros grandes que ocupaban mucho espacio en el auto.</div>"
+                                 ,"<div class='bio-profile-jobdescription'>Gladys fue catalogada como una de las mexicanas más creativas del mundo por una famosa revista de negocios llamada <em>Forbes</em>.</div>"
+                                ],
+        "references": ["<div class='bio-profile-jobdescription'>Gallardo, A. (2019 Dec 02). <em>La historia detrás del éxito de Gladys Tamez</em>. Diseñando México 32. https://dmx32.com/blog/2019/11/29/la-historia-detras-del-exito-de-gladys-tamez </div>"
+			          ,"<div class='bio-profile-jobdescription'>Medium. (2016 Dec 08). <em>Gladys Tamez Is Putting Hats On The Biggest Names In Entertainment</em>. https://medium.com/@mitunetwork/gladys-tamez-is-putting-hats-on-the-biggest-names-in-entertainment-24c9fe92fa8b </div>"
+		              ,"<div class='bio-profile-jobdescription'>Staff, Forbes (2015 Dec 18). <em>Los 50 mexicanos más creativos en el mundo</em>. Forbes México. https://www.forbes.com.mx/los-50-mexicanos-mas-creativos-en-el-mundo/ </div>"
+		              ,"<div class='bio-profile-jobdescription'>Wooden, G. (2014 Jul 29). <em>The Style Social: Gladys Tamez</em>. Los Angeles Magazine. https://www.lamag.com/theclutch/the-style-social-gladys-tamez/ </div>"
+		              ,"<div class='bio-profile-jobdescription'>Palmer, T. (2017). <em>Gladys Tamez</em> [Photograph]. Bravo TV. https://www.bravotv.com/ladies-of-london/blogs/heres-what-its-like-to-make-couture-hats-for-lady-gaga</div>"
+                    ],
+
+        "profileimage": "Gladys_Tamez.jpg",
+        "profileimage2": "",
+        "photocreditimage": ""
+    },
+{
+        "id":48,
+        "languagetype":"sp",
+        "fullname":"HELENA ZAMBRANO MACÍAS",
+        "quote":"LOS ARQUITECTOS PODEMOS USAR NUESTRO TRABAJO - Y EDIFICIOS – PARA CAMBIAR EL MUNDO.",
+        "jobtitle": "ARQUITECTA",
+        "jobs": ["ARQUITECTA","AMBIENTALISTA"],
+
+        "life": "1994-presente",
+        "pronunciation": "Eh-LE-na zam-BRA-no ma-SI-as",
+        "location": "San Antonio, Texas",
+        "knownfor": "Arquitectura sostenible y equitativa",
+
+        "mathhero": "Helena usa las matemáticas cuando diseña espacios al:",
+        "mathherobullet": [
+            "<div class='bio-profile-mathhero'><a href='https://drive.google.com/file/d/10frZvvKjStjAbr4XDrptvwwv784ga8MS/view?usp=sharing' target='_blank' class='link-dark'>Estimar</a> la cantidad de energía ahorrada y perdida al seleccionar los materiales de construcción.</div>",
+            "<div class='bio-profile-mathhero'><a href='https://drive.google.com/file/d/1M4IKJvhDCqLmzNQu6Dg2I3opSSUU5Szt/view?usp=sharing' target='_blank' class='link-dark'>Sumar</a> los recursos naturales y la energía <a href='https://drive.google.com/file/d/1bql8Tq76uM5gxhPwcWAPUHbJnTRSzYrJ/view' target='_blank' class='link-dark'>conservada</a>.</div>",
+            "<div class='bio-profile-mathhero'><a href='https://drive.google.com/file/d/1Th81fqzhWRhPnlMKpG2fGdgUAxRTZvmL/view?usp=sharing' target='_blank' class='link-dark'>Evaluar</a> and <a href='https://drive.google.com/file/d/1cvPnbGODtZV8UwEmu_KrPbfquQ10MNIG/view?usp=sharing' target='_blank' class='link-dark'>comparar</a> los beneficios y costos de diferentes opciones de diseño.</div>"
+            ],
+ 	  "mathherounderbullet": "<div class='bio-profile-mathhero'>Helena cree que es importante que los edificios sean <a href='https://www.youtubetrimmer.com/view/?v=-dvFb2vC7_Y&start=250&end=300&loop=0' target='_blank' class='link-dark'>buenos para el planeta</a>. Ella quiere que otros la ayuden a mantener nuestro planeta saludable.</div>",
+      "funfact": "",
+      "jobdescription": "CONSERVATION AND ARCHITECTURE",
+        "jobdescriptionbullets": ["<div class='bio-profile-jobdescription'><a href='https://drive.google.com/file/d/1R4L8iqdaY-gK3BciVwipsRZYRlduQopI/view' target='_blank' class='link-dark'>Helena Zambrano Macías</a> es una arquitecta. Los arquitectos diseñan y construyen edificios.</div>"
+                                 ,"<div class='bio-profile-jobdescription'>Helena construye y diseña edificios que son <a href='https://www.youtubetrimmer.com/view/?v=uYb7Cqcdpoc&start=284&end=404&loop=0' target='_blank' class='link-dark'>sostenibles</a>, lo que significa que evitan que nuestro mundo pierda recursos naturales como agua, calefacción, aire limpio y gas natural.</div>"
+                                 ,"<div class='bio-profile-jobdescription'>Los <a href='https://drive.google.com/file/d/1_nt9Dvl-Qpd4fnVk4ejnjHeE0uQE_p5B/view?usp=sharing' target='_blank' class='link-dark'>edificios</a> de Helena son más que eficientes energéticamente. También son resistentes (se desempeñan bien en su ubicación), son de bajo costo y abordan muchos problemas urbanos (de la ciudad). Su arquitectura funciona bien con las personas y el medio ambiente.</div>"
+                                 ,"<div class='bio-profile-jobdescription'>Helena, una orgullosa latina nacida en Monterrey, México, trabaja con personas de todo el mundo. Ella comunica por qué es importante crear edificios que sean amigables con el medio ambiente.</div>"
+                                ],
+        "references": ["<div class='bio-profile-jobdescription'>Bolaños, C. (2019 Jun 10). <em>This architecture firm boasts 5 licensed Latina architects and numerous Latinx staff</em>. The Mujerista. https://www.themujerista.com/the-blog/latina-architects-lead-note-worthy-projects-and-helped-shape-architecture-firm </div>"
+			          ,"<div class='bio-profile-jobdescription'>Department of Sustainability. (n.d.). <em>Our Team</em>. https://www.deptofsustainability.com/our-team </div>"
+		              ,"<div class='bio-profile-jobdescription'>Eosis. [Eosis]. (2020 Sep 13). <em>Designing with metrics-Daylight design and Verification</em> [Video]. YouTube. https://www.youtube.com/watch?v=uYb7Cqcdpoc </div>"
+		              ,"<div class='bio-profile-jobdescription'>Bolaños, C. (2019). <em>Helena Zambrano Macias</em> [Photograph]. The Mujerista. https://www.themujerista.com/the-blog/latina-architects-lead-note-worthy-projects-and-helped-shape-architecture-firm</div>"
+                    ],
+
+        "profileimage": "Helena_Macias.jpg",
+        "profileimage2": "",
+        "photocreditimage": ""
+    },
+{
+        "id":49,
+        "languagetype":"sp",
+        "fullname":"IBRAHIM GREENIDGE",
+        "quote":"LOS ARQUITECTOS TAMBIÉN PODEMOS SER SUPERHÉROES.",
+        "jobtitle": "ARQUITECTO",
+        "jobs": ["ARQUITECTO","ACTIVISTA COMUNITARIO","MENTO"],
+
+        "life": "1982-presente",
+        "pronunciation": "i-bra-jim gre-nich",
+        "location": "Nueva York, Nueva York",
+        "knownfor": "Director de la firma BOLT Architecture",
+
+        "mathhero": "Los arquitectos como Ibrahim usan las matemáticas para:",
+        "mathherobullet": [
+            "<div class='bio-profile-mathhero'>Determinar el <a href='https://drive.google.com/file/d/1yJYT9LLPOs371RfdB5HfLQRLjAXJzMQT/view?usp=sharing' target='_blank' class='link-dark'>tamaño</a> y la fuerza de los sistemas de soporte del edificio necesarios, como paredes, pisos y techos, que evitan que el edificio se derrumbe.</div>",
+		    "<div class='bio-profile-mathhero'>Calcular el <a href='https://drive.google.com/file/d/1TvGr1wzzFd_RIEYkWXY8S88vDz-DmYXD/view?usp=sharing' target='_blank' class='link-dark'>área</a>, el <a href='https://drive.google.com/file/d/1iIeZxbd13mzbbHts_THKdS0YmKnXykZ1/view?usp=sharing' target='_blank' class='link-dark'>perimetro</a>, y el <a href='https://drive.google.com/file/d/11D9f3dNlxRHC3q9K7hY1SOLxz8g9jGPs/view?usp=sharing' target='_blank' class='link-dark'>volumen</a> para decidir cuánta gente puede usar el edificio al mismo tiempo.</div>"
+            ],
+ 	  "mathherounderbullet": "<div class='bio-profile-mathhero'>Ibrahim fundó su propia empresa <a href='https://www.youtubetrimmer.com/view/?v=lnOI8Nlcg8g&start=225&end=261&loop=0' target='_blank' class='link-dark'>Bolt Architecture</a>, para hacer espacios nuevos e inspirar a estudiantes a convertirse en arquitectos.</div>",
+      "funfact": "",
+      "jobdescription": "CREANDO ESPACIOSNUEVOS",
+        "jobdescriptionbullets": ["<div class='bio-profile-jobdescription'><a href='https://www.youtubetrimmer.com/view/?v=JXb_EUf0cA8&start=56&end=64&loop=0' target='_blank' class='link-dark'>Ibrahim Greenidge</a> es un arquitecto. Los arquitectos diseñan el interior y el exterior de edificios. La inspiración para diseñar le llegó mientras caminaba por un <a href='https://www.youtubetrimmer.com/view/?v=lnOI8Nlcg8g&start=179&end=204&loop=0' target='_blank' class='link-dark'>centro comercial</a> con su papá.</div>"
+                                 ,"<div class='bio-profile-jobdescription'>Los arquitectos como Ibrahim usan dibujos, software de computadoras, y pequeños modelos para expresar sus ideas.</div>"
+                                 ,"<div class='bio-profile-jobdescription'>Los arquitectos basan sus <a href='https://www.youtubetrimmer.com/view/?v=yQn34915o1Q&start=235&end=355&loop=0' target='_blank' class='link-dark'>diseños</a> en la ubicación, la utilidad, y la cantidad de gente que va a usar un edificio.</div>"
+                                 ,"<div class='bio-profile-jobdescription'>Ibrahim tiene un programa extracurricular llamado <a href='https://www.youtubetrimmer.com/view/?v=JXb_EUf0cA8&start=56&end=92&loop=0' target='_blank' class='link-dark'>Project Pipeline</a> que le da la oportunidad a los estudiantes de aprender lo que hace un arquitecto. En este programa, que se lleva a cabo después de la escuela, los estudiantes interactúan con mentores arquitectos y forman equipos para completer un proyecto.</div>"
+					             ,"<div class='bio-profile-jobdescription'>Después de participar en Project Pipeline con Ibrahim en su escuela, dos estudiantes de 3er Grado,  <a href='https://www.youtubetrimmer.com/view/?v=yQn34915o1Q&start=363&end=385&loop=0' target='_blank' class='link-dark'>Dash</a> e <a href='https://www.youtubetrimmer.com/view/?v=yQn34915o1Q&start=399&end=419&loop=0' target='_blank' class='link-dark'>Ishara</a>, se inspiraron para cambiar las cosas en su entorno.</div>"
+                                ],
+        "references": ["<div class='bio-profile-jobdescription'>Bolt Architecture. https://www.boltarchitecture.com </div>"
+			          ,"<div class='bio-profile-jobdescription'>Bolt Architecture. (2019 Jul 12). <em>Bolt Architecture Presents - Project Pipeline II</em> [Video]. YouTube. https://www.youtube.com/embed/yQn34915o1Q </div>"
+		              ,"<div class='bio-profile-jobdescription'>Miner, L. (n.d.). <em>Ibrahim Greenidge</em> [Photograph]. Linkedin. https://www.linkedin.com/in/ibrahim-greenidge-9a943839</div>"
+                      ],
+
+        "profileimage": "Ibrahim_Greenidge.jpg",
+        "profileimage2": "",
+        "photocreditimage": ""
+    },
+{
+        "id":50,
+        "languagetype":"sp",
+        "fullname":"DRA. JANINA JEFF",
+        "quote":"NADIE SABE DE NUESTRA GENÉTICA; NUNCA ESCUCHO A LA GENTE HABLAR SOBRE LA GENÉTICA PARA LAS PERSONAS DE COLOR.",
+        "jobtitle": "GENETISTA HUMANA",
+        "jobs": ["DOCTORA","INVESTIGADORA","MENTORA"],
+
+        "life": "1985-presente",
+        "pronunciation": "ya-ni-na jeff",
+        "location": "Nashville, Tennessee",
+        "knownfor": "Genetista, Profesora, & Presentadora de podcasts",
+
+        "mathhero": "Los genetistas como Janina usan las matemáticas para:",
+        "mathherobullet": [
+            "<div class='bio-profile-mathhero'>Realizar investigaciones sobre historias familiars utilizando el <a href='https://drive.google.com/file/d/1xHVJ_qKEO6Ppstl2igpyhfXKdh7LS_3v/view?usp=sharing' target='_blank' class='link-dark'>álgebra</a> para representar números y cantidades.</div>",
+            "<div class='bio-profile-mathhero'><a href='https://drive.google.com/file/d/1gAKu5vLMqak_zhgMuDBpYO3tVqreLZGj/view?usp=sharing' target='_blank' class='link-dark'>Codificar</a> <a href='https://drive.google.com/file/d/1dvXJMktqnrbJ-sPFs6GeDMM__p99PVQU/view?usp=sharing' target='_blank' class='link-dark'>datos</a> sobre rasgos familiares para crear pruebas de ADN para clients en sitios como <em>23 and Me</em> y <em>Ancestry</em>.</div>",
+            "<div class='bio-profile-mathhero'>Resolver acertijos comparando rasgos genéticos usando tablas y <a href='https://drive.google.com/file/d/1GSOyWMvSMnigkGj03Bxk2TBmNpXK03WO/view?usp=sharing' target='_blank' class='link-dark'>gráficos</a>.</div>"
+            ],
+ 	  "mathherounderbullet": "",
+      "funfact": "",
+	  "jobdescription": "¿QUIÉN SOY?",
+        "jobdescriptionbullets": ["<div class='bio-profile-jobdescription'><a href='https://www.youtubetrimmer.com/view/?v=BldybNBDqv0&start=0&end=92&loop=0' target='_blank' class='link-dark'>La Dra. Janina Jeff</a> es genetista humana (juh-net-uh-sist). Un genetista es un científico que estudia <a href='https://www.youtubetrimmer.com/view/?v=IV3NcRKsQco&start=9&end=43&loop=0' target='_blank' class='link-dark'>genes</a> de plantas, animales o humanos. Quieren aprender cómo los genes interactúan entre sí, evolucionan y se multiplican.</div>"
+                                 ,"<div class='bio-profile-jobdescription'>Janina ayuda a las personas a conocer las características especiales que componen a una persona. Ella investiga cómo la salud y las enfermedades están conectadas con los miembros de la familia.</div>"
+                                 ,"<div class='bio-profile-jobdescription'>Janina está fascinada con aprender sobre las semejanzas y diferencias de la genética de las personas. Como estudiante, quería explorar la genética de las personas de color, ya que el tema no se discute con frecuencia en la comunidad científica.</div>"
+					             ,"<div class='bio-profile-jobdescription'>Janina presenta un podcast titulado <em>In Those Genes</em> (<em> En eso genes</em>). Utiliza la cultura hip hop para enseñar genética. Ella quiere que sus oyentes escuchen, entiendan y se relacionen con la información presentada.</div>"
+                                ],
+        "references": ["<div class='bio-profile-jobdescription'>Hunter, K. [Karen Hunter Show]. (2019). <em>“In Those Genes” Podcaster Janina Jeff Talks Genes</em> [Video]. YouTube. https://www.youtube.com/watch?v=BldybNBDqv0 </div>"
+			          ,"<div class='bio-profile-jobdescription'>She+ Geeks Out. (2019, Aug 9). <em>Talking Genetics and Authenticity with Janina Jeff</em> [Video]. https://shegeeksout.com/unsung-womens-project-janina-jeff/ </div>"
+		              ,"<div class='bio-profile-jobdescription'>Jeff, J. (2021). <em>Janina Jeff</em> [Photograph]. Vanderbilt Magazine. https://news.vanderbilt.edu/2021/02/25/janina-jeff-ms12-phd12-finding-lost-identities/</div>"
+                    ],
+
+        "profileimage": "Janina_Jeff.jpg",
+        "profileimage2": "",
+        "photocreditimage": ""
+    },
+{
+        "id":51,
+        "languagetype":"sp",
+        "fullname":"JASMINE COBB",
+        "quote":"APASIÓNATE POR TUS METAS, TUS SUEÑOS, Y LA PERSONA ENLA QUE TE QUIERES CONVERTIR.",
+        "jobtitle": "SECRETARIA DE SERVICIOS PÚBLICOS",
+        "jobs": ["SERVICIOS PÚBLICOS","EMPLEADA PÚBLICA","COMUNIDAD"],
+
+        "life": "1985-presente",
+        "pronunciation": "jas-min cob",
+        "location": "Franklin County, Ohio",
+        "knownfor": "Procesar el uso de servicios públicos y facturas",
+
+        "mathhero": "¡El agua que sale del grifo no es gratis! Los empleados de servicios públicos como Jasmine usan las matemáticas para:",
+        "mathherobullet": [
+            "<div class='bio-profile-mathhero'><a href='https://drive.google.com/file/d/15aSJXgkiArVx4QddL2t-E-EHL57DQIcG/view?usp=sharing' target='_blank' class='link-dark'>Calcular</a> el uso de agua/alcantarillado cada (<a href='https://drive.google.com/file/d/1OcmgQNL5GgxbJSRDhX1Tq_MN-SYcsJtm/view' target='_blank' class='link-dark'>trimestre</a> 3 meses).</div>",
+            "<div class='bio-profile-mathhero'>Resumir los datos de los <a href='https://drive.google.com/file/d/19FfFPmHIbyeG-mdN5IH4qrLaMIJogymt/view?usp=sharing' target='_blank' class='link-dark'>data</a> from <a href='https:// www.youtubetrimmer.com/view/?v=4nKMuswJ9sg&start=31&end=161&loop=0' target='_blank' class='link-dark'> medidores de agua </a> con respecto al <a href='https://drive.google.com/file/d/11D9f3dNlxRHC3q9K7hY1SOLxz8g9jGPs/view?usp=sharing' target='_blank' class='link-dark'>volumen</a> de agua en <a href='https://drive.google.com/file/d/1oG73uar1G0KNUbUE__yKUIrCRArVtpNH/view?usp=sharing' target='_blank' class='link-dark'> galones</a> utilizados por cuenta.</div>",
+            "<div class='bio-profile-mathhero'>Calcular la factura de servicios públicos de un cliente. La <a href='https://drive.google.com/file/d/1LZqYibXDlQK4bNubyHnL700lMcAtyGpb/view?usp=sharing' target='_blank' class='link-dark'>ecuación</a> de facturación usa la <a href='https://drive.google.com/drive/folders/1O0RAcM5DuTpkoehUy3ZsRHSye3oqfLuG' target='_blank' class='link-dark'>resta</a> de dos lecturas de medidor y <a href='https://drive.google.com/file/d/19YpfmbLA_XAAwhMmWU8jdHl91qmGgmDA/view?usp=sharing' target='_blank' class='link-dark'>fórmulas</a> de <a href='https://drive.google.com/file/d/1EMS5BvxmZnffges2ERMnh8WDLP-t-3lM/view?usp=sharing' target='_blank' class='link-dark'>multiplicación</a> de 'tasa de uso'.</div>"
+            ],
+	  "mathherounderbullet": "",
+        "funfact": "",
+	  "jobdescription": "WATER & SEWER USAGE",
+        "jobdescriptionbullets": ["<div class='bio-profile-jobdescription'>Jasmine Cobb es una empleada en el Departamento de Servicios Públicos en Franklin, Ohio. Ella es responsable de mantener los registros del uso de <a href='https://www.youtubetrimmer.com/view/?v=vnXBwQXY-Qw&start=0&end=43&loop=0' target='_blank' class='link-dark'>agua y alcantarillado </a> para todos sus clientes. </div>"
+                                 ,"<div class='bio-profile-jobdescription'>Jasmine entra en un registro la cantidad de agua que cada familia usó y calcula la cantidad de dinero que deben. </div>"
+                                 ,"<div class='bio-profile-jobdescription'>Jasmine es la primera persona que los clientes ven cuando entran al Departamento de Servicios Públicos. Ella ayuda a responder las preguntas que tengan sobre los cargos de facturación. </div>"
+                                ],
+        "references": ["<div class='bio-profile-jobdescription'>Plastigama Wavin. (n.d.). <em>¿Cómo funciona una red de alcantarillado? - Al día con Plastigama</em> [VIDEO]. YouTube. https://www.youtube.com/watch?v=_AxjgIl21Es </div>"
+		 	          ,"<div class='bio-profile-jobdescription'>P. Ehrman, personal communication, March 3, 2021 </div>"
+		              ,"<div class='bio-profile-jobdescription'>Cobb, J. (2021). <em>Jasmine Cobb</em> [Photograph]. Personal Collection</div>"
+                      ],
+
+        "profileimage": "Jasmine_Cobb.jpg",
+        "profileimage2": "",
+        "photocreditimage": ""
+    },
+{
+        "id":52,
+        "languagetype":"sp",
+        "fullname":"JONATHAN LINCOLN",
+        "quote":"APRENDE TODO Y TENDRÁS MÁS OPORTUNIDADES PARA APROVECHAR.",
+        "jobtitle": "ELECTRICISTA",
+        "jobs": ["ELECTRICISTA","CONTRATISTA","COMUNIDAD"],
+
+        "life": "1981-presente",
+        "pronunciation": "jAHn-uh-thuhn ling-kuhn",
+        "location": "Texas",
+        "knownfor": "Instalar electricidad en edificios",
+
+        "mathhero": "Los electricistas como Jonathan usan las matemáticas para:",
+        "mathherobullet": [
+            "<div class='bio-profile-mathhero'>Ver si viaja suficiente energía desde el transformador hasta la caja de <a href= 'https://www.youtubetrimmer.com/view/?v=tc48vmRi5w&start=477&end=541&loop=0' target='_blank' class='link-dark'> circuitos</a> dentro de el edificio para que todos sus electrodomésticos funcionen correctamente.</div>",
+            "<div class='bio-profile-mathhero'>Trabaje con cables de diferentes <a href='https://drive.google.com/file/d/15BKT0hY5vgGaEyO_e7kx6EMcWr62bfl4/view?usp=sharing' target='_blank' class='link-dark'>diámetros</a> en largas <a href='https://drive.google.com/file/d/1yUU5laRwX54KFQ8gcb5GWxpPfuiSek-o/view?usp=sharing' target='_blank' class='link-dark'>distancia</a> para asegurar que un edificio tenga suficiente energía disponible (voltaje).</div>",
+            "<div class='bio-profile-mathhero'><a href='https://drive.google.com/file/d/15aSJXgkiArVx4QddL2t-E-EHL57DQIcG/view?usp=sharing' target='_blank' class='link-dark'>Calcular</a> el <a href='https://drive.google.com/file/d/1HfE3AzkGSRaPpzX2L5YVEDI1JHe0QCu6/view?usp=sharing' target='_blank' class='link-dark'>ángulo</a> adecuado del cable para asegurarse de que haya un flujo seguro de electricidad en todo el edificio.</div>"
+            ],
+	  "mathherounderbullet": "",
+        "funfact": "",
+ 	  "jobdescription": "TRABAJANDO CON ELECTRICIDAD",
+        "jobdescriptionbullets": ["<div class='bio-profile-jobdescription'>Jonathan Lincoln es un <a href= 'https://www.youtubetrimmer.com/view/?v=87THkGSgGoU&start=2&end=58&loop=0 ' target='_blank' class='link-dark'> electricista</a>. Un electricista diseña el cableado de un edificio e instala <a href= 'https://www.youtubetrimmer.com/view/?v=tc48vm-Ri5w&start=43&end=104&loop=0' target='_blank' class='link-dark'> electricidad</a> en casas y negocios.</div>"
+                                ,"<div class='bio-profile-jobdescription'>El trabajo de Jonathan lo ha llevado por todo Estados Unidos. Ha trabajado en proyectos que incluyen plantas de tratamiento de agua y lugares donde vive la gente. Disfruta resolver todos los pequeños acertijos que conducen a que un edificio funcione con electricidad.</div>"
+                                ,"<div class='bio-profile-jobdescription'>Jonathan piensa que el momento más especial es cuando prende el interruptor y hay electricidad en todo el edificio.</div>"
+                                ],
+        "references": ["<div class='bio-profile-jobdescription'>Emprende y Conecta. (2020). <em>¿Que es ser electricista?</em> [Video]. YouTube. https://www.youtube.com/watch?v=87THkGSgGoU </div>"
+			          ,"<div class='bio-profile-jobdescription'>Smile and Learn - Español. (Marzo, 2022). ELECTRICIDAD para niños ¿Qué es la electricidad? Tipos de electricidad Recopilación. [Video]. YouTube. https://www.youtube.com/watch?v=tc48vm-Ri5w </div>"
+                      ,"<div class='bio-profile-jobdescription'>P. Ehrman, personal communication, Febrero 23, 2021 </div>"
+		              ,"<div class='bio-profile-jobdescription'>Lincoln, J. (2021). <em>Jonathan Lincoln</em> [Photograph]. Personal Collection </div>"
+                    ],
+        "profileimage": "Jonathan_Lincoln.jpg",
+        "profileimage2": "",
+        "photocreditimage": ""
+    },
+{
+        "id":53,
+        "languagetype":"sp",
+        "fullname":"KAMAL BELL",
+        "quote":"CADA SISTEMA U OCUPACIÓNPUEDE ESTAR RELACIONADO CONLA CULTIVACIÓN O LA AGRICULTURA DE ALGUNA MANERA.",
+        "jobtitle": "GRANJERO Y APICULTOR",
+        "jobs": ["GRANJERO","APICULTOR","MAESTRO","MENTOR"],
+
+        "life": "1991-presente",
+        "pronunciation": "ka-mal bel",
+        "location": "Durham, North Carolina",
+        "knownfor": "Dueño de Sankofa Farm, apicultura y alcance comunitario",
+
+        "mathhero": "Los agricultores como Kamal usan las matemáticas para:",
+        "mathherobullet": [
+            "<div class='bio-profile-mathhero'>Planificar el <a href='https://drive.google.com/file/d/1f0dovTTYd6P9bTPV9bTpcqpaBEC-WfEV/view?usp=sharing' target='_blank' class='link-dark'>espacio</a> entre cultivos con <a href='https://drive.google.com/file/d/1KK0R2DqGi7ZEoo3bFo6S_Ooapq87yz8s/view?usp=sharing' target='_blank' class='link-dark'>geometría</a> para un riego adecuado y para maximizar el <a href='https:// drive.google.com/file/d/1W_rRc5yTbo7P-_mT1f50fobinJxQNy5N/view' target='_blank' class='link-dark'> crecimiento de las plantas</a>.</div>",
+            "<div class='bio-profile-mathhero'>Comprender cómo las abejas usan el <a href='https://drive.google.com/file/d/1-sdb_d5ukLPLZZ6scVvydKcRy7dc4Fra/view' target='_blank' class='link-dark'>mosaico</a> y la <a href='https://www.youtubetrimmer.com/view/?v=UcTNg5eiXPY&start=60&end=211&loop=0' target='_blank' class='link-dark'>geometría hexagonal</a> para producir la mayor cantidad de miel posible.</div>",
+            "<div class='bio-profile-mathhero'>Determinar la <a href='https://drive.google.com/file/d/1FmKf1eJneJhBhKsXrUkT2jZzV3aSVdEk/view' target='_blank' class='link-dark'>esperanza de vida</a> de las abejas.</div>",
+		    "<div class='bio-profile-mathhero'>Calcular la <a href='https://drive.google.com/file/d/1fL4FWi-DVxKh20kDQwIQSxgvWArYIAGC/view?usp=sharing' target='_blank' class='link-dark'>ganancia</a>, que es el dinero obtenido de la venta de cultivos menos el dinero gastado en la siembra y el mantenimiento de los cultivos.</div>"
+            ],
+ 	  "mathherounderbullet": "",
+        "funfact": "",
+        "jobdescription": "BUZZING ABOUT FARMING & MENTORSHIP",
+        "jobdescriptionbullets": ["<div class='bio-profile-jobdescription'><a href='https://www.youtubetrimmer.com/view/?v=M-RRGDpWVKQ&start=6&end=13&loop=0' target='_blank' class='link-dark'>Kamal Bell</a> es un agricultor y apicultor. Combina su trabajo como <a href='https://www.youtubetrimmer.com/view/?v=M-RRGDpWVKQ&start=300&end=336&loop=0' target='_blank' class='link-dark'>ex maestro</a> y su amor por la naturaleza para enseñar a los jóvenes cómo ayudar a las comunidades negras a través del cultivo de frutas y verduras y la cría de abejas en su granja familiar llamada <a href='https://www.youtubetrimmer.com/view/?v=M-RRGDpWVKQ&start=420&end=460&loop=0' target='_blank' class='link-dark'>Sankofa</a>. Las <a href='https://www.youtubetrimmer.com/view/?v=546MGlSthbU&start=88&end=135&loop=0' target='_blank' class='link-dark'>abejas</a> cumplen un papel muy importante al polinizar los cultivos que comen las personas y los animales de granja.</div>"
+                                 ,"<div class='bio-profile-jobdescription'>Kamal cultiva tomates, pimientos, col rizada, hinojo, lechuga, apio, nabos y acelgas en su granja. Él entrega los productos a las tiendas de comestibles locales. La miel de sus colmenas de abejas se vende en la granja y en línea.</div>"
+                                 ,"<div class='bio-profile-jobdescription'>Kamal toma decisiones basadas en <a href='https://drive.google.com/file/d/1dvXJMktqnrbJ-sPFs6GeDMM__p99PVQU/view?usp=sharing' target='_blank' class='link-dark'>datos</a> que le permiten hacer su trabajo de manera más eficiente. Administrar la granja es un negocio que utiliza muchas matemáticas y tecnología Bluetooth.</div>"
+                                 ,"<div class='bio-profile-jobdescription'><a href='https://drive.google.com/file/d/1bNMNE5nYdN_vE8-ks3xeIiAWdbthSfsh/view?usp=sharing' target='_blank' class='link-dark'>Kamal</a> desarrolló un <a href='https://drive.google.com/file/d/1W_Q91tvcwYoq5TGJuo5ejAkHuz1qYapg/view' target='_blank' class='link-dark'>libro</a> que le enseña a los niños acerca de las matemáticas relacionadas con la agricultura y las <a href='https://drive.google.com/file/d/1188375LWcgCPZvwFls0b_MiuJ6Nm6oLt/view' target='_blank' class='link-dark'>abejas</a>.</div>"
+                                ],
+        "references": ["<div class='bio-profile-jobdescription'>Profe Campi. (2020 Nov 21). <em>¿por qué la abejas construyen hexágonos? abejas, ciencia y matemáticas</em>. [Video]. YouTube. https://www.youtube.com/watch?v=UcTNg5eiXPY </div>"
+			          ,"<div class='bio-profile-jobdescription'>El club de Raimundo y Facundo. (2018 Mar 8). <em>¿Por que son tan importantes las abejas?/Para niños/Educativo</em>. [Video]. YouTube. https://www.youtube.com/watch?v=546MGlSthbU </div>"
+		              ,"<div class='bio-profile-jobdescription'>Mediasmith. (2018). <em>Sankofa</em> [Video]. Vimeo. https://vimeo.com/296545837?embedded=true&source=vimeo_logo&owner=1051539 </div>"
+		              ,"<div class='bio-profile-jobdescription'>T. McElveen, personal communication, June 23, 2022. </div>"
+		              ,"<div class='bio-profile-jobdescription'>Bell, K. (2022). <em>Kamal Bell</em> [Photograph]. Personal Collection</div>"
+                    ],
+
+        "profileimage": "Kamal_Bell.jpg",
+        "profileimage2": "",
+        "photocreditimage": ""
+    },
+{
+        "id":54,
+        "languagetype":"sp",
+        "fullname":"DRA. KAMEELAH PHILLIPS",
+        "quote":"MI PASÍON ES LA SALUD DE LA MUJER.",
+        "jobtitle": "DOCTORA DE SALUD FEMENIL",
+        "jobs": ["DOCTORA","SALUD FEMENIL","MENTORA"],
+
+        "life": "1977-presente",
+        "pronunciation": "Ka-mee-la Fill-lips",
+        "location": "Nueva York, Nueva York",
+        "knownfor": "Asistir el nacimiento de bebés, salud de la mujer",
+
+        "mathhero": "Los doctores y las doctoras para mujeres, niñas y los recién nacidos como Kameelah tienen que:",
+        "mathherobullet": [
+            "<div class='bio-profile-mathhero'>Leer tablas y <a href='https://drive.google.com/file/d/1GSOyWMvSMnigkGj03Bxk2TBmNpXK03WO/view?usp=sharing' target='_blank' class='link-dark'>gráficos</a> para verificar la salud de los bebés y de las madres.</div>",
+            "<div class='bio-profile-mathhero'>Usar balanzas para <a href='https://drive.google.com/file/d/1zWly0VVSh8hMSqhDXlPu3G37RWLkVr8j/view?usp=sharing' target='_blank' class='link-dark'>pesar</a> a los recién nacidos y a los bebés en crecimiento.</div>",
+            "<div class='bio-profile-mathhero'><a href='https://drive.google.com/file/d/15aSJXgkiArVx4QddL2t-E-EHL57DQIcG/view?usp=sharing' target='_blank' class='link-dark'>Calcular</a> la dosis correcta de medicamento para ayudar a los pacientes a sentirse mejor.</div>"
+            ],
+ 	  "mathherounderbullet": "",
+        "funfact": "",
+	  "jobdescription": "AYUDANDO ANIÑAS Y MUJERES CONLA MEDICINA",
+        "jobdescriptionbullets": ["<div class='bio-profile-jobdescription'><a href='https://www.youtubetrimmer.com/view/?v=qDrviMIz6RQ&start=8&end=36&loop=0' target='_blank' class='link-dark'>Kameelah Phillips</a> es una doctora que trabaja con niñas y mujeres. Tiene un negocio llamado Calla Women’s Health.</div>"
+                                 ,"<div class='bio-profile-jobdescription'>Como parte de su trabajo, Kameelah, ayuda a las madres a dar a luz y se asegura de que tanto el bebe como la madre estén sanos.</div>"
+                                 ,"<div class='bio-profile-jobdescription'>Kameelah también le enseña a las niñas y las mujeres sobre su salud para que se sientan cómodas con sus cuerpos.</div>"
+					             ,"<div class='bio-profile-jobdescription'>Kameelah disfruta de ser voluntaria. Ella ayudó a proveer atención médica a mujeres en Haití después de un terrible terremoto en el 2010.</div>"
+                                ],
+        "references": ["<div class='bio-profile-jobdescription'>Duke, C. M. (n.d.). <em>Dr. Kameelah Phillips MD. The Directory of Black Women Physicians</em>. Dr. Cindy Duke. https://drcindyduke.com/black-women-physicians-directory/name/kameelah-phillips </div>"
+			          ,"<div class='bio-profile-jobdescription'>Momdotcom. (2021 Jun 3). <em>Hello Baby Live! Session 1-Ask an OB-GYN</em> [Video]. YouTube. https://www.youtube.com/watch?v=qDrviMIz6RQ </div>"
+			          ,"<div class='bio-profile-jobdescription'>Phillips, K. (2021). <em>Kameelah Phillips</em> [Photograph]. Dr. Cindy Duke. https://drcindyduke.com/black-women-physicians-directory/name/kameelah-phillips </div>"
+                      ],
+
+        "profileimage": "Kameela_Phillips.jpg",
+        "profileimage2": "",
+        "photocreditimage": ""
+    },
+{
+        "id":55,
+        "languagetype":"sp",
+        "fullname":"KATYA ECHAZARRETA",
+        "quote":"A VECES VAS A TENER QUE APRENDER Y VOLVER A APRENDER Y REVISAR LOS MISMOS CONCEPTOS UNA Y OTRA VEZ. ES PARTE DE LA DIVERSION!",
+        "jobtitle": "INGENIERA ELÉCTRICA",
+        "jobs": ["INGENIERA ELÉCTRICA","DIVULGADORA CIENTÍFICA"],
+
+        "life": "1996-presente",
+        "pronunciation": "kaa-tyuh eh-cha-sarre-taa",
+        "location": "Baltimore, Maryland",
+        "knownfor": "Ser la primer mujer Mexicana en ir al espacio",
+
+        "mathhero": "Los ingenieros eléctricos como Katya usan las matemáticas de varias maneras:",
+        "mathherobullet": [
+            "<div class='bio-profile-mathhero'><a href='https://drive.google.com/file/d/15aSJXgkiArVx4QddL2t-E-EHL57DQIcG/view?usp=sharing' target='_blank' class='link-dark'> Calculan</a> la <a href='https://drive.google.com/file/d/1wI1a7ugWRiqKhs6ZpsE4YuOyNOS7I1gi/view?usp=sharing' target='_blank' class='link-dark'>cantidad</a> de energía que algo necesita para funcionar correctamente.</div>",
+            "<div class='bio-profile-mathhero'>Se aseguran de que la <a href='https://drive.google.com/file/d/1s1ykCGCinfDNhN_7PVfbzzo_cGSV4Oj5/view?usp=sharing' target='_blank' class='link-dark'>temperatura</a> dentro y fuera de las naves espaciales no dañe los components electrónicos.</div>",
+            "<div class='bio-profile-mathhero'>Usan <a href='https://drive.google.com/file/d/1LZqYibXDlQK4bNubyHnL700lMcAtyGpb/view?usp=sharing' target='_blank' class='link-dark'>ecuaciónes</a> de <a href='https://drive.google.com/file/d/1xHVJ_qKEO6Ppstl2igpyhfXKdh7LS_3v/view?usp=sharing' target='_blank' class='link-dark'>álgebra</a> para crear formas de comunicarse de un lugar a otro, incluso del espacio exterior a la Tierra.</div>"
+            ],
+	  "mathherounderbullet": "",
+      "funfact": "",
+	  "jobdescription": "DE MÉXICO AL ESPACIO",
+        "jobdescriptionbullets": ["<div class='bio-profile-jobdescription'>Katya Echazarreta es una ingeniera eléctrica. Los ingenieros eléctricos inventan, crean, mejoran y arreglan dispositivos electrónicos, herramientas y equipo.</div>"
+                                 ,"<div class='bio-profile-jobdescription'>Katya se mudó de Guadalajara, México a los Estados Unidos cuando tenía siete años. En ese momento, ella no hablaba inglés, solo español. Mudarse a un nuevo país no fue tan fácil, pero su sueño de visitar el espacio se cumplió.</div>"
+                                 ,"<div class='bio-profile-jobdescription'>Katya, en junio de 2022, se convirtió en <a href='https:// www.youtubetrimmer.com/view/?v=79hHHzxhzcM&loop=0' target='_blank' class='link-dark'> la primera mujer astronauta mexicana en viajar al espacio exterior</a>. Ella se enorgullece de representar a “todas las niñas y mujeres que sueñan con lograr algo más grande.”</div>"
+                                ],
+        "references": ["<div class='bio-profile-jobdescription'>Cabrera. M. A. (2022 May 21). <em>Katya Echazarreta, ¿quien es la primera mexicana que irá al espacio y cuál será su misión?</em> GQ México. https://www.gq.com.mx/entretenimiento/articulo/katya-echazarreta-quien-es-astronauta-mexicana </div>"
+			          ,"<div class='bio-profile-jobdescription'>CNN Español. (2022 May 13). <em>Katya Echazarreta, la primera latina nacida en México en ir al espacio</em> [Video]. CNN Español. https://cnnespanol.cnn.com/2022/05/13/katya-echazarreta-la-primera-latina-nacida-en-mexico-que-ira-al-espacio-orix </div>"
+			          ,"<div class='bio-profile-jobdescription'>Infobae. (2022 May 13). <em>Quién es Katya Echazarreta, la primera latinoamericana que viajará al espacio</em> [Video]. Infobae. https://www.infobae.com/america/mexico/2022/05/13/quien-es-katya-echazarreta-la-primer-mujer-mexicana-en- tocar-las-estrellas/ </div>"
+		              ,"<div class='bio-profile-jobdescription'>Egaña, C. (2021). <em>Katya Echazarreta</em> [Photograph]. CNN Espanol. https://cnnespanol.cnn.com/video/katya-echazarreta-fue-rechazada-discriminada-ingenieria-universidad-camilo-egana-cnn/ </div>"
+                    ],
+
+        "profileimage": "Katya_Echazarreta.jpg",
+        "profileimage2": "",
+        "photocreditimage": ""
+    },
+{
+        "id":56,
+        "languagetype":"sp",
+        "fullname":"LONNIE JOHNSON",
+        "quote":"INVENTAR ES LO QUE HAGO. VENGO A TRABAJAR, TRATO DE INVENTAR Y DESARROLLAR COSAS NUEVAS PARA SOLUCIONAR PROBLEMAS.",
+        "jobtitle": "INVENTOR",
+        "jobs": ["INVENTOR","INGENIERO NUCLEAR","FUERZA AÉREA DE EE. UU.","CIENTÍFICO EN NASA"],
+
+        "life": "1949-presente",
+        "pronunciation": "lo-ni yon-son",
+        "location": "Atlanta, Georgia",
+        "knownfor": "Inventar juguetes y desarrollar sistemas de energía para la Fuerza Aérea de EE. UU. y la NASA",
+
+        "mathhero": "Los inventores como Lonnie usan las matemáticas para:",
+        "mathherobullet": [
+                        "<div class='bio-profile-mathhero'>Crear juguetes que lanzan artículos más lejos y más rápido debido a su conocimiento del <a href='https://drive.google.com/file/d/11D9f3dNlxRHC3q9K7hY1SOLxz8g9jGPs/view?usp=sharing' target='_blank' class='link-dark'>volumen</a> y la <a href='https://drive.google.com/file/d/1KAXb0pvdnjdEejKObtleBUHQmkhv9VZJ/view?usp=sharing' target='_blank' class='link-dark'>densidad</a>.</div>",
+            		    "<div class='bio-profile-mathhero'>Crear baterías que usen <a href='https://drive.google.com/file/d/1TigpbnMy-xtLGXlYPZgRbQhLxWB71FNS/view?usp=sharing' target='_blank' class='link-dark'>menos</a> recursos naturales pero produzcan <a href='https://drive.google.com/file/d/1-W0jRLUD27RbIIlMFtN4AY8eL4gX0d7f/view?usp=sharing' target='_blank' class='link-dark'>más</a> energía.</div>",
+            		    "<div class='bio-profile-mathhero'>Crear fuentes de energía para que los cohetes puedan explorar el planeta Júpiter.</div>",
+				        "<div class='bio-profile-mathhero'>Inspirar a los jóvenes: “La gente vio mi interés en la ingeniería desde muy temprano y lo fomentaron...cuanto antes podamos interesar a los niños y más comentarios positivos podamos hacer...más probabilidades tendremos de ver a los niños crecer para tener éxito.”</div>"
+                          ],
+	  "mathherounderbullet": "",
+      "funfact": "",
+	  "jobdescription": "TENGO UNA GRAN IDEA",
+        "jobdescriptionbullets": ["<div class='bio-profile-jobdescription'><a href='https://www.youtubetrimmer.com/view/?v=xukAaYHCrp0&start=0&end=19&loop=0' target='_blank' class='link-dark'>Lonnie Johnson</a> es un inventor e ingeniero. Los ingenieros inventan y modifican cosas para mejorar la forma en la que trabajamos, vivimos y jugamos.</div>"
+                                 ,"<div class='bio-profile-jobdescription'>Lonnie, de niño, se interesó en hacer juguetes y otros objetos. En la escuela secundaria, un <a href='https://www.youtubetrimmer.com/view/?v=rdd1KxAzwbM&start=143&end=251&loop=0' target='_blank' class='link-dark'>robot</a> que él diseñó ganó una competencia estatal.</div>"
+                                 ,"<div class='bio-profile-jobdescription'>Lonnie obtuvo múltiples títulos de la Universidad de Tuskegee, un colegio/universidad históricamente negro conocido por su trabajo en los campos de la agricultura, la aviación y la ingeniería. Ha trabajado como ingeniero de investigación e ingeniero nuclear para la Fuerza Aérea de los EE.UU. y la NASA.</div>"
+                                 ,"<div class='bio-profile-jobdescription'>Lonnie utilizó su conocimiento de la propulsion a chorro para crear la pistola de agua <a href='https://www. youtubetrimmer.com/view/?v=rdd1KxAzwbM&start=685&end=806&loop=0' target='_blank' class='link-dark'> Super Soaker®</a>, así como los populares juguetes <a href='https://www.youtubetrimmer.com/view/?v=xukAaYHCrp0&start=218&end=251&loop=0' target='_blank' class='link-dark'>N-Strike® Nerf</a>.</div>"
+					             ,"<div class='bio-profile-jobdescription'>Lonnie fue incluido en el Salón de la Fama de los Inventores Nacionales en 2022. El Super Soaker® fue incluido en el Salón de la Fama Nacional del Juguete en 2015. Tiene más de 100 patentes en EE. UU.</div>"
+                                ],
+        "references": ["<div class='bio-profile-jobdescription'>Gopal, T., & Shereshewsky, B. (2020 Aug 15). <em>How a NASA scientist accidentally invented the Super Soaker</em>. CNN. https://www.cnn.com/2020/08/15/us/super-soaker-lonnie-johnson-great-big-story-trnd/index.html </div>"
+		              ,"<div class='bio-profile-jobdescription'>Carolina Duncan. (2021). <em>Fuuusss Super Soaker y otros inventos de Lonnie Johnson</em> [Video]. YouTube. https://www.youtube.com/watch?v=rdd1KxAzwbM&t=110s </div>"
+			          ,"<div class='bio-profile-jobdescription'>National Inventors Hall of Fame. (2022). <em>Lonnie Johnson</em>. https://www.invent.org/inductees/lonnie-johnson </div>"
+		              ,"<div class='bio-profile-jobdescription'>Gopal, T. (2020). <em>Lonnie Johnson</em> [Photograph]. CNN. https://www.cnn.com/2020/08/15/us/super-soaker-lonnie-johnson-great-big-story-trnd/index.html </div>"
+                      ],
+
+        "profileimage": "Lonnie_Johnson.jpg",
+        "profileimage2": "",
+        "photocreditimage": ""
+    },
+{
+        "id":57,
+        "languagetype":"sp",
+        "fullname":"DR. LORI ALVORD",
+        "quote":"NAVAJO PROVERB: CAMINA POR EL CAMINO DE TU VIDA EN ARMONÍA Y BELLEZA CONTODO LO QUE TE RODEA.",
+        "jobtitle": "CIRUJANA",
+        "jobs": ["CIRUJANA","ARTISTA CURATIVA","AUTORA"],
+
+        "life": "1957-presente",
+        "pronunciation": "lo-ri al-vou",
+        "location": "Washington",
+        "knownfor": "Cirujana y Educación para la Salud",
+
+        "mathhero": "Los cirujanos como Lori usan las matemáticas para:",
+        "mathherobullet": [
+            "<div class='bio-profile-mathhero'>Realizar cortes precisos con <a href='https://drive.google.com/file/d/1HfE3AzkGSRaPpzX2L5YVEDI1JHe0QCu6/view?usp=sharing' target='_blank' class='link-dark'>ángulos</a> para que las operaciones se realicen correctamente.</div>",
+            "<div class='bio-profile-mathhero'>Realizar procedimientos complejos mediante la lectura de imágenes <a href='https://drive.google.com/file/d/1lAiKjT6fuUmyBlh-QmgN0dtHjzZVpwBI/view?usp=sharing' target='_blank' class='link-dark'>tridimensional</a> (3D) y el trabajo a <a href='https://drive.google.com/file/d/1yUU5laRwX54KFQ8gcb5GWxpPfuiSek-o/view?usp=sharing' target='_blank' class='link-dark'>distancia</a>.</div>",
+		    "<div class='bio-profile-mathhero'>Navegar por la cantidad limitada de <a href='https://drive.google.com/file/d/1f0dovTTYd6P9bTPV9bTpcqpaBEC-WfEV/view?usp=sharing' target='_blank' class='link-dark'>espacio</a>disponible dentro del cuerpo humano.</div>"
+            ],
+	  "mathherounderbullet": "",
+      "funfact": "<div class='bio-profile-mathhero'>Lori fue nominada para convertirse en la major doctora en medicina y educadora de salud en los Estados Unidos, llamada <a href='https://www.youtubetrimmer.com/view/?v=AW1YsxGPZwM&start=350&end=384&loop=0' target='_blank' class='link-dark'>Cirujano(a) General</a>, en el 2013.</div>",
+	  "jobdescription": "CREANDO AMBIENTES DE SANACIÓN",
+        "jobdescriptionbullets": ["<div class='bio-profile-jobdescription'>Lori Alvord es una cirujana. Un cirujano es un médico que opera a pacientes que necesitan ayuda.</div>"
+                                 ,"<div class='bio-profile-jobdescription'>Lori fue la <a href='https://www.youtubetrimmer.com/view/?v=AW1YsxGPZwM&start=279&end=330&loop=0' target='_blank' class='link-dark'>primera Navajo</a> en convertirse en cirujana. Lori ha introducido muchas ideas maravillosas en el campo de la medicina. Ella enseña a <a href='https://www.youtubetrimmer.com/view/?v=AW1YsxGPZwM&start=0&end=23&loop=0' target='_blank' class='link-dark'>ser respetuoso con todo el ser y el cuerpo de una persona</a> ya sea que esté despierta o dormida.</div>"
+                                 ,"<div class='bio-profile-jobdescription'>Lori creció en una <a href='https://www.youtubetrimmer.com/view/?v=AW1YsxGPZwM&start=39&end=95&loop=0' target='_blank' class='link-dark'>reserva Navajo</a> en Crownpoint, Nuevo México. Soñaba con ser <a href='https://www.youtubetrimmer.com/view/?v=AW1YsxGPZwM&start=468&end=504&loop=0' target='_blank' class='link-dark'>doctora desde los 6 años</a>. De niña disfrutaba leer y aprender cosas nuevas.</div>"
+                                 ,"<div class='bio-profile-jobdescription'>Lori se convirtió en cirujana en un momento en que pocas <a href='https://www.youtubetrimmer.com/view/?v=AW1YsxGPZwM&start=210&end=278&loop=0' target='_blank' class='link-dark'>mujeres</a> tenían la oportunidad. Se dio cuenta de que los delicados <a href='https:// drive.google.com/file/d/1dWRsdbsqTrja6XWdVD3jxeyGNb5Y9Bsp/view' target='_blank' class='link-dark'> patrones de cuentas nativos</a> que aprendió de niña eran útiles para realizar procedimientos cardíacos difíciles.</div>"
+					             ,"<div class='bio-profile-jobdescription'>Lori escribió un libro inspirador basado en su vida y trabajo como cirujana, titulado <a href='https://www.youtubetrimmer.com/view/?v=AW1YsxGPZwM&start=384&end=420&loop=0' target='_blank' class='link-dark'><em>The Scalpel and the Bear</em> (<em>El bisturí y el oso de plata</em>)</a>.</div>"
+                                ],
+        "references": ["<div class='bio-profile-jobdescription'>American Society for Engineering Education. (n.d.). <em>For Teachers. EGFI – For Teachers Native American STEM Heritage</em>. http://teachers.egfi-k12.org/native-american-stem/ </div>"
+			          ,"<div class='bio-profile-jobdescription'>StanfordMed Alumni1. (2018 Dec 13). <em>Stanford Medicine Alumni Awards 2018: Lori Alvord</em> [Video]. YouTube. https://www.youtube.com/watch?v=AW1YsxGPZwM </div>"
+		              ,"<div class='bio-profile-jobdescription'>Alvord, L. (2020). <em>Lori Alvord, MD</em> [Photograph]. Astria Health. https://www.astria.health/provider-directory/provider/lori-alvord </div>"
+                      ],
+
+        "profileimage": "Lori_Alvord.jpg",
+        "profileimage2": "",
+        "photocreditimage": ""
+    },
+{
+        "id":58,
+        "languagetype":"sp",
+        "fullname":"LOUISE E. JEFFERSON",
+        "quote":"MI TRABAJO ES UNA HERRAMIENTA QUE OTROS PUEDENUTILIZAR PARANAVEGAR EL MUNDO",
+        "jobtitle": "CARTÓGRAFA",
+        "jobs": ["CARTÓGRAFA","AUTORA","ARTISTA"],
+
+        "life": "1908-2002",
+        "pronunciation": "loo-EEZ Jeff-er-son",
+        "location": "",
+        "knownfor": "Elaboración de mapas, artista",
+
+        "mathhero": "Cartographers like Louise use math to:",
+        "mathherobullet": [
+            "<div class='bio-profile-mathhero'>Hacer “mapas a escala” que muestran la relación entre la distancia en un mapa y la <a href='https://drive.google.com/file/d/1yUU5laRwX54KFQ8gcb5GWxpPfuiSek-o/view?usp=sharing' target='_blank' class='link-dark'>distancia</a> real.</div>",
+            "<div class='bio-profile-mathhero'>Medir distancias exactas en unidades como <a href='https://drive.google.com/file/d/1Bwi-X7Py6FUZ5GZaW8b0Uda2Q7ky-QXx/view?usp=sharing' target='_blank' class='link-dark'>pies</a> y <a href='https://drive.google.com/file/d/1LDDR1DpYiPC8H5sgfukSyg5BfZW7euMI/view?usp=sharing' target='_blank' class='link-dark'>millas</a>.</div>",
+            "<div class='bio-profile-mathhero'>Hacer imágenes portátiles que muestran qué tan lejos están las cosas y en qué <a href='https://drive.google.com/file/d/1HuZVZmdmFwkGqOV7Env-TTUOAOV2Hgud/view?usp=sharing' target='_blank' class='link-dark'>dirección</a> se debe viajar para alcanzarlas.</div>"
+            ],
+	  "mathherounderbullet": "",
+        "funfact": "",
+	  "jobdescription": "MAPAS Y ARTE",
+        "jobdescriptionbullets": ["<div class='bio-profile-jobdescription'>Louise E. Jefferson fue una cartógrafa. Un cartógrafo es alguien que diseña y dibuja <a href='https://www.youtubetrimmer.com/view/?v=UZaTK7B0doE&start=4&end=107&loop=0' target='_blank' class='link-dark'>mapas</a>.</div>"
+                                 ,"<div class='bio-profile-jobdescription'>Louise usó sus habilidades para hacer  <a href='https://drive.google.com/file/d/16hy9gbLyhObgVicpsFs2CrjSWcURBLco/view?usp=sharing' target='_blank' class='link-dark'>“mapas de amistad”</a>. Uno de sus mapas más famosos mostraba a los científicos, inventores, escritores, artistas y agricultores afrodescendientes en los Estados Unidos.</div>"
+                                 ,"<div class='bio-profile-jobdescription'>Louise fue la primera afroamericana en ser directora de una editorial llamada, Friendship Press.</div>"
+					             ,"<div class='bio-profile-jobdescription'>Louise realizó 5 viajes al continente de África, visitando 15 países. En el libro titulado <a href='https://drive.google.com/file/d/1t3O5NTvewxjzUZTxLRN-DozW8KpRzUig/view?usp=sharing' target='_blank' class='link-dark'><em>Las artes decorativas de África</em></a> se publicaron más de 300 fotografías y dibujos de los viajes de Louise.</div>"
+                                ],
+        "references": ["<div class='bio-profile-jobdescription'>Convis, C. (2020 Jun 12). <em>Louise E. Jefferson, Artist, Publisher, Photographer, Mapmaker</em>. Esri. https://community.esri.com/t5/conservation-gis/1908-2002-louise-e-jefferson-artist-publisher/ta-p/914970 </div>"
+			          ,"<div class='bio-profile-jobdescription'>Louise E. Jefferson. (2020 Dec 17). In <em>Wikipedia</em>. https://en.wikipedia.org/wiki/Louise_E._Jefferson </div>"
+		              ,"<div class='bio-profile-jobdescription'>M., A. [Anna M.]. (2019 May 2). <em> How to Use a Map Scale</em> [Video]. YouTube. https://www.youtube.com/watch?v=bBVNyRU0iAA </div>"
+		              ,"<div class='bio-profile-jobdescription'>Convis, C. (2020 Jun 12). <em>Louise E. Jefferson, Artist, Publisher, Photographer, Mapmaker</em> [Photograph]. Esri. https://community.esri.com/t5/conservation-gis/1908-2002-louise-e-jefferson-artist-publisher/ta-p/914970 </div>"
+                      ],
+
+        "profileimage": "Louise_E_Jefferson.jpg",
+        "profileimage2": "",
+        "photocreditimage": ""
+    },
+{
+        "id":59,
+        "languagetype":"sp",
+        "fullname":"DRA. MAE JEMISON",
+        "quote":"NO DEJES QUE NADIE TE ROBE TU IMAGINACIÓN, TU CREATIVIDAD O TU CURIOSIDAD.",
+        "jobtitle": "ASTRONAUTA",
+        "jobs": ["DOCTORA","INGENIERA","PILOTO"],
+
+        "life": "1956-presente",
+        "pronunciation": "mei yem-i-son",
+        "location": "Houston, Texas",
+        "knownfor": "Viajes espaciales, ingeniería y doctora médica",
+
+        "mathhero": "Los astronautas como Mae usan las matemáticas para:",
+        "mathherobullet": [
+            "<div class='bio-profile-mathhero'>Explorar las <a href='https://drive.google.com/file/d/1zXRZixazADkfxw-HTKJ1cR3fjM1fDh0r/view?usp=sharing' target='_blank' class='link-dark'>propiedades</a> de la Tierra.</div>",
+            "<div class='bio-profile-mathhero'>Realizar <a href='https://drive.google.com/file/d/1RClFQFPqM6XneV_AA8kImPnQ81CuwFqT/view?usp=sharing ' target='_blank' class='link-dark'> experimentos </a> en el espacio exterior.</div>",
+            "<div class='bio-profile-mathhero'>Recolectar <a href='https://drive.google.com/file/d/1dvXJMktqnrbJ-sPFs6GeDMM__p99PVQU/view?usp=sharing' target='_blank' class='link-dark'>datos</a>.</div>"
+        ],
+	    "mathherounderbullet": "<div class='bio-profile-mathhero'>Hay más para explorer en el <a href='https://www.youtubetrimmer.com/view/?v=a-09Gr4ih1c&start=143&end=189&loop=0' target='_blank' class='link-dark'>espacio exterior</a>. Las matemáticas y las ciencias son necesarias para entender lo que hay ahí fuera.</div>",
+        "funfact": "<div class='bio-profile-mathhero'>href='https://drive.google.com/file/d/1WDU0DnSSKgy7CwNHQnmQbKVvtGCO3khK/view?usp=sharing' target='_blank' class='link-dark'>LEGO®</a> creó una figura en honor a la Dra. Jemison.</div>",
+        "jobdescription": "AL ESPACIO Y MÁS ALLÁ",
+        "jobdescriptionbullets": ["<div class='bio-profile-jobdescription'><a href='https://www.youtubetrimmer.com/view/?v=G_rf_is98sE&start=0&end=107&loop=0' target='_blank' class='link-dark'>Mae Jemison</a> es una es una <a href='https:// www.youtubetrimmer.com/view/?v=w-1dTJKK764&start=114&end=178&loop=0' target='_blank' class='link-dark'> astronauta </a>, ingeniera, piloto y médica. En septiembre de 1992, se convirtió en la primera mujer negra en viajar al espacio a bordo del transbordador Endeavour.</div>"
+                                 ,"<div class='bio-profile-jobdescription'>La compañía de Mae, 100 Year Starship, ayuda a promover la comprensión científica en todo el mundo. Ella alienta a los estudiantes a abrazar sus curiosidades tanto en las artes como en las ciencias.</div>"
+                                 ,"<div class='bio-profile-jobdescription'>Mae cumplió su sueño de la infancia al actuar en el programa de televisión <a href='https://www.youtubetrimmer.com/view/?v=G_rf_is98sE&start=804&end=890&loop=0' target='_blank' class='link-dark'>Star Trek: The Next Generation</a>. La serie original la inspiró a convertirse en astronauta.</div>"
+					             ],
+        "references": ["<div class='bio-profile-jobdescription'>Alexander, K. L. (2019). <em>Mae Jemison Biography</em>. Women's History. https://www.womenshistory.org/education-resources/biographies/mae-jemison </div>"
+			          ,"<div class='bio-profile-jobdescription'>Bronx Arts Middle School. (2021 Feb 8). <em> 2-9 Scientist of the Week BHM: Dr. Mae Jemison and Nichelle Nichols</em> [Video]. YouTube. https://www.youtube.com/watch?v=G_rf_is98sE </div>"
+                      ,"<div class='bio-profile-jobdescription'>National Women's History Museum. (n.d.). <em>Mae Jemison</em>. https://www.womenshistory.org/education-resources/biographies/mae-jemison </div>"
+                      ,"<div class='bio-profile-jobdescription'>Playmobil en en Español (2021 Mar 23). <em>¿Qué hay que hacer para llegar a ser astronauta? | ROBert lo sabe | PLAYMOBIL en Español</em>. [Video] YouTube. https://www.youtube.com/watch?v=w-1dTJKK764&t=180s </div>"
+		              ,"<div class='bio-profile-jobdescription'>NASA (1992). <em>Dr. Mae Jemison</em> [Photograph]. Space. https://www.space.com/17169-mae-jemison-biography.html </div>"
+                      ],
+        "profileimage": "Mae_Jemison.jpg",
+        "profileimage2": "",
+        "photocreditimage": ""
+    },
+{
+        "id":60,
+        "languagetype":"sp",
+        "fullname":"MANUEL BRONSTEIN",
+        "quote":"¡MI MAYOR OBJETIVO ES AYUDAR A HABILITAR EL METAVERSO!",
+        "jobtitle": "DIRECTOR DE PRODUCTO",
+        "jobs": ["ROBLOX","VIDEO JUEGOS","JUEGOS VIRTUALES EN 3D"],
+
+        "life": "",
+        "pronunciation": "Man-well Bron-steen",
+        "location": "Palo Alto, California",
+        "knownfor": "Roblox Y Diseñando Xbox 360",
+
+        "mathhero": "Los diseñadores de juegos como Manuel usan las matemáticas para:",
+        "mathherobullet": [
+            "<div class='bio-profile-mathhero'>Crear imágenes y <a href='https://drive.google.com/file/d/1FmapbCCaK-N7GYmfTfRnhIe_-5FS1d8R/view?usp=sharing' target='_blank' class='link-dark'>formas</a> <a href='https://drive.google.com/file/d/1lAiKjT6fuUmyBlh-QmgN0dtHjzZVpwBI/view?usp=sharing' target='_blank' class='link-dark'>tridimensionales</a>.</div>",
+            "<div class='bio-profile-mathhero'>Hacer que los objetos se muevan usando <a href='https://drive.google.com/file/d/19YpfmbLA_XAAwhMmWU8jdHl91qmGgmDA/view?usp=sharing' target='_blank' class='link-dark'>fórmulas</a> y <a href='https://drive.google.com/file/d/1c6sUEFcCDVPFXhRXuDrUeSGHfG1B5vzk/view?usp=sharing' target='_blank' class='link-dark'>variable</a>. Sin matemáticas, un videojuego sería imágenes de arte fijas.</div>",
+            "<div class='bio-profile-mathhero'>Decidir qué nuevas características del juego desean los fanáticos y hacer una <a href='https://drive.google.com/file/d/10frZvvKjStjAbr4XDrptvwwv784ga8MS/view?usp=sharing' target='_blank' class='link-dark'>estimación</a> de cuánto dinero ganará la compañía con las actualizaciones.</div>"
+            ],
+	    "mathherounderbullet": "",
+        "funfact": "",
+	    "jobdescription": "CREANDO MUNDOS VIRTUALES",
+        "jobdescriptionbullets": ["<div class='bio-profile-jobdescription'>Manuel Bronstein es un creador de mundos virtuales. Crea juegos en línea y mundos de <a href='https://drive.google.com/file/d/1PCr_YpDYKA9wvZAV0GYPEG9JKDUUIgMx/view?usp=sharing' target='_blank' class='link-dark'> realidad virtual</a>. Manuel nació en Venezuela.</div>"
+                                 ,"<div class='bio-profile-jobdescription'>La empresa de Manuel creó una plataforma donde los niños pueden crear juegos y mundos en línea en <a href='https://www.youtubetrimmer.com/view/?v=OHHaoWd4b-A&start=0&end=59&loop=0' target='_blank' class='link-dark'>Roblox</a>.</div>"
+                                 ,"<div class='bio-profile-jobdescription'>El trabajo de Manuel es supervisar la creación de juegos virtuales en un <a href='https://www.youtubetrimmer.com/view/?v=OHHaoWd4b-A&start=59&end=209&loop=0' target='_blank' class='link-dark'>metamundo</a>. Quiere ayudar a los niños a aprender más sobre el diseño de mundos virtuales en un lugar seguro.</div>"
+                                 ],
+        "references": ["<div class='bio-profile-jobdescription'>Bronstein, M. (2021 Feb 26). <em>Joining Roblox</em>. https://www.linkedin.com/pulse/joining-roblox-manuel-bronstein?trk=public_profile_article_view </div>"
+		              ,"<div class='bio-profile-jobdescription'>Manuel Bronstein. In <em>Everipedia</em>. Retrieved Julio 2, 2020, from https://everipedia.org/wiki/lang_en/manuel-bronstein </div>"
+		              ,"<div class='bio-profile-jobdescription'><em>Our people</em>. Roblox. Retrieved Julio 2, 2020 from https://corp.roblox.com/people/ </div>"
+		              ,"<div class='bio-profile-jobdescription'>Bronstein, M. (n.d.). <em>Manuel Bronstein</em> [Photograph]. Vidcon. https://www.vidcon.com/lineup/7012/manuel-bronstein </div>"
+                      ],
+
+        "profileimage": "Manuel_Bronstein.jpg",
+        "profileimage2": "Manuel_Bronsteinimg2.jpg",
+        "photocreditimage": ""
+    },
+{
+        "id":61,
+        "languagetype":"sp",
+        "fullname":"MARLON STYLES",
+        "quote":"SI TE LO PROPONES, PUEDES SER LO QUE QUIERAS CUANDO SEAS MAYOR.",
+        "jobtitle": "SUPERINTENDENTE DE DISTRITO",
+        "jobs": ["ADMINISTRADOR","EDUCADOR","LÍDER ESCOLAR"],
+
+        "life": "1978–presente",
+        "pronunciation": "mar-lon stai-els",
+        "location": "Middletown, Ohio",
+        "knownfor": "Líder de las escuelas de Middletown",
+
+        "mathhero": "Los superintendentes como Marlon usan las matemáticas todos los días para:",
+        "mathherobullet": [
+            "<div class='bio-profile-mathhero'>Crear <a href='https://drive.google.com/file/d/1GSOyWMvSMnigkGj03Bxk2TBmNpXK03WO/view?usp=sharing' target='_blank' class='link-dark'>gráficos</a>y tablas para guiar las decisiones que afectan a las escuelas, a los profesores y a los estudiantes.</div>",
+            "<div class='bio-profile-mathhero'>Recopilar <a href='https://drive.google.com/file/d/1dvXJMktqnrbJ-sPFs6GeDMM__p99PVQU/view?usp=sharing' target='_blank' class='link-dark'>datos</a> sobre profesores y estudiantes, incluyendo la <a href='https://drive.google.com/file/d/1kthFQqnXx4yH53bSqPdH76D7_GsqsB6K/view?usp=sharing' target='_blank' class='link-dark'>asistencia</a> y el desempeño en las pruebas académicas.</div>",
+            "<div class='bio-profile-mathhero'>Localizar la mejor oferta en suministros. Eso significa encontrar los productos de menor costo pero de la más alta calidad disponibles dentro del <a href='https://drive.google.com/file/d/1djI9SEq7FqOViK_iFWLcoX-iZfA_-PF-/view?usp=sharing' target='_blank' class='link-dark'>presupuesto</a>.</div>"
+            ],
+ 	    "mathherounderbullet": "",
+        "funfact": "",
+	    "jobdescription": "TOMADOR DE DECISIONES EDUCATIVAS",
+        "jobdescriptionbullets": ["<div class='bio-profile-jobdescription'><a href='https://www.youtubetrimmer.com/view/?v=HzNkfOjL-3I&start=0&end=15&loop=0' target='_blank' class='link-dark'>Marlon Styles</a> es el Superintendente del Distrito Escolar de la Ciudad de Middletown. Todo el personal y los administradores dentro del sistema escolar se reportan a él. Le gusta trabajar con los estudiantes y los alienta a verbalizar sus metas.</div>"
+                                 ,"<div class='bio-profile-jobdescription'>Marlon, como superintendente, supervisa la administración de todas las actividades dentro y fuera de la escuela del el sistema escolar.</div>"
+                                 ,"<div class='bio-profile-jobdescription'>Marlon ha trabajado como profesor de matemáticas de escuela intermedia y director de escuela secundaria. Disfrutaba de las matemáticas como estudiante. En la escuela primaria, Marlon y sus compañeros realizaban <a href='https://drive.google.com/file/d/1Elgyl8PMgX26YP1yhcngchOsnyotTREY/view?usp=sharing' target='_blank' class='link-dark'>encuestas</a>. Algunas de las preguntas de la encuesta eran “¿Cuál es tu sabor favorito de leche a la hora del almuerzo?” y “¿Cuáles son tus bocadillos favoritos en la máquina expendedora?” Hacían gráficas con los datos recopilados de las encuestas y las compartían con el personal para que sus artículos favoritos estuvieran siempre disponibles.</div>"
+                                ],
+        "references": ["<div class='bio-profile-jobdescription'>L. Tran, personal communication, Marzo 15, 2021 </div>"
+			          ,"<div class='bio-profile-jobdescription'>Paper. (2020 Nov 9). <em>Marlon Styles: #K12revolution</em> [Video]. YouTube. https://www.youtube.com/watch?v=HzNkfOjL-3I </div>"
+		              ,"<div class='bio-profile-jobdescription'>Styles, M. (2021). <em>Marlon Styles</em> [Photograph]. Personal Collection </div>"
+                      ],
+
+        "profileimage": "Marlon_Styles.jpg",
+        "profileimage2": "",
+        "photocreditimage": ""
+    },
+{
+        "id":62,
+        "languagetype":"sp",
+        "fullname":"NATHAN MCWAYNE",
+        "quote":"PRACTICA LAS FRACCIONES! LAS MATEMÁTICAS SON ÚTILES TODA LA VIDA, PARA EL TRABAJO Y PARA LA DIVERSIÓN!",
+        "jobtitle": "CARPINTERO",
+        "jobs": ["CARPINTERO","MAESTRO DE CIENCIAS"],
+
+        "life": "1971–presente",
+        "pronunciation": "nay-thun mac-weinn",
+        "location": "Malden, Massachusetts",
+        "knownfor": "Carpintería y amor por las ciencias y matemáticas",
+
+        "mathhero": "Nathan usa las matemáticas de muchas maneras:",
+        "mathherobullet": [
+            "<div class='bio-profile-mathhero'><a href='https://drive.google.com/file/d/1FJJHDzZl2lvvIXI6L12mE_8nuZnjofqZ/view?usp=sharing' target='_blank' class='link-dark'>Mide</a> las <a href='https://drive.google.com/file/d/1ho9NsPDHEKpLOT4jA-eLCGU8AZdEb5Cz/view?usp=sharing' target='_blank' class='link-dark'>dimensiónes</a> de los <a href='https://drive.google.com/file/d/1f0dovTTYd6P9bTPV9bTpcqpaBEC-WfEV/view?usp=sharing' target='_blank' class='link-dark'>espacios</a> donde va a trabajar y hace una <a href='https://drive.google.com/file/d/10frZvvKjStjAbr4XDrptvwwv784ga8MS/view?usp=sharing' target='_blank' class='link-dark'>estimación</a> de cuánta madera necesita. Después, <a href='https://drive.google.com/file/d/15aSJXgkiArVx4QddL2t-E-EHL57DQIcG/view?usp=sharing' target='_blank' class='link-dark'>calcula</a>  el costo. Por último, mide la madera varias veces para cortarla, porque necesita diferentes <a href='https://drive.google.com/file/d/1yJYT9LLPOs371RfdB5HfLQRLjAXJzMQT/view?u=sharing' target='_blank' class='link-dark'>tamaños</a>.</div>",
+            "<div class='bio-profile-mathhero'>Corta <a href='https://drive.google.com/file/d/1HfE3AzkGSRaPpzX2L5YVEDI1JHe0QCu6/view?usp=sharing' target='_blank' class='link-dark'>ángulos</a> o <a href='https://drive.google.com/file/d/1PBLt1hYg4z3-Qg4ESr-PXtGHUboXa2DZ/view?usp=sharing' target='_blank' class='link-dark'>curvas</a> para que los pedazos de madera quepan en esquinas o alrededor de otros objetos.</div>",
+            "<div class='bio-profile-mathhero'>Usa las <a href='https://drive.google.com/file/d/1M4IKJvhDCqLmzNQu6Dg2I3opSSUU5Szt/view?usp=sharing' target='_blank' class='link-dark'>sumas</a>, <a href='https://drive.google.com/drive/folders/1O0RAcM5DuTpkoehUy3ZsRHSye3oqfLuG' target='_blank' class='link-dark'>restas</a>, <a href='https://drive.google.com/file/d/1EMS5BvxmZnffges2ERMnh8WDLP-t-3lM/view?usp=sharing' target='_blank' class='link-dark'>multiplicación</a>, y <a href='https://drive.google.com/file/d/1Lh5e_DHQ5hPdDn2cH8x7cC-JvNFkl3C6/view?usp=sharing' target='_blank' class='link-dark'>división</a>, así como las <a href='https://drive.google.com/file/d/1WMKVCk0owrYDFJkBFEPlunA_R9Je2ixt/view?usp=sharing' target='_blank' class='link-dark'>fracciónes</a>, pues el mide usando pulgadas.</div>"
+            ],
+	    "mathherounderbullet": "",
+        "funfact": "",
+	    "jobdescription": "CONSTRUYENDO UN MEJOR SITIO",
+        "jobdescriptionbullets": ["<div class='bio-profile-jobdescription'>Nathan McWayne es un <a href='https://www.youtubetrimmer.com/view/?v=X6u7ytT8V1w&start=8&end=71&loop=0' target='_blank' class='link-dark'>carpintero</a>. Los carpinteros construyen cosas de madera y después las instalan en las casas de sus clientes.</div>"
+                                 ,"<div class='bio-profile-jobdescription'>Nathan creció en California donde le gustaba <a href='https://drive.google.com/file/d/1d3avY7mhicXTx4N6ddzPL2liPzvyTkm-/view' target='_blank' class='link-dark'>construir cosas con bloques de madera</a>. El estaba muy interesado en construir cosas de madera, así que a los 16 años empezó a trabajar en un taller de carpintería.</div>"
+                                 ,"<div class='bio-profile-jobdescription'>Nathan trabajó por más de 20 años como carpintero, y ahora es maestro de ciencias en una escuela secundaria en Massachusetts.</div>"
+					   ,"<div class='bio-profile-jobdescription'>Nathan usa las matemáticas para explicar conceptos como <a href='https://drive.google.com/file/d/1zWly0VVSh8hMSqhDXlPu3G37RWLkVr8j/view?usp=sharing' target='_blank' class='link-dark'>peso</a>, y <a href='https://drive.google.com/file/d/11D9f3dNlxRHC3q9K7hY1SOLxz8g9jGPs/view?usp=sharing' target='_blank' class='link-dark'>volumen</a>.</div>"
+                                 ],
+        "references": ["<div class='bio-profile-jobdescription'>G. Melzi, personal communication, Junio, 2022 </div>"
+		              ,"<div class='bio-profile-jobdescription'>TheNKBA. (2020 Jun 12). <em>How to become a Finish Carpenter</em> [Video]. YouTube. https://www.youtube.com/watch?v=VlegHlWhk_g </div>"
+		              ,"<div class='bio-profile-jobdescription'>McWayne, N. (2022). <em>Nathan McWayne and family</em> [Photograph]. Personal Collection </div>"
+                      ],
+
+        "profileimage": "Nathan_McWayne.jpg",
+        "profileimage2": "",
+        "photocreditimage": ""
+    },
+{
+        "id":63,
+        "languagetype":"sp",
+        "fullname":"ROBERT BULLARD",
+        "quote":"EL MEDIO AMBIENTE TOCA TODO EN DONDE VIVIMOS, TRABAJAMOS Y JUGAMOS.",
+        "jobtitle": "ACTIVISTA AMBIENTAL Y EDUCADOR",
+        "jobs": ["ECOLOGISTA","SOCIÓLOGO","CIENTÍFICO","AUTOR"],
+
+        "life": "1946–presente",
+        "pronunciation": "ro-bert bul-lard",
+        "location": "Houston, Texas",
+        "knownfor": "Padre de la Justicia Ambiental",
+
+        "mathhero": "Los activistas que estudian el medio ambiente y los niveles de contaminación como Robert usan las matemáticas para:",
+        "mathherobullet": [
+            "<div class='bio-profile-mathhero'><a href='https://drive.google.com/file/d/1FJJHDzZl2lvvIXI6L12mE_8nuZnjofqZ/view?usp=sharing' target='_blank' class='link-dark'>Medir</a> los productos químicos tóxicos en el aire y el agua. <a href='https://www.youtubetrimmer.com/view/?v=iU_PYXBveYg&start=0&end=69&loop=0' target='_blank' class='link-dark'>Toman muestras</a> de diferentes lugares y comparan las cantidades de químicos tóxicos.</div>",
+            "<div class='bio-profile-mathhero'><a href='https://drive.google.com/file/d/1cvPnbGODtZV8UwEmu_KrPbfquQ10MNIG/view?usp=sharing' target='_blank' class='link-dark'>Comparar</a> números que involucran un tipo especial de matemáticas llamada <a href='https://drive.google.com/file/d/1gw1PmahQYce_szEctsNllBIgSIyD5h50/view?usp=sharing' target='_blank' class='link-dark'>estadística</a>. Nos ayuda a entender las diferencias entre los grupos.</div>",
+            "<div class='bio-profile-mathhero'>Formar <a href='https://drive.google.com/file/d/1ikyauqguagF0N5FIaWO4Afojz1uPSc_v/view?usp=sharing' target='_blank' class='link-dark'>relaciónes</a> de cuánta contaminación hay en el aire o el agua para decidir si es seguro que las personas estén cerca.</div>"
+            ],
+	    "mathherounderbullet": "",
+        "funfact": "",
+	    "jobdescription": "FINDING SOLUTIONS FOR POLLUTION",
+        "jobdescriptionbullets": ["<div class='bio-profile-jobdescription'><a href='https://www.youtubetrimmer.com/view/?v=T_VjSGk8s18&start=0&end=83&loop=0' target='_blank' class='link-dark'>Robert Bullard</a> es un profesor en la universidad “Southern University” de Texas. Él <a href='https://drive.google.com/file/d/1gdfJgeLPGDMLAeDv5lt2Djnx9GU_tUE9/view?usp=sharing' target='_blank' class='link-dark'>enseña</a> sobre la justicia ambiental. La justicia ambiental significa asegurarse de que todos puedan vivir en un lugar con aire limpio y agua limpia.</div>"
+                                 ,"<div class='bio-profile-jobdescription'>Robert enseña que no importa quién sea una persona o cuánto dinero tenga, debe tener acceso a aire limpio y agua limpia.</div>"
+                                 ,"<div class='bio-profile-jobdescription'>Robert ha publicado 18 libros que le enseñan a las personas acerca de las comunidades que tienen más probabilidades de vivir en áreas <a href='https://www.youtubetrimmer.com/view/?v=8lRLfythBDQ&start=25&end=316&loop=0' target='_blank' class='link-dark'>contaminadas</a>.</div>"
+					             ,"<div class='bio-profile-jobdescription'>Robert quiere reducir la contaminación para proteger a las personas y mantener a los vecindarios saludables.</div>"
+                                ],
+        "references": ["<div class='bio-profile-jobdescription'>Bullard, R. (2018). <em>Dr. Robert Bullard: Father of Environmental Justice</em>. Dr. Robert Bullard. https://drrobertbullard.com/e </div>"
+		              ,"<div class='bio-profile-jobdescription'>Turner, R. (2021). <em>TSU professor considered the “Father of environmental justice.” </em> KPRC Click2Houston. https://www.click2houston.com/news/local/2021/02/26/tsu-professor-considered-the-father-of-environmental-justice/ </div>"
+		              ,"<div class='bio-profile-jobdescription'>UN Environment Program. (2020 Dec 10). <em>Robert Bullard 2020 Champion of the Earth - Lifetime Achievement</em> [Video]. YouTube. https://www.youtube.com/watch?v=T_VjSGk8s18 </div>"
+                      ,"<div class='bio-profile-jobdescription'>Instituto IMDEA Agua. (2021). <em>Toma de muestras</em>. [Video]. YouTube. https://www.youtube.com/watch?v=iU_PYXBveYg&t=178s </div>"
+		              ,"<div class='bio-profile-jobdescription'>Bullard, R. (n.d.). <em>Dr. Robert Bullard in his office at TSU</em> [Photograph]. Civil Eats. https://civileats.com/2021/07/07/dr-robert-bullard-we-dont-have-40-years-to-fight-for-climate-justice/ </div>"
+                      ],
+
+        "profileimage": "Robert_Bullard.jpg",
+        "profileimage2": "",
+        "photocreditimage": ""
+    },
+{
+        "id":64,
+        "languagetype":"sp",
+        "fullname":"TAYLOR K. SHAW",
+        "quote":"SIEMPRE ME ESTABA BUSCANDO A MÍ MISMA EN CUALQUIER DIBUJO ANIMADO QUE ESTABA VIENDO.",
+        "jobtitle": "ANIMADORA",
+        "jobs": ["ESCRITORA","CREADORA DE CONTENIDO","DUEÑA DE NEGOCIO"],
+
+        "life": "1995–presente",
+        "pronunciation": "tei-lor sha-u",
+        "location": "Chicago, Illinois",
+        "knownfor": "Fundadora y directora ejecutiva de Black Women Animate",
+
+        "mathhero": "Los animadores y dueños de negocios como Taylor usan las matemáticas para:",
+        "mathherobullet": [
+            "<div class='bio-profile-mathhero'>Colocar personajes en configuraciones dentro de <a href='https://drive.google.com/file/d/13fVod0TcMy7ndFxB8m3N5-LSyFFdbeFk/view' target='_blank' class='link-dark'> cuadros de celdas de animación</a> usando <a href='https://drive.google.com/file/d/1ho9NsPDHEKpLOT4jA-eLCGU8AZdEb5Cz/view?usp=sharing' target='_blank' class='link-dark'>dimensiónes</a> y <a href='https://drive.google.com/file/d/1FJJHDzZl2lvvIXI6L12mE_8nuZnjofqZ/view?usp=sharing' target='_blank' class='link-dark'>medidas</a>.</div>",
+            "<div class='bio-profile-mathhero'>Contratar personal para dibujar cada cuadro de un programa animado. Hay 30 <a href='https://drive.google.com/file/d/1Crj9lhgol-F1BMmunD5c8VmGGc-n20za/view?usp=sharing' target='_blank' class='link-dark'>mil</a> cuadros separados en una caricatura típica de 30 <a href='https://drive.google.com/file/d/1JJE-jADvtdebEKY_YaMhu8Hplts85Fje/view?usp=sharing' target='_blank' class='link-dark'>minutos</a>.</div>",
+            "<div class='bio-profile-mathhero'>Organizar cómo se colocan las imágenes de dibujos animados. Los episodios suelen contener tres segmentos de 6 minutos; 4 minutos de comedia y 8 minutos de anuncios.</div>"
+            ],
+	    "mathherounderbullet": "",
+        "funfact": "",
+	    "jobdescription": "ANIMACIÓN INCLUSIVA",
+        "jobdescriptionbullets": ["<div class='bio-profile-jobdescription'><a href='https://www.youtubetrimmer.com/view/?v=Q5_FZgrXrRM&start=316&end=399&loop=0' target='_blank' class='link-dark'>Taylor K. Shaw</a> es una animadora y propietaria de un negocio. Un animador <a href='https://www.youtubetrimmer.com/view/?v=_jCQHhKeQuo&start=60&end=85&loop=0' target='_blank' class='link-dark'> crea los personajes</a> y escenarios de los dibujos animados que vemos en la televisión y en las películas.</div>"
+                                 ,"<div class='bio-profile-jobdescription'>La empresa de Taylor, <a href='https://www.youtubetrimmer.com/view/?v=Q5_FZgrXrRM&start=673&end=774&loop=0' target='_blank' class='link-dark'>Black Women Animate</a>, ofrece un lugar seguro con sistemas de apoyo integrados donde los jóvenes creativos pueden trabajar y prosperar. La empresa se preocupa por el crecimiento y desarrollo de su personal, así como por su lugar a largo plazo dentro de la industria de la animación.</div>"
+                                 ,"<div class='bio-profile-jobdescription'>Black Women Animate lleva a cabo un <a href='https://drive.google.com/file/d/1aaCQ5VeG1E1MQoxI81WeDqcpGdKCYnOV/view' target='_blank' class='link-dark'>“campamento de entrenamiento”</a> en cooperación con Cartoon Network. Los participantes aprenden sobre los diferentes trabajos dentro de los dibujos animados y reciben tutoría del personal de Cartoon Network. A los campistas se les enseña cómo: hacer un <a href='https://drive.google.com/file/d/11kyqAW-G6UQuKufbornqud9nsxSaleLm/view' target='_blank' class='link-dark'>guión gráfico</a> de una idea de dibujos animados, contar una historia dentro de un cierto período de tiempo y vender (“lanzar”) su idea a una red.</div>"
+                                 ],
+        "references": ["<div class='bio-profile-jobdescription'>Fluker, D. (2018 Oct 29). <em>How Black Women Animate and Cartoon Network Are Supporting Black Women Animators</em>. Forbes. https://www.forbes.com/sites/dominiquefluker/2018/10/29/blackwomenanimate/?sh=5262983f420a </div>"
+			          ,"<div class='bio-profile-jobdescription'>Maciel King. (2013 Jan 15). <em>La Magia de la Animación (Detras de camaras)</em> [Video]. YouTube. https://www.youtube.com/watch?v=_jCQHhKeQuo </div>"
+		              ,"<div class='bio-profile-jobdescription'>Forbes. (2021). <em>Taylor K. Shaw</em> [Photograph]. Forbes. https://www.forbes.com/profile/taylor-k-shaw/?sh=351563fa428e </div>"
+                      ],
+
+        "profileimage": "Taylor_Shaw.jpg",
+        "profileimage2": "",
+        "photocreditimage": ""
+    },
+{
+        "id":65,
+        "languagetype":"sp",
+        "fullname":"TIERRA MARTIN",
+        "quote":"MIENTRAS SIGAS TU PASIÓNY TUS SUEÑOS Y TE ESFUERCES, PUEDES CONVERTIRTE ENLO QUE QUIERAS.",
+        "jobtitle": "MAESTRA DE MATEMATICAS",
+        "jobs": ["MESTRA","AUTHORA","MADRE"],
+
+        "life": "",
+        "pronunciation": "ti-e-ra mar-tin",
+        "location": "Houston, Texas",
+        "knownfor": "Maestra de matemáticas y ciencias de tercer grado y fundadora de My Math Stories",
+
+        "mathhero": "“Para ser un buen maestro de matemáticas, debe comprender los conceptos que se enseñan y las formas en que los niños los aprenden.” Tierra disfruta de:",
+        "mathherobullet": [
+            "<div class='bio-profile-mathhero'>Enseñar temas como <a href='https://drive.google.com/file/d/1EMS5BvxmZnffges2ERMnh8WDLP-t-3lM/view?usp=sharing' target='_blank' class='link-dark'>multiplicación</a>, <a href='https://drive.google.com/file/d/1Lh5e_DHQ5hPdDn2cH8x7cC-JvNFkl3C6/view?usp=sharing' target='_blank' class='link-dark'>división</a>, y <a href='https://drive.google.com/file/d/1WMKVCk0owrYDFJkBFEPlunA_R9Je2ixt/view?usp=sharing' target='_blank' class='link-dark'>fracciónes</a> (<a href='https://drive.google.com/file/d/1qQYkgX6wygT6aYhXXpVPhbA6sVhz1XNR/view?usp=sharing' target='_blank' class='link-dark'>unitaria</a>, <a href='https://drive.google.com/file/d/1YUlhqEd1u6RScG7hpIZGVPSqG7avYA-z/view?usp=sharing' target='_blank' class='link-dark'>equivalentes</a>, <a href='https://drive.google.com/file/d/1Yni2ymYdGs7G-ukSAlF2EdRpN0spXyyb/view?usp=sharing' target='_blank' class='link-dark'>propia</a>, <a href='https://drive.google.com/file/d/1BpaMooWNkKUkFlTs7LGloTItjLZZq5jG/view?usp=sharing' target='_blank' class='link-dark'>impropia</a>) usando situaciones de la vida real.</div>",
+            "<div class='bio-profile-mathhero'>Usar la cocina para enseñar fracciones. Los estudiantes <a href='https://drive.google.com/file/d/1FJJHDzZl2lvvIXI6L12mE_8nuZnjofqZ/view?usp=sharing' target='_blank' class='link-dark'>medin</a> diferentes ingredientes para batidos y descubren cómo combinarlos para formar un <a href='https://drive.google.com/file/d/1bUItkbYpORG8hXK75tKLXUi3gRfU4acx/view?usp=sharing' target='_blank' class='link-dark'>entero</a>.</div>",
+            "<div class='bio-profile-mathhero'>Crear videos de matemáticas para su salón de clases.</div>"
+            ],
+	    "mathherounderbullet": "",
+        "funfact": "",
+ 	    "jobdescription": "ENCONTRAR A TU MATEMÁTICO INTERIOR",
+        "jobdescriptionbullets": ["<div class='bio-profile-jobdescription'>Tierra Martin es maestra de matemáticas y ciencias. Ella cree que un maestro ayuda a los estudiantes a aprender y convertirse en la mejor versión de sí mismos.</div>"
+                                 ,"<div class='bio-profile-jobdescription'>Tierra, autora de <a href='https:// drive.google.com/file/d/1b3cmZK39obXXHZ2vmE0Z6nE4xEc7RXuW/view' target='_blank' class='link-dark'> libros para niños</a>, también escribe historias que se enfocan en resolver problemas matemáticos cotidianos.</div>"
+                                 ,"<div class='bio-profile-jobdescription'>Tierra se asegura de que todos sus alumnos sepan que ella está ahí para ellos. Quiere asegurarse de ninguno de sus alumnos le tenga miedo a las matemáticas.</div>"
+					             ,"<div class='bio-profile-jobdescription'>Tierra siempre se alegra cuando un estudiante aprende algo nuevo. Se siente más realizada cuando ve a sus alumnos triunfar.</div>"
+					             ,"<div class='bio-profile-jobdescription'>Tierra le enseña a sus alumnos a comprobar su PULSO (un enfoque de resolución de problemas) antes de resolver un problema.</div>"
+                                 ],
+        "references": ["<div class='bio-profile-jobdescription'>A. Mayes, personal communication, Julio 14, 2021. </div>"
+			          ,"<div class='bio-profile-jobdescription'>Martin, T. (2017). <em>Super Geo: And his math adventure</em>. Opportune Independent Publishing Company. https://www.amazon.com/Super-Geo-His-Math-Adventure/dp/1945532580/ref=sr_1_52 </div>"
+		              ,"<div class='bio-profile-jobdescription'>Martin, T. (2021). <em>Tierra Martin</em> [Photograph]. Personal Collection</div>"
+                      ],
+
+        "profileimage": "Tierra_Martin.jpg",
+        "profileimage2": "",
+        "photocreditimage": ""
+    },
+{
+        "id":66,
+        "languagetype":"sp",
+        "fullname":"ZANDRA DE ARAUJO",
+        "quote":"DEBES APRENDER MATEMÁTICAS PORQUENOS LLENAN DE ALEGRÍA Y AYUDAN A ESTABLECER CONEXIONES CON OTROS.",
+        "jobtitle": "PROFESORA",
+        "jobs": ["PROFESORA","MATEMÁTICAS","EDUCACIÓN BILINGÜE"],
+
+        "life": "1980-presente",
+        "pronunciation": "San-dra de A-ra-u-jo",
+        "location": "Florida",
+        "knownfor": "Enseñanza de matemáticas para maestros, educación bilingüe",
+
+        "mathhero": "Zandra investiga la manera más eficiente de enseñar matemáticas, especialmente a estudiantes que están aprendiendo el inglés como segundo idioma. Algunos de los pasos que ella sigue para evaluar las estrategias matemáticas incluyen:",
+        "mathherobullet": [
+            "<div class='bio-profile-mathhero'>Recolectar <a href='https://drive.google.com/file/d/1dvXJMktqnrbJ-sPFs6GeDMM__p99PVQU/view?usp=sharing' target='_blank' class='link-dark'>datos</a> del desempeño de los estudiantes.</div>",
+            "<div class='bio-profile-mathhero'><a href='https://drive.google.com/file/d/1FJJHDzZl2lvvIXI6L12mE_8nuZnjofqZ/view?usp=sharing' target='_blank' class='link-dark'>Medir</a> el desempeño de los estudiantes antes y después de que el maestro o maestra use la estrategia matemática.</div>",
+            "<div class='bio-profile-mathhero'>Comparar el puntaje de los estudiante para ver si <a href='https://drive.google.com/file/d/1UBZdXJ0x0oRjSzsbbNMepY9JU8oW92Zv/view?usp=sharing' target='_blank' class='link-dark'>incrementaron</a>, <a href='https://drive.google.com/file/d/1kY9q-TRNEQ7Nqsxet1gTybB4IIkW94gU/view?usp=sharing' target='_blank' class='link-dark'>disminuyeron</a>, o no hubo cambio en su desempeño matemático.</div>"
+            ],
+	    "mathherounderbullet": "",
+        "funfact": "",
+        "jobdescription": "MAESTRA DE MATEMÁTICAS BILINGÜE",
+        "jobdescriptionbullets": ["<div class='bio-profile-jobdescription'><a href='https://www.youtubetrimmer.com/view/?v=6ozOXyK2COY&start=9&end=17&loop=0' target='_blank' class='link-dark'>Zandra de Araujo</a> es una profesora de educación de matemáticas. Los profesores, como ella, trabajan en universidades.</div>"
+                                 ,"<div class='bio-profile-jobdescription'>Zandra le enseña a otros como ser maestros. Les enseña cómo los estudiantes de tu edad aprenden matemáticas. Su especialidad es ayudar a maestros cómo enseñarles a estudiantes que están aprendiendo a hablar inglés.</div>"
+                                 ,"<div class='bio-profile-jobdescription'>¡Zandra le enseña a maestros y maestras cómo ayudar a todos los estudiantes a hacer su mejor esfuerzo!</div>"
+                                 ,"<div class='bio-profile-jobdescription'>El idioma natal de Zandra es el portugués. Ella enseña cómo crear un ambiente positivo para estudiantes bilingües.</div>"
+					             ,"<div class='bio-profile-jobdescription'>Zandra tiene un blog titulado en inglés <em>Mathematically Educated</em> (en español significa <em>Educada Matemáticamente</em>).</div>"
+                                 ],
+        "references": ["<div class='bio-profile-jobdescription'>De Araujo, Z. (2021 Nov 8). <em>Mathematically Educated</em>. https://mathematicallyeducated.com/category/general-interest/' </div>"
+			          ,"<div class='bio-profile-jobdescription'>Mizzoueducation. (2019 Jan 22). <em>Zandra de Araujo, English Learners in K-12 Math Education Research Review </em> [Video]. YouTube. https://www.youtube.com/watch?v=6ozOXyK2COY </div>"
 		              ,"<div class='bio-profile-jobdescription'>de Araujo, Z. (n.d.). <em>Zandra de Araujo</em> [Photograph]. NCTM. https://www.nctm.org/About/President,-Board-and-Committees/Nominations-and-Elections/2021-Candidates/Zandra-de-Araujo/ </div>"
                       ],
 
