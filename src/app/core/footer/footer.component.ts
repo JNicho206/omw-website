@@ -11,5 +11,7 @@ export class FooterComponent implements OnInit {
 
   ngOnInit(): void {
   }
-
+  sendemail(email:string, fullname:string){
+    window.open("https://mail.google.com/mail/?view=cm&fs=1&to="+email+"&su=OMW Member "+fullname+ "&body=Dear "+fullname);
+  }
 }
