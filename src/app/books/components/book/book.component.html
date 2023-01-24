@@ -35,10 +35,12 @@
                     <div style="width: 100%; height: 100%; position: absolute; top: 0; left: 0"></div>
                   </div>
                   <div class="carousel-caption">
-                    <!-- <h3>Listen</h3> -->
-                    <button *ngIf="!IsSpeaking" (click)="playaudio(i)">Play Audio</button>
-                    <button *ngIf="IsSpeaking && !IsPaused" (click)="pauseaudio()">pause Audio</button>
-                    <button *ngIf="IsPaused" (click)="resumeaudio()">resume Audio</button>
+                    <span class="carousel-texttoaudio">{{gettextdata(i)}}</span>
+                    
+                    <button *ngIf="!IsNextSpeaking(i)" (click)="playaudio(i)">Play Audio</button>
+                    <button *ngIf="IsNextSpeaking(i)" (click)="playaudio(i)">Play Next Audio</button>
+                    <!-- <button *ngIf="IsSpeaking && !IsPaused" (click)="pauseaudio()">pause Audio</button> -->
+                    <!-- <button *ngIf="IsPaused" (click)="resumeaudio()">resume Audio</button> -->
                     <button *ngIf="IsSpeaking" (click)="stopaudio()">Stop Audio</button>
                   </div>
                 </ng-template>

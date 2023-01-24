@@ -29,6 +29,8 @@ export class BookComponent implements OnInit {
 	destroy$ = new Subject();
   ispaused: boolean = false;
 
+  speachindex : number[]=[];
+
   constructor(private route: ActivatedRoute,
     private bookservice: BookService,
     private sense: SenseService,
@@ -50,8 +52,11 @@ export class BookComponent implements OnInit {
         return this.bookid == data.id;
       })[0];
       this.currentbookimage = this.book.pagesimages[0];
-      
-    this.ngCarousel.select("1");
+      this.speachindex = new Array<number>(this.book.pagestexts.length);// new number[this.book.pagestexts.length];
+      for (let i = 0; i < this.book.pagestexts.length; i++) {
+        this.speachindex[i] = 0;
+      }
+      this.ngCarousel.select("1");
     });
   }
   
@@ -92,15 +97,21 @@ export class BookComponent implements OnInit {
 		console.log(voice.name);
 		this.sense.onVoiceSelected(voice);
 	}
-
+  gettextdata(index: number){
+    let texttoread = this.book.pagestexts[index];
+    const textlist = texttoread.match(/.{1,250}/g) || [];
+    return textlist[this.speachindex[index]];
+  }
 	onChange(index: number) {
 		this.selectedIndex = index;
 	}
   playaudio(index: number){
+    this.stopaudio();
     let texttoread = this.book.pagestexts[index];
-    
-		this.sense.speak(texttoread);
-    this.ispaused = false;
+    const textlist = texttoread.match(/.{1,250}/g) || [];
+    let texttospeak = textlist[this.speachindex[index]];
+		this.sense.speak(texttospeak);
+    this.speachindex[index]++;
   }
   stopaudio(){
     this.sense.cancel();
@@ -127,6 +138,9 @@ export class BookComponent implements OnInit {
 
   }
 
+  IsNextSpeaking(index:number):boolean{
+    return this.speachindex[index] > 0;
+  }
   get IsSpeaking():boolean{
     return this.sense.isSpeaking;
   }
