@@ -9,5 +9,5 @@ export interface Book {
     coverimg: string;
     bookimagesfoldername: string;
     pagesimages: [string];
-    pagestexts: [string];
+    pagestexts: Array<string[]>;
 }
