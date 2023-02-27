@@ -99,7 +99,7 @@ export class BookComponent implements OnInit {
 	}
   gettextdata(index: number){
     let texttoread = this.book.pagestexts[index];
-    const textlist = texttoread[0].match(/.{1,250}/g) || [];
+    const textlist = texttoread;//[0].match(/.{1,250}/g) || [];
     return textlist[this.speachindex[index]];
   }
 	onChange(index: number) {
@@ -108,7 +108,7 @@ export class BookComponent implements OnInit {
   playaudio(index: number){
     this.stopaudio();
     let texttoread = this.book.pagestexts[index];
-    const textlist = texttoread[0].match(/.{1,250}/g) || [];
+    const textlist = texttoread;//[0].match(/.{1,250}/g) || [];
     let texttospeak = textlist[this.speachindex[index]];
 		this.sense.speak(texttospeak);
     this.speachindex[index]++;
