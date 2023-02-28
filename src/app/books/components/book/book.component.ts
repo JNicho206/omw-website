@@ -105,13 +105,20 @@ export class BookComponent implements OnInit {
 	onChange(index: number) {
 		this.selectedIndex = index;
 	}
-  playaudio(index: number){
+  playnextaudio(index: number){
+    this.speachindex[index]++;
+		this.playcurrentaudio(index);
+  }
+  playcurrentaudio(index: number){
     this.stopaudio();
     let texttoread = this.book.pagestexts[index];
     const textlist = texttoread;//[0].match(/.{1,250}/g) || [];
     let texttospeak = textlist[this.speachindex[index]];
 		this.sense.speak(texttospeak);
-    this.speachindex[index]++;
+  }
+  restartaudio(index: number){
+    this.stopaudio();
+    this.speachindex[index]=0;
   }
   stopaudio(){
     this.sense.cancel();
@@ -139,7 +146,9 @@ export class BookComponent implements OnInit {
   }
 
   IsNextSpeaking(index:number):boolean{
-    return this.speachindex[index] > 0;
+    var speachindex = this.speachindex[index];
+    var lengthofarray = this.book.pagestexts[index].length;
+    return speachindex === lengthofarray-1;
   }
   get IsSpeaking():boolean{
     return this.sense.isSpeaking;
