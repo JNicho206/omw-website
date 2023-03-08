@@ -105,11 +105,15 @@ export class BookComponent implements OnInit {
 	onChange(index: number) {
 		this.selectedIndex = index;
 	}
-  playnextaudio(index: number){
-    this.speachindex[index]++;
-		this.playcurrentaudio(index);
-  }
+  // playnextaudio(index: number){
+	// 	this.playaudio(index);
+  //   this.speachindex[index]++;
+  // }
   playcurrentaudio(index: number){
+		this.playaudio(index);
+    this.speachindex[index]++;
+  }
+  playaudio(index: number){
     this.stopaudio();
     let texttoread = this.book.pagestexts[index];
     const textlist = texttoread;//[0].match(/.{1,250}/g) || [];
@@ -144,11 +148,14 @@ export class BookComponent implements OnInit {
       this.ngCarousel.next();
 
   }
-
+  isFirstSentence(index:number):boolean{
+    var speachindex = this.speachindex[index];
+    return speachindex == 0;
+  }
   IsNextSpeaking(index:number):boolean{
     var speachindex = this.speachindex[index];
     var lengthofarray = this.book.pagestexts[index].length;
-    return speachindex === lengthofarray-1;
+    return speachindex === lengthofarray;
   }
   get IsSpeaking():boolean{
     return this.sense.isSpeaking;
