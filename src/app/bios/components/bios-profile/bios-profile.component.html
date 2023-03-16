@@ -35,9 +35,12 @@
         <div style="width: 100%; height: 100%; position: absolute; top: 0; left: 0"></div>
       </div>
       <div class="col yellowbg text-20 shrinkrightmargin">
-        <p>
+        <p *ngIf="!isSpanish">
           <span class="boldtext" *ngIf="!isSpanish">Pronunciation: </span>
-          <span class="boldtext" *ngIf="isSpanish">Pronunciación: </span> {{'{'}}{{biosprofile.pronunciation}}{{'}'}}</p>
+          {{'{'}}{{biosprofile.pronunciation}}{{'}'}}</p>
+        <!-- <p *ngIf="isSpanish">
+          <span class="boldtext" *ngIf="isSpanish">Pronunciación: </span> 
+          {{'{'}}{{biosprofile.pronunciation}}{{'}'}}</p> -->
         <p  *ngIf="biosprofile.life">
           <span class="boldtext" *ngIf="!isSpanish">Life: </span>
           <span class="boldtext" *ngIf="isSpanish">Vida: </span> {{biosprofile.life}}</p>

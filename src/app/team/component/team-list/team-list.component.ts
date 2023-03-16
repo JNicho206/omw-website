@@ -29,7 +29,7 @@ export class TeamListComponent implements OnInit {
   }
   
   getwebpagebyindex( websiteURL:string){
-    websiteURL = "https://"+websiteURL;
+    websiteURL = websiteURL;
     // var link:string ="";
     // link = this.biosprofile.mathherobulletlinks[index];
     window.open(websiteURL, "_blank");

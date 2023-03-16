@@ -7,7 +7,7 @@
         "type":  "R&D",
         "img": "Rob_Duncan.jpg",
         "twitter":"rjduncan5",
-        "website":"www.purdue.edu/hhs/hdfs/directory/faculty/duncan_robert.html",
+        "website":"http://www.purdue.edu/hhs/hdfs/directory/faculty/duncan_robert.html",
         "email":"duncan99@purdue.edu",
         "location": "Purdue University"
     },
@@ -43,7 +43,7 @@
         "type":  "R&D",
         "img": "Caroline_Hornburg.jpg",
         "twitter":"cbhornburg",
-        "website":"https://www.vtlearnlab.com",
+        "website":"http://www.vtlearnlab.com",
         "email":"chornburg@vt.edu",
         "location": "Virginia Tech"
     },
@@ -55,7 +55,7 @@
         "type":  "R&D",
         "img": "Amanda_Mayes.jpg",
         "twitter":"mayes_mandy",
-        "website":"secondactresearch.com",
+        "website":"http://secondactresearch.com",
         "email":"asmayes@purdue.edu",
         "location": "Purdue University"
     },
@@ -79,7 +79,7 @@
         "type":  "R&D",
         "img": "Gigliana_Melzi.jpg",
         "twitter":"GiglianaMelzi",
-        "website":"https://www.cfdmelzi.org",
+        "website":"http://www.cfdmelzi.org",
         "email":"gigliana.melzi@nyu.edu",
         "location": "New York University"
     },
@@ -91,7 +91,7 @@
         "type":  "R&D",
         "img": "Dana_Coto_Miller.jpg",
         "twitter":"danacotto",
-        "website":"danamillercotto.com",
+        "website":"http://danamillercotto.com",
         "email":"dmillerc@kent.edu",
         "location": "Kent State University"
     },
@@ -103,7 +103,7 @@
         "type":  "R&D",
         "img": "Sarah_Powell.jpg",
         "twitter":"sarahpowellphd",
-        "website":"www.sarahpowellphd.com",
+        "website":"http://www.sarahpowellphd.com",
         "email":"srpowell@utexas.edu",
         "location": "The University of Texas at Austin"
     },
@@ -115,7 +115,7 @@
         "type":  "R&D",
         "img": "Nydia_Prishker.jpg",
         "twitter":"nprishker",
-        "website":"www.stac.edu/nydia",
+        "website":"http://www.stac.edu/nydia",
         "email":"nprishke@stac.edu",
         "location": "St. Thomas Aquinas College"
     },
@@ -127,7 +127,7 @@
         "type":  "R&D",
         "img": "David_Purpura.jpg",
         "twitter":"DavidJPurpura",
-        "website":"www.davidpurpura.com",
+        "website":"http://www.davidpurpura.com",
         "email":"Purpura@purdue.edu",
         "location": "Purdue University"
     },
@@ -139,7 +139,7 @@
         "type":  "R&D",
         "img": "Andy_Ribner.jpg",
         "twitter":"andyribner",
-        "website":"www.andyribner.com",
+        "website":"http://www.andyribner.com",
         "email":"andy.ribner@pitt.edu",
         "location": "University of Pittsburgh"
     },
@@ -175,7 +175,7 @@
         "type":  "R&D",
         "img": "Eric_Wilkey.jpg",
         "twitter":"ericdwilkey",
-        "website":"www.ericdwilkey.com",
+        "website":"http://www.ericdwilkey.com",
         "email":"eric.d.wilkey@vanderbilt.edu",
         "location": "Vanderbilt University"
     },
