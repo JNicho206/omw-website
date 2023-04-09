@@ -109,7 +109,26 @@ export class BookComponent implements OnInit {
 	// 	this.playaudio(index);
   //   this.speachindex[index]++;
   // }
+  
+  playPreviousaudio(index: number){
+    this.speachindex[index]--;
+		this.playaudio(index);
+  }
   playcurrentaudio(index: number){
+		this.playaudio(index);
+  }
+  replaycurrentaudio(index: number){
+    this.stopaudio();
+    let texttoread = this.book.pagestexts[index];
+    const textlist = texttoread;//[0].match(/.{1,250}/g) || [];
+    let texttospeak = textlist[this.speachindex[index]-1];
+		this.sense.speak(texttospeak);
+  }
+  playNextaudio(index: number){
+		this.playaudio(index);
+    this.speachindex[index]++;
+  }
+  playFirstaudio(index: number){
 		this.playaudio(index);
     this.speachindex[index]++;
   }
@@ -151,6 +170,11 @@ export class BookComponent implements OnInit {
   isFirstSentence(index:number):boolean{
     var speachindex = this.speachindex[index];
     return speachindex == 0;
+  }
+  isLastSentence(index:number):boolean{
+    var speachindex = this.speachindex[index];
+    let texttoread = this.book.pagestexts[index];
+    return speachindex == texttoread.length;
   }
   IsNextSpeaking(index:number):boolean{
     var speachindex = this.speachindex[index];

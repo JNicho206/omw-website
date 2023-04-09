@@ -38,11 +38,14 @@
                     <!-- <span class="carousel-texttoaudio">{{gettextdata(i)}}</span> -->
                     
                     <!-- <button *ngIf="!IsNextSpeaking(i)" (click)="playcurrentaudio(i)">Play Current Audio</button> -->
-                    <button *ngIf="isFirstSentence(i)"(click)="playcurrentaudio(i)">Play Current Audio</button>
-                    <button *ngIf="!isFirstSentence(i) && !IsNextSpeaking(i)" (click)="playcurrentaudio(i)">Play Next Audio</button>
+                    <button *ngIf="isFirstSentence(i)"(click)="playFirstaudio(i)">Play First Audio</button>
+                    <button *ngIf="!isFirstSentence(i)" (click)="playPreviousaudio(i)">Play Previous Audio</button>
+                    <!-- <button *ngIf="!isFirstSentence(i)" (click)="replaycurrentaudio(i)">Replay Current Audio</button> -->
+                    <button *ngIf="!isFirstSentence(i) && !IsNextSpeaking(i)" (click)="playNextaudio(i)">Play Next Audio</button>
                     <!-- <button *ngIf="IsPaused" (click)="resumeaudio()">resume Audio</button> -->
                     <button *ngIf="IsSpeaking" (click)="stopaudio()">Stop Audio</button>
                     <button *ngIf="IsNextSpeaking(i)" (click)="restartaudio(i)">Restart Audio</button>
+                    <!-- <div>{{speachindex[i]}}</div> -->
                   </div>
                 </ng-template>
             </ngb-carousel>
