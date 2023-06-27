@@ -547,99 +547,101 @@
             "Our Mathematic World Book 5 Spread_Page_18.jpg",
             "Our Mathematic World Book 5 Spread_Page_19.jpg"],
             "pagestexts": [
-                ["Copyright 2022 Caroline Byrd Hornburg, David J. Purpura, The Trustees of Purdue University",
-               "All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means, including photocopying, recording, or other electronic or ",
-               "mechanical methods, without the prior permission of the publisher, except in the case of brief quotations embodied in critical reviews and certain other noncommercial uses permitted by copyright law. ",
-               "For permission requests, write to Dr. David Purpura, purpura@purdue.edu, 1200 W. State St., West Lafayette, IN 47907.",
+                ["Copyright 2023 Caroline Byrd Hornburg, David J. Purpura, The Trustees of Purdue University",
+               "All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means, including photocopying, recording,",
+               "or other electronic or mechanical methods, without the prior permission of the publisher, except in the case of brief quotations embodied in critical reviews ",
+               "and certain other noncommercial uses permitted by copyright law. For permission requests, write to Dr. David Purpura, purpura@purdue.edu, 1202 Mitch Daniels Blvd., Suite 310, West Lafayette, IN 47907.",
                "The development of this book was funded by the Advanced Education Research and Development Fund's (AERDF) EF+Math Program, which was previously fiscally sponsored by NewSchools Venture Fund.",
                "The Our Mathematical World team acknowledges the contributions of teachers and staff from Middletown City School District and Hubbard Media Arts Academy in the development of this book.",
                "Published by: David J. Purpura, West Lafayette, Indiana 47907",
-               "To learn more about the Our Mathematical World book series and the research behind it, visit www.OurMathWorld.com.",
-               "Readers,This book is the fourth in a series of five books developed by the Our Mathematical World team to demonstrate the PULSE problem-solving approach:",
-               "•PauseoTake a deep breath and focus. •Understand and RememberoRead the problem and keep information in mind. •Lay it OutoCreate a plan. •SolveoFind a solution. •EvaluateoDoes the solution make sense?",
+               "To learn more about the Our Mathematical World book series and the research behind it, visit www.OurMathWorld.com",
+               "Readers, This book is the fifth in a series of five books developed by the Our Mathematical World team to demonstrate the PULSE problem-solving approach:",
+               "Pause. Take a deep breath and focus. Understand and Remember. Read the problem and keep information in mind. Lay it Out. Create a plan. Solve. Find a solution. Evaluate. Does the solution make sense?",
                "Follow along with Pilar (pi-lar), Uriah (yur-i-uh), Lamar (luh-mar), Simone (si-moan), and Eduardo (ed-whar-do) as they showcase the PULSE approach to solve the math problems they encounter in this book.",
-               "We hope you enjoy reading! The Our Mathematical World Team"]
-               ,["Suggestions for Readers: The Our Mathematical World team has a few suggestions for how you can use this book: ",
-               "- Each math problem is presented so the answer appears on the page after the problem. Encourage children to solve the problem before turning to the next page to confirm the answer. ",
-               "- The children in the story often have one or two ways to solve a math problem. Ask children if there are additional ways they would solve the problem with their friends. ",
-               "- This story focuses on understanding fractions. Engage children in conversation about the language of fractions. For example, In ½, the numerator is 1 and the denominator is 2.",
-               "- Engage children is discussions about the operations. For example, when Eduardo multiplies, use the visuals to discuss what multiplication means. Also, discuss how multiplication relates to division.",
-               "- When the story emphasizes adding, subtracting, multiplying, or dividing fractions, discuss the meaning of the operations. Use hands-on tools or visuals to help children understand the operation. ",
-               "For example, for ½ × 4, use visuals to show how ½ × 4 is a product of 4/2 and how 4/2 is equivalent to 2.",
-               "- Discuss with children the equivalent decimals and percentages to each fraction. For example, ½ is 0.5 and 50%. ",
-               "Ask children how the calculations with decimals are the same as or different from those with fractions.",
-               "- Have children create their own trail mix to share with the class, and emphasize each fractional part that is contributed to the trail mix. From the Our Mathematical World team: ",
-               "I think [this book is] great for understanding math and how it works. - fourth grade student, Hubbard Media Arts Academy",
-               "Glossary This book contains math-specific vocabulary that helps students explain their mathematical thinking in precise ways. ",
+               "We hope you enjoy reading!",
+               "The Our Mathematical World Team"]
+               ,["Suggestions for Readers:",
+               "The Our Mathematical World team has a few suggestions for how you can use this book:",
+               "Each math problem is presented so the answer appears on the page after the problem. Encourage children to solve the problem before turning to the next page to confirm the answer.",
+               "The children in the story often have one or two ways to solve a math problem. Ask children if there are additional ways they would solve the problem with their friends. ",
+               "In this book, some of the numbers are greater than in previous books. With some of the computation, consider showing the notation for solving of the problems.",
+               "Extend the math. For example, instead of having 40 students on 5 teams, ask children about having 40 students on 10 teams. Relate the math to the children in your school.",
+               "Do some of the book's activities with the children. For example, set up the bowling pin activity and do the same calculations as the book.",
+               "From the Our Mathematical World team:",
+               "This book empowers students to be leaders in their own schools. - Sandra K., teacher, Hubbard Media Arts Academy",
+               "I enjoy the books. They are engaging for my students and the students have come to recognize the characters throughout the story series. - Audrey D., teacher, Hubbard Media Arts Academy",
+               "Special Note:Gabriel Stahl has been an educator with the West Lafayette School Corporation since 2016. ",
+               "He is also a consultant for the Restorative Group, an education consulting firm focused on restorative and trauma-informed practices, social-emotional learning, equity, and improving campus culture and climate. ",
+               "Mr. Stahl is a featured teacher in Book 5 of the Our Mathematical World series and contributed to the development of the book.",
+               "Glossary. This book contains math-specific vocabulary that helps students explain their mathematical thinking in precise ways. ",
                "Below, we list the core math-specific vocabulary words in this book, as well as general vocabulary that may be advanced for some readers.",
-               "Math-Specific Vocabulary: add - to put amounts together or to join to a setdenominator - in a fraction, the number of equal parts of the whole",
-               "divide - to share a set equally among groups or place a set into groups equivalent. - having the same value or naming the same amount. fraction - a number that describes equal parts of a whole",
-               "halves - an area, length, or set divided into two equal parts. mixed number - a number with a whole number and a fraction. ",
-               "multiply - create groups with an equal number in each group or a set compared a number of times. numerator - in a fraction, the parts of the fraction. product - the answer to a multiplication problem",
-               "quotient - the answer to a division problem. sum - the result when putting amounts together or joining to a set. whole - an area, length, or set that can be divided into equal parts",
-               "General Vocabulary: appreciation - expression of thankfulness for something exclaimed - spoke suddenly or with strong feeling. ingredients - items that are needed to cook something",
-               "motivating - encouraging someone to do something. recipe - a list of steps that you follow for how to cook something. repeated - occurring over and over again. ",
-               "strategy - an action plan created to achieve a goal"]
-               ,["Pilar and Uriah were sitting in the park talking when the rest of their friends showed up. ",
-               "Hi, friends, Lamar said. What are you two doing?",
-               "We are writing a card for Ms. Robin, Pilar responded. Next week is Teacher Appreciation Week!",
-               "That’s right! Eduardo said. We can make some sweet treats to bring our six teachers every day!"]
-               ,["We could make chocolate chip cookies for Monday, Simone suggested.",
-               "And trail mix for Tuesday! Pilar exclaimed.",
-               "Great plan! Lamar said. We can plan later for the rest of the week. I have an idea. Let’s collect the ingredients from home and meet at Ms. Crumbs’ bakery to get everything ready.",
-               "See you all soon!” Simone said."]
-               ,["When the group arrived at the bakery, they were greeted by Ms. Crumbs, Hello, everyone! How can I help you?",
-               "Teacher Appreciation week starts tomorrow, and we wanted to know if we could use the bakery to make some treats for our six teachers. We would love to thank our teachers for everything they do,",
-               "Pilar said. Wonderful idea! Ms. Crumbs replied. Of course, you can use the bakery! Thank you, the friends replied."]
-               ,["Let’s start with chocolate chip cookies! Simone said. ",
-               "Ms. Crumbs said, “You can use my favorite recipe. You need ⅓ cup of chocolate chips and ½ pound of cookie dough to make a batch of 6 cookies.",
-               "⅓ is a fraction with 1 as the numerator and 3 as the denominator. ½ is also a fraction with a numerator of 1 and a denominator of 2.",
-               "Ok, that’s great, but maybe we should make 24 cookies so our 6 teachers each get a few cookies, Eduardo said.",
-               "Hmm, I wonder how we can change the recipe to make more cookies? Let’s PAUSE and think, Pilar said."]
-               ,["Good idea! Uriah said. We UNDERSTAND that we must figure out how many batches will make 24 cookies, which will fit on our cookie sheet. ",
-               "We also REMEMBER that this recipe will make 6 cookies, Uriah finished.",
-               "I can LAY OUT a strategy to figure it out! Lamar said. We should divide 24 by 6 and we'll know how many batches to make.",
-               "That’s right, Simone agreed. I can surely SOLVE this problem. 24 divided by 6 is..."]
-               ,["“A quotient of 4!” exclaimed Simone.",
-               "Yes! Eduardo said, I will EVALUATE our solution. When I multiply 6 times 4, that's 24. So, 24 divided by 6 is a quotient of 4.",
-               "We did it! they cheered.",
-               "Now what about the chocolate chips and the cookie dough?” Uriah said.",
-               "Let’s PAUSE and think about this, Pilar said.",
-               "We UNDERSTAND that ½ pound of cookie dough will make 1 batch of cookies. And we REMEMBER we need 4 batches to make 24 cookies, Uriah said.",
-               "We can LAY OUT an addition strategy, Lamar said. We can add ½ 4 times to get our answer."]
-               ,["We can SOLVE this! Simone exclaimed, “½ + ½ = 1 whole, and another ½ + ½ = 1 whole. Added together, that is a sum of 2 pounds of cookie dough.",
-               "Bravo! Eduardo cheered. I can EVALUATE! ½ × 4 = 4/2, which is equivalent to 2.",
-               "We figured it out! Pilar exclaimed."]
-               ,["We still have the chocolate chips, Eduardo remembered.",
-               "We can solve anything once we put our minds to it. Let’s PAUSE and think, Pilar said.",
-               "We UNDERSTAND that 1 batch needs ⅓ cup of chocolate chips. And we REMEMBER that we need the recipe to be 4 times bigger to make 24 cookies, Uriah said.",
-               "Which means I can LAY OUT a multiplication strategy. We could multiply ⅓ × 4 and get the product! Lamar said with excitement.",
-               "I can SOLVE that! Simone said."]
-               ,["The product of 4 × ⅓ is 4/3. We multiplied ⅓ 4 times to get the product of 1 ⅓ cups of chocolate chips needed to make this recipe for 4 batches, said Simone.",
-               "Excellent, now I can EVALUATE! Eduardo said. We know that ⅓ times 4 is 1 ⅓ because if we add ⅓ + ⅓ + ⅓ this is a sum of 3/3, or 1 whole, and adding another ⅓ gives us 1 and ⅓. ",
-               "1 and ⅓ is a mixed number. The friends mixed the ingredients, placed balls of dough on baking sheets, and baked the cookies in the oven."]
-               ,["Thanks to great teamwork, the baked cookies looked delicious!",
-               "Now for our next treat: Trail mix, Simone said.",
-               "Ms. Crumbs said, I have the perfect recipe. You can use 1/6 cup of pretzels, 2/6 cups of raisins, and 3/6 cups of chocolate candies for 1 bag. ",
-               "Notice that each of these fractions has a denominator of 6.",
-               "Sounds easy enough. That means each bag will have 1 cup of trail mix! Uriah replied.",
-               "We need to make one bag for each of our 6 teachers, so how do we make this recipe bigger? Lamar wondered."]
-               ,["Let’s PAUSE and think, Pilar answered. We UNDERSTAND what we need for one bag. We REMEMBER that we should increase the ingredients to make enough for 6 teachers, Uriah shared.",
-               "We can LAY OUT a multiplication strategy and multiply 6 to all of the ingredients, Lamar said. I can SOLVE this problem, Simone announced. "]
-               ,["The product of 1/6 × 6 is 6/6, which is one cup of pretzels. Next, we have 2/6 × 6 which is 12/6, or 2 cups of raisins. ",
-               "Finally, 3/6 × 6 which is a product of 18/6, or 3 cups of chocolate candies. That’s what we need to make all of the trail mix! Simone said.",
-               "Hooray! Eduardo celebrated. Let's EVALUATE. I like to do repeated addition. For the chocolates, I know 3/6 is equivalent to 1/2. If I add 1/2 six times,",
-               "that is a sum of 6 halves, or 3 whole cups of chocolate candies. The friends worked together to mix and bag up the trail mix.",
-               "Wonderful job, everyone! Ms. Crumbs said. Thank you for allowing us to use your bakery, Ms. Crumbs! the friends replied as they packed up their treats."]
-               ,["On Monday, the students arrived early to deliver their tasty treats to their teachers. ",
-               "Good morning teachers! Pilar started, We want to thank you for always being there for us, motivating us to do our best, guiding us to do the right thing, and helping us through difficult situations.",
-               "Thank you! the other students joined in."]
-               ,["Lamar gave the teachers their boxes of cookies and said, We want to show our appreciation by presenting you with homemade chocolate chip cookies today, and more treats all week.",
-               "Ms. Robin replied to the students, On behalf of the team, we appreciate the cookies and are excited about the other treats to come. Thank you for making us feel special."]
-               ,["You’re welcome! Uriah stated, You’ll be happy to know that we used teamwork and our problem-solving skills.",
-               "We PAUSED to focus on the problem first, explained Pilar. Then we made sure to UNDERSTAND and REMEMBER our key information, Uriah said.",
-               "We worked together to LAY OUT an approach to solve the problem, Lamar said. And finally, we would SOLVE and EVALUATE!” exclaimed Simone and Eduardo together.",
-               "The students and teachers all laughed."]
+               "Math-Specific Vocabulary:",
+               "divide - to share a set equally among groups or place a set into groups",
+               "equal - having the same value or naming the same amount",
+               "equivalent - having the same value or naming the same amount",
+               "factor - numbers that are multiplied together to give a product",
+               "multiply - create groups with an equal number in each group or a set compared a number of times",
+               "partial product - when solving a multiplication problem with multiple steps (e.g., 24 x 37), the answer to part of a multiplication problem",
+               "product - the answer to a multiplication problem",
+               "total - the entire amount of a set",
+               "quotient - the answer to a division problem",
+               "General Vocabulary:",
+               "brainstorming - coming up with ideas in a group setting",
+               "encourage - to give support or confidence to someone",
+               "exclaimed - spoke suddenly or with strong feeling",
+               "precise - very exact",
+               "knotted - tied something in a knot"]
+               ,["It was Tuesday afternoon and Mr. Stahl was hosting the student council meeting.",
+               "Students, our Field Day is on Friday. You asked to plan our events this year and I agree it’s a great idea! You will plan games for the entire student body of 600 students. They must be safe and encourage teamwork, Mr. Stahl explained.",
+               "Oh, and one more thing, each game station can only have 40 students at a time for safety reasons, he added.",
+               "I’ll be at my desk if you have any questions, said Mr. Stahl."]
+               ,["The students were excited and started planning right away. ",
+               "Pilar said, Let’s PAUSE and think. We have 600 students, but each station can only have 40 students at a time. How many stations will we need?",
+               "Uriah added, We UNDERSTAND that when you split a group into smaller groups you could use division, and I REMEMBER we need groups of 40.",
+               "Lamar agreed. Let’s LAY OUT a plan. We can divide 600 students into groups of 40 which will give us the number of stations."]
+               ,["Simone said, I can SOLVE this! I can break down 600 into smaller numbers that I can work with first. I know that the product of 40 times 10 is 400, and the product of 40 times 5 is 200. ",
+               "Then, the two partial products added together is 600. So then I know 40 times 15 is 600.",
+               "That means the quotient of 600 divided by 40 is 15!",
+               "Eduardo agreed, That’s right! I will EVALUATE to double check. If we divide 600 students by 40 in each group we will get 15 stations. Great! "]
+               ,["I have an idea! Uriah said. We can divide each game station into 5 teams. This would let more students play at the same time at each station. That way they won’t all be in such a big group.",
+               "Great! Let’s PAUSE and think about how to split into teams. We can have a red, blue, orange, yellow, and green team. Pilar stated.",
+               "Good idea. I UNDERSTAND that we have 40 students at a station at a time, and REMEMBER we should have 5 teams, said Uriah.",
+               "I can LAY OUT a plan to solve. We can divide the group of 40 students by 5 teams, Lamar suggested. "]
+               ,["I can SOLVE. That would give us 8 students on each team! Simone said.",
+               "I will EVALUATE. The product of 8 times 5 is 40. Great job team, Eduardo said. ",
+               "Next the group began brainstorming the games and materials. "]
+               ,["The friends were working hard when Lamar asked for help. I’m working on a bowling game idea with 5 lanes but I can’t figure out how many total pins I need, Lamar said.",
+               "Let’s PAUSE and think first about how many pins you would need for one lane, Pilar said.",
+               "I would need 10, Lamar replied.",
+               "We UNDERSTAND that you can multiply 5 times how many pins you need for one lane to find the total number of pins you need for all 5 lanes, Uriah shared with Lamar.",
+               "Right, Lamar agreed. “That means when we LAY IT OUT we should multiply 5 lanes times the 10 pins in each lane to get the total number of pins.”"]
+               ,["I can SOLVE that, Simone said. The product of 5 x 10 is 50!",
+               "Yes! Eduardo said. I will EVALUATE. 50 divided by 10 is a quotient of 5. Our math is correct! Eduardo cheered.",
+               "Thanks, everyone, Lamar said. But I have one more problem, the bowling pins and the start line where you roll the ball from should be 24 feet apart.",
+               "Ok, so what’s the problem? Eduardo asked."]
+               ,["Mr. Stahl provided us with yardsticks, not rulers, Lamar said.",
+               "Hmm, let’s PAUSE and think, Pilar said. ",
+               "We UNDERSTAND the distance between the starting line and the pins should be 24 feet. I REMEMBER that 3 feet is equivalent to 1 yard, Uriah explained.",
+               "With that information, we can LAY OUT a plan, Lamar announced. 3 times what factor would give us 24? That will tell us how many yardsticks to use. "]
+               ,["Good idea, Simone said. I can SOLVE this! The factor would be 8 because I know the product of 3 times 8 is 24.",
+               "Hooray! Eduardo exclaimed. You’re right, Simone. When we EVALUATE we also know that dividing 24 by 3 gives me a quotient of 8 yardsticks. We did it again!",
+               "Now that we solved the bowling problem, I need help with my ball toss game, Pilar said."]
+               ,["Let’s PAUSE and think first, Pilar said.",
+               "I UNDERSTAND that we have 600 balls and REMEMBER we need to divide them among 5 teams, Uriah said.",
+               "We can LAY OUT a plan for the problem by dividing 600 balls by the 5 teams who will use them. I know that 60 divided by 5 is equal to 12, and we can use that to help us solve 600 divided by 5.” Lamar said.",
+               "I can solve this! Simone stated."]
+               ,["600 divided by 5 is a quotient of 120, Simone said.",
+               "Let’s EVALUATE. I know 12 times 5 is 60, so the product of 120 times 5 is 600. Each team will need 120 balls for the game! Eduardo cheered.",
+               "Great job, team! What else do we need to do to finish getting ready for Field Day? Uriah asked."]
+               ,["Let’s get all of the other games ready, Lamar responded. ",
+               "Pilar gathered sacks for a sack race. Uriah collected soccer balls and cones to make a soccer relay. ",
+               "Lamar and Simone thought about different games to play with a parachute while Eduardo started building an obstacle course."]
+               ,["Just as the students finished, Mr. Stahl returned from his desk.",
+               "Students, do you have the plans completed for Field Day? he asked.",
+               "Yes, we do! exclaimed Pilar. We have bowling, a ball toss game, a sack race, soccer relay, parachute game, and an obstacle course all set up and ready to go!",
+               "Well done! I will review them, along with the other stations we have, and we will have a successful Field Day this Friday, Mr. Stahl announced."]
+               ,["Field Day was a great success. All of the students enjoyed playing the games and having a day full of fun.",
+               "The friends did it again by working together and using the PULSE approach to understand, plan, and solve each problem!"]
                ]
     }
 ]
