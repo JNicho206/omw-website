@@ -56,20 +56,20 @@
         "img": "Amanda_Mayes.jpg",
         "twitter":"mayes_mandy",
         "website":"http://secondactresearch.com",
-        "email":"asmayes@purdue.edu",
+        "email":"",
         "location": "Purdue University"
     },
     {
         "id":6, 
         "fullname":"Tamika McElveen",
-        "title":"Assistant Professor",
-        "description":"Tamika McElveen, Assistant Professor in the Department of Psychology at Miami University, is an Educational Psychologist and her research examines mathematics teaching practices that positively impact students' math identities and achievement. She values opportunities to partner with teachers and students to develop culturally sustaining curriculum and instruction.",
+        "title":"Postdoctoral Research Associate",
+        "description":"Tamika McElveen, Postdoctoral Research Associate at Purdue University, is an Educational Psychologist and her research examines mathematics teaching practices that positively impact students' math identities and achievement. She values opportunities to partner with teachers and students to develop culturally sustaining curriculum and instruction.",
         "type":  "R&D",
         "img": "Tamika_McElveen.jpg",
         "twitter":"TamikaMcElveen",
         "website":"",
         "email":"mcelvet@miamioh.edu",
-        "location": "Miami University"
+        "location": "Purdue University"
     },
     {
         "id":7, 
