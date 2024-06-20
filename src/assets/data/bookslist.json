@@ -643,7 +643,8 @@
                 "Este libro se enfoca en Entiende y Recuerda y Planea, recordando a los estudiantes a leer el problema e identificar información importante, y crear a un plan para resolver el problema ",
                 "Sigan a Pilar, Uriah, Lamar, Simone y Eduardo mientras muestran las estrategias de PULSE para resolver los problemas matemáticos que encuentran en este libro",
                 "¡Esperamos que disfruten leyendo! El equipo de Nuestro Mundo Matemático (Our Mathematical World)"]
-                ,["Sugerencias para las maestras: El equipo de Nuestro Mundo Matemático (Our Mathematical World) tiene algunas sugerencias sobre cómo se puede usar este libro: Cada problema matemático se presenta de manera que la respuesta aparece en la siguiente página.",
+                ,["Sugerencias para las maestras: El equipo de Nuestro Mundo Matemático (Our Mathematical World) tiene algunas sugerencias sobre cómo se puede usar este libro: ",  
+                  "Cada problema matemático se presenta de manera que la respuesta aparece en la siguiente página.",
                 "Anime a sus estudiantes a resolver el problema antes de pasar a la siguente página y confirmar la respuesta. ",
                 "Los niños de la historia a menudo tienen una o dos maneras de resolver el problema matemático. Pregúntele a sus estudiantes si hay maneras adicionales de resolver el problema. ",
                 "A veces, se usan palabras en la historia que podrían llevar a sus estudiantes a usar una sola operación. Por ejemplo, muchos pueden decir que total significa sumar, pero en este cuento, para encontrar el total, los estudiantes tienen que multiplicar. ",
@@ -651,9 +652,9 @@
                 "Busque oportunidades para hablar sobre las matemáticas. Por ejemplo, cuando los niños plantan semillas, crean una matriz. ",
                 "Ayude a los estudiantes a ver cómo la matriz puede representar la multiplicación de una manera similar a los grupos con un número igual en cada grupo. ",
                 "Otro ejemplo es cómo las parcelas cuadradas al principio de la historia podrían llevar a discusiones sobre diferentes formas de cuatro lados ",
-	    	    "(como rectángulos, paralelogramos, trapecios y cuadrados), así como parcelas que son triangulares o de cinco caras, de seis caras, etc. ",
-	    	    "Del equipo de Nuestro Mundo Matemático (Our Mathematical World): Me gustó que (este libro) te enseña cómo usar las matemáticas en la vida diaria. - Estudiante de cuarto grado, Hubbard Media Arts Academy"]
-                ,["Glosario: Este libro contiene vocabulario específico de matemáticas que ayuda a los estudiantes a explicar su pensamiento matemático de manera precisa. ",
+	    	"(como rectángulos, paralelogramos, trapecios y cuadrados), así como parcelas que son triangulares o de cinco caras, de seis caras, etc. ",
+	    	"Del equipo de Nuestro Mundo Matemático (Our Mathematical World): Me gustó que (este libro) te enseña cómo usar las matemáticas en la vida diaria. - Estudiante de cuarto grado, Hubbard Media Arts Academy",
+                "Glosario: Este libro contiene vocabulario específico de matemáticas que ayuda a los estudiantes a explicar su pensamiento matemático de manera precisa. ",
                 "A continuación, le proporcionamos palabras que conforman el vocabulario específico de matemáticas que encontrarán en este libro, y algunas palabras de vocabulario general que podrían ser avanzadas para algunos lectores. ",
                 "Vocabulario específico de matemáticas: agregar/sumar - juntar cantidades o unirlas a un conjunto; división - separar un conjunto equitativamente entre grupos o colocar un conjunto en grupos; igual - tener el mismo valor o la misma cantidad ",
 	    	    "mitad - una de dos partes iguales; multiplicación - grupos que tienen igual número o un conjunto comparado varias veces; multiplicar - crear grupos de igual número o varios conjuntos que son comparables entre si ",
@@ -663,13 +664,13 @@
                 ,["Uriah y Lamar estaban en camino para encontrarse con sus amigos en el almacén de madera. En dos días, el vecindario iba a organizar la gran celebración de apertura del huerto de frutas y verduras. ",
                   "El alcalde Thompson vendría a hablar sobre cómo esto ayudaría al vecindario a ser más saludable. "]
                 ,["Los amigos estaban muy emocionados cuando llegaron. Hola, Sr. y Sra. Oak. Estamos aquí para recoger la madera para las nuevas parcelas del huerto. ",
- 		          "Mmm, bueno, tengo tablas aquí, pero no sé cuántas necesitan. ¿Cuántas parcelas están haciendo?  preguntó la Sra. Oak. ",
+ 		  "Mmm, bueno, tengo tablas aquí, pero no sé cuántas necesitan. ¿Cuántas parcelas están haciendo?  preguntó la Sra. Oak. ",
                  "Pilar comenzó, Hagamos una PAUSA y pensemos. Según nuestro correo electrónico del vecindario, estamos haciendo 10 parcelas de forma cuadrada."]
-		        ,["Uriah saltó de emoción. ¿Tienes la información que necesitamos para resolver este problema?, preguntó Eduardo.",
-		         "Sí, dijo Uriah. ENTIENDO que necesitamos 4 tablas para hacer cada parcela porque un cuadrado tiene 4 lados iguales. RECUERDO que necesitamos hacer 10 parcelas."]
+		,["Uriah saltó de emoción. ¿Tienes la información que necesitamos para resolver este problema?, preguntó Eduardo.",
+		  "Sí, dijo Uriah. ENTIENDO que necesitamos 4 tablas para hacer cada parcela porque un cuadrado tiene 4 lados iguales. RECUERDO que necesitamos hacer 10 parcelas."]
                 ,["Vamos a PLANEAR nuestra estrategia para resolver cuántas tablas necesitamos en total. Podríamos agregar 4 tablas 10 veces para resolver el problema, dijo Lamar. ",
                   "O podríamos resolverlo multiplicando 4 tablas por las 10 parcelas que estamos haciendo. De cualquier manera, nos saldrá un producto de 40 parcelas, dijo Simone con una sonrisa. ",
-	    	      "¡Bravo! El equipo lo hace de nuevo, dijo Eduardo con una sonrisa. Bien hecho, el Sr. Oak felicitó a los amigos. Traigan sus vagones por la parte de atrás y los cargaremos juntos."]
+	    	  "¡Bravo! El equipo lo hace de nuevo, dijo Eduardo con una sonrisa. Bien hecho, el Sr. Oak felicitó a los amigos. Traigan sus vagones por la parte de atrás y los cargaremos juntos."]
                 ,["Con toda la madera que necesitaban en sus vagones, los amigos regresaron al huerto. Hola Sr. Flowers, dijeron los niños. ¿Tienen todas las tablas que necesitamos? Sí, las 40 piezas, dijo Pilar. ",
                   "¡Genial! ¿Y la tierra? Ahora iremos a ver a la Sra. Pebbles a la ferretería por la tierra, exclamó Lamar. No olviden que cada parcela necesita tres bolsas grandes, dijo Sr. Flowers. No se preocupe, Sr. Flowers. Hasta prontito, respondió Eduardo. "]
                 ,["Los amigos llegaron a la tienda de la Sra. Pebbles. Hola Sra. Pebbles. Hola, niños, ¿en qué puedo ayudarles hoy? ",
@@ -739,7 +740,8 @@
                 "Evalúa: ¿Tiene sentido la solución? Este libro se enfoca en Soluciona y Evalúa, que les recuerda a los estudiantes cómo solucionar problemas y evaluar respuestas luego de comprobar si la solución tiene sentido. ",
                 "Sigan a Pilar, Uriah, Lamar, Simone y Eduardo mientras muestran las estrategias de PULSE para resolver los problemas matemáticos que encuentran en este libro",
                 "¡Esperamos que disfruten leyendo! El equipo de Nuestro Mundo Matemático (Our Mathematical World)"]
-                ,["Sugerencias para las maestras: El equipo de Nuestro Mundo Matemático (Our Mathematical World) tiene algunas sugerencias sobre cómo se puede usar este libro. Cada problema matemático se presenta de manera que la respuesta aparece en la siguiente página.",
+                ,["Sugerencias para las maestras: El equipo de Nuestro Mundo Matemático (Our Mathematical World) tiene algunas sugerencias sobre cómo se puede usar este libro: ",  
+                  "Cada problema matemático se presenta de manera que la respuesta aparece en la siguiente página.",
                 "Anime a sus estudiantes a resolver el problema antes de pasar a la siguente página y confirmar la respuesta. ",
                 "Los niños de la historia a menudo tienen una o dos maneras de resolver el problema matemático. Pregúntele a sus estudiantes si hay maneras adicionales de resolver el problema. ",
                 "Involucre a los estudiantes en discusiones sobre cómo las operaciones (por ejemplo la adición, sustracción, multiplicación y división) se relacionan entre sí. ",
@@ -751,8 +753,8 @@
                 "Glosario; Este libro contiene vocabulario específico de matemáticas que ayuda a los estudiantes a explicar su pensamiento matemático de manera precisa. ",
                 "A continuación, le proporcionamos palabras que conforman el vocabulario específico de matemáticas que encontrarán en este libro, y algunas palabras de vocabulario general que podrían ser avanzadas para algunos lectores. ",
                 "Vocabulario específico de matemáticas: agregar/sumar - juntar cantidades o unirlas a un conjunto; cociente - la respuesta a un problema de división; dividir - compartir un conjunto equitativamente entre grupos o colocar un conjunto en grupos ",
-	    	    "igual - tener el mismo valor o la misma cantidad; multiplicar - crear grupos de igual número o varios conjuntos que son comparables entre si; producto - la respuesta de un problema de multiplicación ",
-	    	    "restar - separar un conjunto o comparar dos números; total - el resultado al juntar cantidades o unirlas a un conjunto",
+	    	"igual - tener el mismo valor o la misma cantidad; multiplicar - crear grupos de igual número o varios conjuntos que son comparables entre si; producto - la respuesta de un problema de multiplicación ",
+	    	"restar - separar un conjunto o comparar dos números; total - el resultado al juntar cantidades o unirlas a un conjunto",
                 "Vocabulario general: desafío - una situación difícil; determinar - averiguar algo; estrategia - un plan de acción creado para alcanzar una meta; exclamar - expresar algo en voz alta, con fuerza o emoción ",
                 "polen - polvo amarillo que ayuda a las plantas a reproducirse; polinizar - fertilizar plantas (o flores) al mover el polen de una a otra flor; transferir - mover o cambiar algo de un lugar a otro "]
                 ,["Lamar pasó por el huerto comunitario y vio a Simone y Pilar con el Sr. Flowers. ¡Hola!, dijo Lamar. ¿Qué están haciendo todos? ",
@@ -840,7 +842,8 @@
                 "Este libro se enfoca en Entiende y Recuerda y Planea, recordando a los estudiantes a leer el problema e identificar información importante, y crear a un plan para resolver el problema ",
                 "Sigan a Pilar, Uriah, Lamar, Simone y Eduardo mientras muestran las estrategias de PULSE para resolver los problemas matemáticos que encuentran en este libro",
                 "¡Esperamos que disfruten leyendo! El equipo de Nuestro Mundo Matemático (Our Mathematical World)"]
-                ,["Sugerencias para las maestras: El equipo de Nuestro Mundo Matemático (Our Mathematical World) tiene algunas sugerencias sobre cómo se puede usar este libro: Cada problema matemático se presenta de manera que la respuesta aparece en la siguiente página.",
+                ,["Sugerencias para las maestras: El equipo de Nuestro Mundo Matemático (Our Mathematical World) tiene algunas sugerencias sobre cómo se puede usar este libro: ",  
+                  "Cada problema matemático se presenta de manera que la respuesta aparece en la siguiente página. ",
                 "Anime a sus estudiantes a resolver el problema antes de pasar a la siguente página y confirmar la respuesta. ",
                 "Los niños de la historia a menudo tienen una o dos maneras de resolver el problema matemático. Pregúntele a sus estudiantes si hay maneras adicionales de resolver el problema. ",
                 "Esta historia se enfoca en la comprensión de las fracciones. Converse con sus estudiantes utilizando lenguaje que describa las fracciones. Por ejemplo, puede decir que en la fracción 1/2, el 1 es es numerador y el 2 es el denominador. ",
@@ -944,7 +947,8 @@
                 "Evalúa: ¿Tiene sentido la solución? Este libro se enfoca en Soluciona y Evalúa, que les recuerda a los estudiantes cómo solucionar problemas y evaluar respuestas luego de comprobar si la solución tiene sentido. ",
                 "Sigan a Pilar, Uriah, Lamar, Simone y Eduardo mientras muestran las estrategias de PULSE para resolver los problemas matemáticos que encuentran en este libro ",
                 "¡Esperamos que disfruten leyendo! El equipo de Nuestro Mundo Matemático (Our Mathematical World)"]
-                ,["Sugerencias para las maestras: El equipo de Nuestro Mundo Matemático (Our Mathematical World) tiene algunas sugerencias sobre cómo se puede usar este libro. Cada problema matemático se presenta de manera que la respuesta aparece en la siguiente página.",
+                ,["Sugerencias para las maestras: El equipo de Nuestro Mundo Matemático (Our Mathematical World) tiene algunas sugerencias sobre cómo se puede usar este libro: ",  
+                  "Cada problema matemático se presenta de manera que la respuesta aparece en la siguiente página.",
                 "Anime a sus estudiantes a resolver el problema antes de pasar a la siguente página y confirmar la respuesta. ",
                 "Los niños de la historia a menudo tienen una o dos maneras de resolver el problema matemático. Pregúntele a sus estudiantes si hay maneras adicionales de resolver el problema. ",
                 "En este libro, algunos de los números son más grandes que en libros anteriores. Con algunos de los cálculos, considere mostrar la notación para resolver los problemas. Aproveche las oportunidades de practicar matemáticas. ",
