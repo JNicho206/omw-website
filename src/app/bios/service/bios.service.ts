@@ -1,6 +1,6 @@
 import { HttpClient } from '@angular/common/http';
 import { Injectable } from '@angular/core';
-import { Observable } from 'rxjs';
+import { Observable, map } from 'rxjs';
 import { BiographyProfile } from '../models/biographyprofile';
 
 
@@ -30,6 +30,12 @@ export class BiosService {
   // }
   
  public getallbios(): Observable<BiographyProfile[]> {
-    return this.http.get<BiographyProfile[]>(this._jsonURL);
+    return this.http.get<BiographyProfile[]>(this._jsonURL).pipe(
+      map(bios => bios.sort((a: BiographyProfile, b: BiographyProfile) => {
+        const aLastName = a.fullname.split(' ').pop().toLowerCase();
+        const bLastName = b.fullname.split(' ').pop().toLowerCase();
+        return aLastName.localeCompare(bLastName);
+      }))
+    );
   }
 }

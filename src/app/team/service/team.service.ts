@@ -1,7 +1,8 @@
 import { HttpClient } from '@angular/common/http';
 import { Injectable } from '@angular/core';
-import { Observable } from 'rxjs';
+import { Observable, map } from 'rxjs';
 import { TeamProfile } from '../models/teamprofile';
+import { BiographyProfile } from 'src/app/bios/models/biographyprofile';
 
 @Injectable({
   providedIn: 'root'
@@ -13,6 +14,12 @@ export class TeamService {
   constructor(private http: HttpClient) { }
 
   public getallteams(): Observable<TeamProfile[]> {
-     return this.http.get<TeamProfile[]>(this._jsonURL);
+     return this.http.get<TeamProfile[]>(this._jsonURL).pipe(
+      map(bios => bios.sort((a: BiographyProfile, b: BiographyProfile) => {
+        const aLastName = a.fullname.split(' ').pop().toLowerCase();
+        const bLastName = b.fullname.split(' ').pop().toLowerCase();
+        return aLastName.localeCompare(bLastName);
+      }))
+    );;
    }
 }
