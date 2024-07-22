@@ -15,7 +15,7 @@ export class TeamService {
 
   public getallteams(): Observable<TeamProfile[]> {
      return this.http.get<TeamProfile[]>(this._jsonURL).pipe(
-      map(bios => bios.sort((a: BiographyProfile, b: BiographyProfile) => {
+      map(team => team.sort((a: TeamProfile, b: TeamProfile) => {
         const aLastName = a.fullname.split(' ').pop().toLowerCase();
         const bLastName = b.fullname.split(' ').pop().toLowerCase();
         return aLastName.localeCompare(bLastName);
