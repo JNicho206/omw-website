@@ -18,8 +18,10 @@ export class BiosComponent implements OnInit {
     this.selectedLanguageType = languagetype.ENG;
     this.biosservice.getallbios().subscribe(data => {
       this.fullBiographylist= data.sort(function(a, b){
-        if(a.fullname < b.fullname) { return -1; }
-        if(a.fullname > b.fullname) { return 1; }
+        const aLastName = a.fullname.split(' ').pop().toLowerCase();
+        const bLastName = b.fullname.split(' ').pop().toLowerCase();
+        if(aLastName < bLastName) { return -1; }
+        if(aLastName > bLastName) { return 1; }
         return 0;
     });
       this.updatedataBylanguage();
