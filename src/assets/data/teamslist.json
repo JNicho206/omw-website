@@ -2,14 +2,14 @@
     {
         "id":1, 
         "fullname":"Rob Duncan",
-        "title":"Assistant Professor",
-        "description":"Robert Duncan, Co-Investigator, is an Assistant Professor in the departments of Human Development and Family Studies and Public Health at Purdue University. His research focuses on understanding the connections between children’s early environments and their development of school readiness skills (e.g., language abilities, self-regulation, executive function, academic achievement)",
+        "title":"Associate Professor",
+        "description":"Robert Duncan, Co-Investigator, is an Associate Professor in the department of Human Development and Family Studies at Colorado State University. His research focuses on understanding the connections between children’s early environments and their development of school readiness skills (e.g., language abilities, self-regulation, executive function, academic achievement)",
         "type":  "R&D",
         "img": "Rob_Duncan.jpg",
         "twitter":"rjduncan5",
-        "website":"http://www.purdue.edu/hhs/hdfs/directory/faculty/duncan_robert.html",
-        "email":"",
-        "location": "Purdue University"
+        "website":"",
+        "email":"Rob.Duncan@colostate.edu",
+        "location": "Colorado State University"
     },
     {
         "id":2, 
@@ -27,7 +27,7 @@
         "id":3, 
         "fullname":"Michael Eiland",
         "title":"Senior Research Associate",
-        "description":"Michael Eiland, Senior Research Associate at Purdue University, is an early childhood and elementary mathematics education research scientist. His work focuses on mathematical thinking and learning",
+        "description":"Michael D. Eiland, Senior Research Associate at Purdue University, is an early childhood and elementary mathematics education research scientist. Dr. Eiland's research focuses on mathematical thinking and learning. A former industrial engineer, he enjoys seeing children, especially from underrepresented groups, discover how STEM and its applications positively impacts their daily lives.",
         "type":  "R&D",
         "img": "Michael_Eiland.jpg",
         "twitter":"",
@@ -51,13 +51,13 @@
         "id":5, 
         "fullname":"Amanda Mayes",
         "title":"Project Manager",
-        "description":"Amanda Mayes, Project Manager, is the founder of Second Act Research, Senior Research Associate in Human Development and Family Studies at Purdue University, and a Visiting Assistant Professor in Cornerstone Integrated Liberal Arts. Her research interests include academic and intrinsic impacts of arts experiences, program assessment, curriculum design, and improving cultural competency.",
+        "description":"Amanda Mayes, former Project Manager, is the Data Research Manager at the Delaware Department of Education. Her research interests include early childhood education, academic and intrinsic impacts of arts experiences, acquisition of early math learning skills, improving cultural competency, and the research co-design process.",
         "type":  "R&D",
         "img": "Amanda_Mayes.jpg",
         "twitter":"mayes_mandy",
         "website":"http://secondactresearch.com",
-        "email":"",
-        "location": ""
+        "email":"amanda.mayes@doe.k12.de.us",
+        "location": "Delaware Department of Education"
     },
     {
         "id":6, 
@@ -68,13 +68,13 @@
         "img": "Tamika_McElveen.jpg",
         "twitter":"TamikaMcElveen",
         "website":"",
-        "email":"mcelvet@miamioh.edu",
+        "email":"tmcelvee@purdue.edu",
         "location": "Purdue University"
     },
     {
         "id":7, 
         "fullname":"Gigliana Melzi",
-        "title":"Associate Professor",
+        "title":"Professor",
         "description":"Gigliana Melzi, Co-Investigator, is an Associate Professor in the Department of Applied Psychology and Affiliated Faculty at the Center for Latin American and Caribbean Studies at New York University. Her research focuses on the intersection of culture and linguistic practices and its relation to young children's early learning and development",
         "type":  "R&D",
         "img": "Gigliana_Melzi.jpg",
@@ -87,19 +87,19 @@
         "id":8, 
         "fullname":"Dana Miller-Cotto",
         "title":"Assistant Professor",
-        "description":"Dana Miller-Cotto, Co-Investigator, is an Assistant Professor of Psychological Sciences at Kent State University in Kent, OH.  Her research focuses on how and why executive functions, or the ability to regulate and control actions and cognitions, are related to mathematics skills with the goal of designing learning materials for students along all ability levels. She is also interested in the extent to which children’s early childhood experiences at home and in school promote or inhibit improvement in math and executive functions and how these experiences differ based on race/ethnicity and family income",
+        "description":"Dana Miller-Cotto, Co-Investigator, is an Assistant Professor of Early Childhood Education in the School of Education at the University of California, Berkeley. Her research focuses on how and why executive functions, or the ability to regulate and control actions and cognitions, are related to mathematics skills with the goal of designing learning materials for students along all ability levels. She is also interested in what contextual factors explain differences in executive function by ethnicity/race.",
         "type":  "R&D",
         "img": "Dana_Coto_Miller.jpg",
         "twitter":"danacotto",
         "website":"http://danamillercotto.com",
-        "email":"dmillerc@kent.edu",
-        "location": "Kent State University"
+        "email":"dmillerc@berkeley.edu",
+        "location": "University of California - Berkeley"
     },
     {
         "id":9, 
         "fullname":"Sarah Powell",
-        "title":"Associate Professor",
-        "description":"Sarah Powell, Co-Principal Investigator, is an Associate Professor in the Department of Special Education at The University of Texas at Austin. Sarah conducts research in mathematics for students who experience mathematics difficulty and works on grants related to mathematics read-alouds, word-problem solving, data-based decision making in mathematics, intervention replication, and music in mathematics",
+        "title":"Professor",
+        "description":"Sarah Powell, Co-Principal Investigator, is a Professor in the College of Education at The University of Texas at Austin. Sarah conducts research in mathematics for students who experience mathematics difficulty and works on grants related to mathematics read-alouds, word-problem solving, data-based decision making in mathematics, and intervention replication.",
         "type":  "R&D",
         "img": "Sarah_Powell.jpg",
         "twitter":"sarahpowellphd",
@@ -134,8 +134,8 @@
     {
         "id":12, 
         "fullname":"Andy Ribner",
-        "title":"Postdoctoral Scholar",
-        "description":"Andy Ribner, Co-Investigator, is a postdoctoral scholar in the Kids' Thinking Lab at the University of Pittsburgh. His primary area of study is on the development of children's self-regulatory skills and their role in math learning in and out of classroom settings. He also studies the antecedents and consequences of screen-based media use in young children",
+        "title":"Assistant Professor",
+        "description":"Andy Ribner, Co-Investigator, is an Assistant Professor of Psychology at Chatham University and a Research Associate in the Learning Research and Development Center at the University of Pittsburgh. His primary area of study is on the development of children's self-regulatory skills and their role in math learning in and out of classroom settings. He also studies the antecedents and consequences of screen-based media use in young children",
         "type":  "R&D",
         "img": "Andy_Ribner.jpg",
         "twitter":"andyribner",
@@ -147,7 +147,7 @@
         "id":13, 
         "fullname":"Ma Bernadette Salgarino",
         "title":"Assistant Director",
-        "description":"Dr. Ma Bernadette Andres-Salgarino, Co-Principal Investigator, Assistant Director for iSTEAM of SCCOE is a National Board Certified Teacher, a member of the CA Mathematics Curriculum Framework Committee (2013 & 2021), and an advocate for Rehumanizing Mathematics. She was awarded the Texas Instruments – STEM Teacher of the Year in 2012 and ESUHSD Teacher of the Year in 2013 for her work fostering mathematics literacy and mathematics for social justice",
+        "description":"Dr. Ma Bernadette Andres-Salgarino, Co-Principal Investigator, Assistant Director for iSTEAM of SCCOE is a National Board Certified Teacher, a member of the CA Mathematics Curriculum Framework Committee (2013 & 2023), and an advocate for Rehumanizing Mathematics. She was awarded the Texas Instruments – STEM Teacher of the Year in 2012 and ESUHSD Teacher of the Year in 2013 for her work fostering mathematics literacy and mathematics for social justice",
         "type":  "R&D",
         "img": "Bernedette_Salgarino.jpg",
         "twitter":"salg274",
@@ -175,15 +175,15 @@
         "type":  "R&D",
         "img": "Eric_Wilkey.jpg",
         "twitter":"ericdwilkey",
-        "website":"http://www.ericdwilkey.com",
+        "website":"https://numberlabvu.org/people",
         "email":"eric.d.wilkey@vanderbilt.edu",
         "location": "Vanderbilt University"
     },
     {
         "id":16, 
         "fullname":"Audrey Diaz",
-        "title":"8th Grade Math Teacher",
-        "description":"Audrey Diaz teaches 8th grade Math, Science, and Advisory at Hubbard Media Arts Academy in Alum Rock School District. She has been teaching for 18 years and has taught K-8th grade",
+        "title":"7th & 8th Grade Math & Science Teacher",
+        "description":"Audrey Diaz teaches 7th and 8th grade Math, Science, and Advisory at Hubbard Media Arts Academy in Alum Rock School District. She has been teaching since 2004 and has taught K-8th grade",
         "type":  "DISTRICTPARTNERS",
         "img": "Audrey_Diaz.jpg",
         "twitter":"",
@@ -206,7 +206,7 @@
     {
         "id":18, 
         "fullname":"Sandra Kunze",
-        "title":"Fourth Grade Teacher",
+        "title":"4th Grade Teacher",
         "description":"Sandra Kunze is a 4th Grade Teacher at Hubbard Media Arts Academy with the Alum Rock Union School District. Sandra has worked as an Elementary School Teacher for 9 years, all of which have been with Alum Rock",
         "type":  "DISTRICTPARTNERS",
         "img": "Sandra_Kunze.jpg",
@@ -219,7 +219,7 @@
         "id":19, 
         "fullname":"Danielle Letts",
         "title":"4th & 5th Grade Teacher",
-        "description":"Danielle Letts is a 4th/5th-grade teacher at Hubbard Media Arts Academy in Alum Rock Union Elementary School District in San Jose. She has been teaching in Alum Rock for over 20 years and is involved at both her school site and school district in a number of capacities to support teachers' professional learning",
+        "description":"Danielle Letts is a 4th/5th grade teacher at Hubbard Media Arts Academy in Alum Rock Union Elementary School District in San Jose, California. She has been teaching in Alum Rock since 1999 in a variety of grade levels, the majority being 4th and 5th grade. She has been involved in numerous projects supporting teachers' professional learning and promoting the achievement of all students.",
         "type":  "DISTRICTPARTNERS",
         "img": "Danielle_Letts.jpg",
         "twitter":"",
@@ -382,5 +382,29 @@
         "website":"",
         "email":"",
         "location": ""
+    },
+{
+        "id":33, 
+        "fullname":"Isabel Valdivia",
+        "title":"Research Assistant",
+        "description":"Isabel is a second year Human Development Ph.D. candidate, in the Child and Adolescent Development concentration. She has more than 10 years of experience working in different roles, from high school teacher to vice principal, and professional development coach of teachers and principals, in the school system of her home country, Chile. Currently, her research interests are to produce evidence that informs educators on how to adapt classroom practices to students from different backgrounds to improve their academic achievement. She believes understanding the interplay of executive functions and self-regulation in learning across school grades to be fundamental in this pursuit.",
+        "type":  "R&D",
+        "img": "Isabel_Valdivia.jpg",
+        "twitter":"",
+        "website":"",
+        "email":"isabelvl@vt.edu",
+        "location": "Virginia Tech University"
+    },
+{
+        "id":34, 
+        "fullname":"Jisun Kim",
+        "title":"Research Assistant",
+        "description":"Jisun Kim is a PhD student in the Human Development and Family Science Department at Virginia Tech. She is interested in children's use of interactive media (smart speakers, video chat, eBooks, etc.) in a learning context, and her research focuses on how to support children's effective and engaging learning with media.",
+        "type":  "R&D",
+        "img": "Jisun_Kim.jpg",
+        "twitter":"",
+        "website":"",
+        "email":"jisunk@vt.edu",
+        "location": "Virginia Tech University"
     }
 ]
