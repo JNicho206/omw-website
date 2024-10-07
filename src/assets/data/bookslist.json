@@ -98,9 +98,9 @@
     {
         "id":4,
         "languagetype":"sp",
-        "maintitle":"(SP) Nuestro Mundo Matemático",
-        "title":"(SP) Pilar hace una pausa para resolver problemas",
-        "description":"(SP) Este libro se enfoca en Pausa",
+        "maintitle":"Nuestro Mundo Matemático",
+        "title":"Pilar hace una pausa para resolver problemas",
+        "description":"Este libro se enfoca en \"Pausa\"",
         "coverimg":"Our Mathematic World Book 1 Spanish Spread_Page_01_cropped.jpg",
         "bookimagesfoldername":"OMW Spanish Book 1 Inside Pages Images",
         "pagesimages": [
@@ -205,7 +205,7 @@
         "languagetype":"eng",
         "maintitle":"Our Mathematical World",
         "title":"Uriah Understands and Lamar Lays Out a Plan",
-        "description":"This book focuses on Understand and Remember and Lay It Out",
+        "description":"This book focuses on \"Understand and Remember\" and \"Lay It Out\"",
         "coverimg":"Our Mathematic World Book 2 Spread_Page_01_cropped.jpg",
         "bookimagesfoldername":"OMW English Book 2 Inside Pages Images",
         "pagesimages": [
@@ -302,7 +302,7 @@
         "languagetype":"eng",
         "maintitle":"Our Mathematical World",
         "title":"Simone Solves and Eduardo Evaluates",
-        "description":"This book focuses on Solve and Evaluate",
+        "description":"This book focuses on \"Solve\" and \"Evaluate\"",
         "coverimg":"Our Mathematic World Book 3 Spread_Page_01_cropped.jpg",
         "bookimagesfoldername":"OMW English Book 3 Inside Pages Images",
         "pagesimages": [
@@ -405,7 +405,7 @@
         "languagetype":"eng",
         "maintitle":"Our Mathematical World",
         "title":"Problem Solving with Sweet Treats",
-        "description":"This book focuses on the “PULSE” problem-solving approach",
+        "description":"This book focuses on integrating all fives steps of the \"PULSE\" problem-solving approach",
         "coverimg":"Our Mathematic World Book 4 Spread_Page_01_cropped.jpg",
         "bookimagesfoldername":"OMW English Book 4 Inside Pages Images",
         "pagesimages": [
@@ -510,7 +510,7 @@
         "languagetype":"eng",
         "maintitle":"Our Mathematical World",
         "title":"Solving Problems to Plan for Field Day Fun",
-        "description":"This book focuses on the PULSE problem-solving approach",
+        "description":"This book focuses on integrating all fives steps of the \"PULSE\" problem-solving approach",
         "coverimg":"Our Mathematic World Book 5 Spread_Page_01_cropped.jpg",
         "bookimagesfoldername":"OMW English Book 5 Inside Pages Images",
         "pagesimages": [
@@ -611,9 +611,9 @@
     {
         "id":7,
         "languagetype":"sp",
-        "maintitle":"(SP) Nuestro Mundo Matemático",
-        "title":"(SP) Uriah entiende y Lamar presenta un plan",
-        "description":"(SP) Este libro se enfoca en Entiende y Recuerda y Planea",
+        "maintitle":"Nuestro Mundo Matemático",
+        "title":"Uriah entiende y Lamar presenta un plan",
+        "description":"Este libro se enfoca en \"entiende y recUerda\" y \"pLanea\"",
         "coverimg":"Our Mathematic World Book 2 Spanish Spread_Page_01_cropped.jpg",
         "bookimagesfoldername":"OMW Spanish Book 2 Inside Pages Images",
         "pagesimages": [
@@ -716,9 +716,9 @@
  {
         "id":8,
         "languagetype":"sp",
-        "maintitle":"(SP) Nuestro Mundo Matemático",
-        "title":"(SP) Simone resuelve y Eduardo evalúa",
-        "description":"(SP) Este libro se enfoca en resuelve y evalúa",
+        "maintitle":"Nuestro Mundo Matemático",
+        "title":"Simone resuelve y Eduardo evalúa",
+        "description":"Este libro se enfoca en \"Soluciona\" y \"Evalúa\"",
         "coverimg":"Our Mathematic World Book 3 Spanish Spread_Page_01_cropped.jpg",
         "bookimagesfoldername":"OMW Spanish Book 3 Inside Pages Images",
         "pagesimages": [
@@ -836,9 +836,9 @@
  {
         "id":9,
         "languagetype":"sp",
-        "maintitle":"(SP) Nuestro Mundo Matemático",
-        "title":"(SP) Resolviendo problemas con deliciosas golosinas",
-        "description":"(SP) Resolviendo problemas con deliciosas golosinas",
+        "maintitle":"Nuestro Mundo Matemático",
+        "title":"Resolviendo problemas con deliciosas golosinas",
+        "description":"Este libro se enfoca en integrar y aplicar los cinco pasos de la estrategia \"PULSE\" para resolver problemas matemáticos",
         "coverimg":"Our Mathematic World Book 4 Spanish Spread_Page_01_cropped.jpg",
         "bookimagesfoldername":"OMW Spanish Book 4 Inside Pages Images",
         "pagesimages": [
@@ -960,9 +960,9 @@
  {
         "id":10,
         "languagetype":"sp",
-        "maintitle":"(SP) Nuestro Mundo Matemático",
-        "title":"(SP) Resolviendo problemas para planear un día recreativo divertido",
-        "description":"(SP) Resolviendo problemas para planear un día recreativo divertido",
+        "maintitle":"Nuestro Mundo Matemático",
+        "title":"Resolviendo problemas para planear un día recreativo divertido",
+        "description":"Este libro se enfoca en integrar y aplicar los cinco pasos de la estrategia \"PULSE\" para resolver problemas matemáticos",
         "coverimg":"Our Mathematic World Book 5 Spanish Spread_Page_01_cropped.jpg",
         "bookimagesfoldername":"OMW Spanish Book 5 Inside Pages Images",
         "pagesimages": [
