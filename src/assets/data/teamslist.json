@@ -207,7 +207,7 @@
         "id":18, 
         "fullname":"Sandra Kunze",
         "title":"4th Grade Teacher",
-        "description":"Sandra Kunze is a 4th Grade Teacher at Hubbard Media Arts Academy with the Alum Rock Union School District. Sandra has worked as an Elementary School Teacher since 2013, all of which have been with Alum Rock",
+        "description":"Sandra Kunze is a 4th Grade Teacher at Hubbard Media Arts Academy with the Alum Rock Union School District. Sandra has worked as an Elementary School Teacher since 2010, all of which have been with Alum Rock",
         "type":  "DISTRICTPARTNERS",
         "img": "Sandra_Kunze.jpg",
         "twitter":"",
@@ -393,18 +393,18 @@
         "twitter":"",
         "website":"",
         "email":"isabelvl@vt.edu",
-        "location": "Virginia Tech University"
+        "location": "Virginia Tech"
     },
 {
         "id":34, 
         "fullname":"Jisun Kim",
-        "title":"Research Assistant",
-        "description":"Jisun Kim is a PhD student in the Human Development and Family Science Department at Virginia Tech. She is interested in children's use of interactive media (smart speakers, video chat, eBooks, etc.) in a learning context, and her research focuses on how to support children's effective and engaging learning with media",
+        "title":"Postdoctoral Research Associate",
+        "description":"Jisun Kim is a postdoctoral research associate in the Human Development and Family Science Department at Purdue University. She is interested in children's use of interactive media (AI smart speakers, video chat, eBooks, etc.) in a learning context, and her research focuses on how to support children's effective and engaging learning with media",
         "type":  "R&D",
         "img": "Jisun_Kim.jpg",
         "twitter":"",
         "website":"",
         "email":"jisunk@vt.edu",
-        "location": "Virginia Tech University"
+        "location": "Purdue University"
     }
 ]
