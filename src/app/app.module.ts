@@ -50,6 +50,7 @@ import { MaterialOMWModule } from './material.module';
   bootstrap: [
     AppComponent,
   ],
+  providers: { provide: APP_BASE_HREF, useValue: '/app' },
 })
 export class AppModule {
   constructor(library: FaIconLibrary) {
